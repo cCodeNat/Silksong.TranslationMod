@@ -5,4 +5,4 @@ English -> Japanese -> Korean -> Spanish -> Russian -> Hebrew -> French -> Polis
 
 Translations available only in English. (will add more later)
 
-Inspired by (HollowKnight.TranslationMod)[https://github.com/TheMulhima/HollowKnight.TranslationMod/tree/master].
+Inspired by [HollowKnight.TranslationMod](https://github.com/TheMulhima/HollowKnight.TranslationMod/tree/master).
