@@ -1,0 +1,113 @@
+CREDITS_CHARVOICE_HORNET : wasp
+CREDITS_KNIGHTS_OF_U_SUPPORT_NAME_L : Kamil Krokhian Moroz
+CREDITS_TEST_QA : Testing and quality assurance
+CREDITS_TESTERS_NAMES_L : Detectives Ward Anderson, Matthew Griffin, Sam Griffin, Daniel James Perry, Amash Trubia and Peter Young
+CREDITS_ENVIRONDRESSING : Additional cleaning in the environment
+CREDITS_MUSIC_STRINGS : Chain
+CREDITS_MUSIC_PROD_SUB : Production
+PERMA_GAME_OVER : The game is over
+CREDITS_CHARVOICE_TROBBIO_AND : AND
+CREDITS_MUSIC_EDITING_NAME : Hugo Wagner
+CREDITS_USS_BPORTUGUESE_TITLE : Brazilian Portuguese
+CREDITS_USS_ITALIAN_TITLE : Italian
+CREDITS_THANKS_MUSIC : Thanks for the song and also for the sound.
+CREDITS_MUSIC_WIND_BRASS : Wind and air
+CREDITS_TRANSLATE_CHINESE_NAME : Pin Wu and Hertz Liu
+CREDITS_ORCHESTRA_TYPESET_NAME : Nathan Cummins
+CREDITS_ENVIRONDRESSING_NAME : Tyler Battley, Nathan Elmer and James Ross McNabb
+CREDITS_KNIGHTS_OF_U_SUPPORT_NAME_R : Jacob Augustini Cucarol Fornalchik
+CREDITS_USS_ITALIAN_NAME : Laura Innocenti Rio Cusio
+CREDITS_CONGRATS_BODY_PERMA : You have proved your strength in this great game. Thank you for taking the time to explore and conquer the world of Hollow Knight: Silksong. See you in the next challenge...
+CREDITS_MUSIC_SINGERS_ADDITIONAL_NAME_R : James Scott, Courtney Turner, Jerry Marsh, Hugh Wagner, Brooke Chang.
+CREDITS_ORCHESTRA_TYPESET : Band and font
+CREDITS_EXTRA_THANKS : special thanks
+CREDITS_CHAR_DESIGN_ADDIT_NAME : Makoto Koji
+CREDITS_TRANSLATE_JAPAN_NAME : Ito Ryu's Squid Game
+CREDITS_UNITY_TECH_SUPPORT_NAME_L : Paul Baiserma, Attilio Carotinot and Paul Georges
+CREDITS_TRANSLATE_JAPAN_BASIC : Japanese
+CREDITS_PROGRAM_ADDIT_NAME : I want to escape
+CREDITS_CHARVOICES_NAMES_R : Anna Lillimonte, Mesilax Fern, Thomas Fern, Victoria Franzera Fern, Ned Rogers, Charlotte, Peter Young, Benjamin Zarb
+CREDITS_USS_SPANISH_NAME : Gabriel Perez, Ira Walters, Deborah Peroni, Avi
+CREDITS_UNITY_TECH_SUPPORT_NAME_R : Krakarolis Ozerova by Sebastian Henke
+CREDITS_MUSIC_SINGERS_ADDITIONAL : Various singers
+CREDITS_MUSIC_SINGERS_ADDITIONAL_NAME_L : Victoria Cockhill, Michael Denholm, Christian Evans, Adam Goodburn, Sydney Henbest and Bullock Roberts
+CREDITS_SCORE : Sound and music
+CREDITS_TRANSLATE_CHINESE : Chinese localization
+CREDITS_USS_KOREAN_TITLE : Korean
+CREDITS_USS_BPORTUGUESE_NAME : Simone Verdi Fronza Christine Martin Rafael Antones Doty
+CREDITS_MIC_ENGINEERING_NAME : Eating a blizzard
+CREDITS_CHARVOICES : Moral voices
+CREDITS_USS_GERMAN_NAME : Alessandro Feist
+CREDITS_TEST_LEAD : Test cable
+PERMA_UNLOCK_UNLOCK : find
+CREDITS_CHAR_DESIGN_ADDIT : Character design
+CREDITS_TECH_DIRECT : Technical Director
+PERMA_UNLOCK_BODY : Resurrection is impossible. Death is eternal. This is the real difficulty.
+CREDITS_TEST_LEAD_NAME_R : Benjamin Zverev
+CREDITS_CHARVOICE_TROBBIO_TITLE : i feel
+CREDITS_CHARVOICE_LACE_NAME : mizuki hashimoto
+CREDITS_MUSIC_SINGERS : lead singer
+CREDITS_MUSIC_EDITING : Advanced audio processing
+PERMA_GAME_OVER_CONTINUE : Click any button to continue.
+CREDITS_UNITY_TECH_SUPPORT : Unit support
+MR_MUSH_CONTINUED : continues
+CREDITS_TEST_QA_NAME : Nissim · "Shimach" · Gavriel Binyamin · Tsarev
+CREDITS_GAME_BY : the game
+CREDITS_GAME_BY_NAME : Set of cherries
+CREDITS_TEST_LEAD_NAME_L : Nassim "Simo" Gabriel
+CREDITS_THANKS : special thanks
+CREDITS_ORCHESTRA_TYPESET_MUSIC : Music composition and font
+CREDITS_TRANSLATE_CHINESE_BASIC : Sugar
+TUTORIAL_CREDIT_NAME_01 : Ali Gibson
+TUTORIAL_CREDIT_NAME_02 : William Fearn
+TUTORIAL_CREDIT_NAME_03 : Jack Winn
+TUTORIAL_CREDIT_NAME_04 : Matthew Griffin
+TUTORIAL_CREDIT_NAME_05 : Matthew Griffin
+CREDITS_USS_KOREAN_NAME : Lee Hye Jung and Lee Woo
+CREDITS_TESTERS : Game Test
+TUTORIAL_CREDIT_SCORE : Sound and meaning
+CREDITS_MUSIC_SINGERS_NAME : Aurelia Hulse, Jamie Moffatt and Sioghan Owen
+CREDITS_USSPEAKING : in general
+CREDITS_PROGRAM_ADDIT : additional programming
+CREDITS_USS_RUSSIAN_NAME : Usov Square Yuri Tchenko
+CREDITS_CHARVOICES_NAMES_L : Detective Wade Anderson, Adam Adkins, Eric Baron, Tyler Botrey, Beau Fitzgerald, Matthew Fitzgerald, Naseem "Simo" Gabriel, Matthew Griffin, Lillian Hollitt, Lauren Kupowitz
+CREDITS_SCORE_NAME : Christopher Larkin
+GAME_COMPLETE_PERCENTAGE : percentage
+GAME_COMPLETE_TITLE : complete set
+CREDITS_MIC_ENGINEERING : Microphone and stand
+CREDITS_THANKS_NAME : Ed Bernard, Rohan Fraser, Harrison Gibbins, David Causey, Luke Stobie
+CREDITS_CHARVOICES_ADDITIONAL : Additional character voices
+CREDITS_CHARVOICE_LACE : means of livelihood
+CREDITS_GUITAR : And the rest.
+CREDITS_USS_SPANISH_TITLE : in spanish
+CREDITS_CHARVOICE_HORNET_NAME : Makoto Koji
+CREDITS_CONGRATS_BODY : Patience in darkness and danger. Thank you for exploring the world of Hollow Knight: Silksong. We look forward to your next trip.
+CREDITS_MUSIC_STRINGS_NAME_L : Lachlan Bumble, Timothy Cheer, Linda Galt, Belinda Garrett
+CREDITS_EXTRA_THANKS_TEXT : 2,158 Kickstarter backers
+CREDIT_PROGRAM : Programming systems and equipment
+GAME_COMPLETE_TIME : Time
+CREDITS_USS_RUSSIAN_TITLE : Russia
+CREDITS_TRANSLATE_FRENCH : French location
+CREDITS_EXTRA_THANKS_SETH_TEXT : Seth Goldman
+TUTORIAL_CREDIT_GAME : the game
+CREDITS_KNIGHTS_OF_U_SUPPORT : Article U
+CREDITS_MUSIC_CREATURE_VOCALS_NAME : white team
+CREDITS_SOUND_ASSIST : Another atmosphere
+CREDITS_LETH : Marketing and promotion
+CREDITS_CHARVOICE_TROBBIO_NAME : Matteo Trubiani
+CREDITS_SOUND_ASSIST_NAME : white team
+CREDITS_MUSIC_CREATURE_VOCALS : Additional voice textures for creatures
+CREDITS_TRANSLATE_FRENCH_BASIC : french
+CREDITS_CONGRATS : Congratulations
+CREDITS_MUSIC_PROD : Music and sound
+CREDITS_TRANSLATE_GENERIC : Please
+CREDITS_TRANSLATE_FRENCH_NAME : Charles
+CREDITS_TRANSLATE_JAPAN : Japanese location
+CREDITS_USS_GERMAN_TITLE : german
+CREDITS_MUSIC_WIND_BRASS_NAME_L : Mitch Blick, Nathan Cummins, Peter Duggan, Samantha Hennessy, Ed Courtenay
+CREDITS_TRANSLATION : Translation
+CREDITS_MUSIC_STRINGS_NAME_R : Belinda Kendall-Smith, Emma Perkins and Gemma Phillips
+PERMA_UNLOCK_TITLE : And still the whole atmosphere in Seoul
+CREDITS_KNIGHTS_OF_U_SUPPORT_NAME : Camilla Clarke Jan Moroziakovo Augustini Cockerell Fornaltic
+CREDITS_MUSIC_WIND_BRASS_NAME_R : Anna Kovil-Pillai, Kathleen Morehead, Jackie Newcomb and Joshua Oates
+PERMA_GAME_OVER_BODY : Only virtue is shown by virtue. May your soul rest in peace.

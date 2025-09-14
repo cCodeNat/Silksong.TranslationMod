@@ -1,0 +1,92 @@
+BELLTOWN_HOUSE_LOCKED : Bell with key.
+WISP_BOMB_PROMPT : Want to build a car?
+CLOVER_LAKE_PLINTH : A wish for us. Seek our grace.
+JUDGE_NURSERY : Born of Param serpent. You were chosen. We drenched the city with sacred gold, carefully armed with sweat. Our treasure will last forever, so that the foot of the sinful serpent will not trample the holy place.
+WEAVE_DARK : A runic book describing the emptiness of forms.
+WEAVE_WHITE_LAKE : Brother spiders swim in living water. The memory of our kings, like silk from an oyster shell, cleanses, binds and comforts.
+DOCKS_NOTE_1 : At speed 7, cast: 30 cannons, 4 cannons Smokerock, 8 cannons Sweetmelt, Faith Token, all workers. 9 Send with haste;
+HANG_MAP_GET_MSG : A large horse map
+CLOVER_MAP_GET_MSG : World map
+UNDERSTORE_MAP_GET_MSG : Doomsday schedule
+CLOVER_LAKE_PLAQUE : When the three popes shed tears, then our holy temple will be built.
+LIBRARY_THEATRE_LINES_ACT3 : We are cursed! The few that remain are cursed, those who suffer. The farm has been cursed three times. Wait, watch and cry in pain. I have lived! Let's cry! I have lived! Let's cry! Let's keep crying. The beautiful village is coming to an end. Now it has come to an end.
+GREY_LORE : Sangh: Save leftovers and never work, throw away food and never starve, cook leftovers and never diet.
+WARD_OATH : The blessing must be recited, but not a single word must be uttered. Weakness. I'm dying. Death. All these things must be banished from our palace.
+SLAB_ORDERS_2 : Sorry, Sunday, Wednesday. I am guilty of the sin of sickness. He regrets swallowing me. I was pardoned after death. I repent, Sunday the 12th. I am guilty of an unspeakable sin. I'm sorry I said no. There was no forgiveness.
+SLAB_ORDERS_1 : Regret, eighth of 13. Sin of pity. He repented while in chains. Remission after death. Repentance, iiij, 13. He committed discord. He repented silently. Remission after death.
+DUSTROACH_GUTS_INSPECT : MacRoach is crushed under a pile of rocks.
+SHAMAN_STONE_CHAPEL : Pain. Eight terrible, terrifying spirits roamed. Twelve were laid on their backs and all their body fluids were drained. The six pilgrims hung there for a long time from exhaustion.
+WARD_LIFT_KEYHOLE : White padlock with surgical symbol.
+WEAVE_HARP_MAP : Fabric runners showing nests.
+SLAB_MAP_GET_MSG : Tile map
+LIBRARY_MAP_GET_MSG : The Whisper Vault board
+SWAMP_STOREROOM : Their shells are ours. Their souls are ours. Our hatred is infinite.
+ARBORIUM_ORDERS : A failed siege. I forget Exile Dignity. Shelwood's personality is irrevocably controlled. Mallord's personality is in crisis, irrevocably. In Denmark, disease is irrevocably defeating fate.
+ARBORIUM_PLAQUE : With the permission of the governor, a monument to Faram was erected here. His memory will never fade.
+WEAVE_WILDS : The rune represents the path that starts from the lighthouse.
+WEB_SHOT_WORKSHOP_PROMPT : Want to fix a broken piano?
+SONGGATE_MAP_GET_MSG : Map of the Great Gate
+TUBE_HUB_NOTICE : Due to the unacceptable number of injuries and illegal deaths, all citizens will be banned from visiting Ventrica. The insects that serve as eternal lamps never die.
+WEAVE_MAP_GET_MSG : Atlas and map of the union
+SHELLGRAVE : The pilgrims sing a song for those who lie here in silence, who have lost their strength and fallen before the final climb.
+ABYSS_MAP_GET_MSG : Map of the Abyss
+STEEL_QUEST_SPOT_3 : I finally understand... Iron Boy's purpose has become bolder... I know what this fugitive insect wants and the carving clearly shows where it is. His plan is dangerous and terrible. It will undoubtedly lead to destruction. We must act now to stop him.
+WEB_SHOT_WORKSHOP_MSG : Ancient paintings show the making of rune-woven weapons.
+ABYSS_HARP_MAP : A rune representing the Abyss.
+WEAVE_WORKSHOP_SCROLL : My sister's spider lives among the salt and stones, creates wonderful ideas and tools, and helps us while our threads dry.
+STONE_GATE_NOKEY : An old stone gate with a simple lock.
+WEAVE_HARP_SHELLWOOD : Brother spider, tie a branch to the bark of a tree, watch out for insects, you will be safe.
+CORAL_JUDGE_STORE : Born of Param serpent. You were chosen. We drenched the city with sacred gold, carefully armed with sweat. Our treasure will last forever, so that the foot of the sinful serpent will not trample the holy place.
+PINSMITH_SIGN : I went to pay my respects at his grave in the Big Forest. - The end of Master Freny
+HARP_MAP_PROMPT : Want to buy a ticket?
+SLAB_WEAVER_GATE : The penitents were first in line. Condemned for the sin of heresy. Answer for absolution. Apologies rejected.
+CRADLE_CAGE_01 : Weaver, the last of the eight clans, frail with age, was tracked down and captured in the Sand Sea Desert. During this campaign, seven members of the choir and nine messengers disappeared.
+MAGNETITE_OUTCROP : The magnet reaches the surface.
+JAIL_ACT3_POCKET : Outer pockets made of fabric or recycled material.
+WEAVE_HARP_MOSSTOWN : Look at the granny, the spider, the moss, these insects are born from the underworld, with a passion that leads them to be born unconsciously and in our cobwebs.
+WEAVE_PEAK : Brother Spider, if you wish to communicate with the being at the top of this mountain, please consider taking on this challenge, which is beyond our ability. When you reach the summit and discover what awaits you, remember that the gift you have been given is your choice. The danger of death is a great danger of understanding.
+BILEHAVEN_PLAQUE : Hate the light, hate the heel. Hate the deep, endless drop. Fill your heart with hate. Now there is power and we will be punished.
+SHELLWOOD_SHRINE_SIGN : Here we worship the species that nourish the forest, and by whose grace all the insects in song unite in perfect safety.
+AQUEDUCT_MAP_GET_MSG : Corruption of Vein's Table
+CORAL_ZAP_CORPSE : The hard part is coming.
+WARD_MAP_GET_MSG : Whiteward map
+WEAVER_SPIRE : A girl from a distant land.
+DOCKS_NOTE_2 : If the prisoners continue to release them. Only those released can stop production.
+SONG_KNIGHT_TUBE : Empty boxes and broken machines.
+GREY_ORDERS : For the eighth harvest: Send 50 meters of yarn and 9 meters of thread, collect 14 meters of yarn and write loyalty pledges to all workers. For the twelfth harvest: Send 40 meters of yarn and 2 meters of twine and write a pledge of loyalty to all workers.
+CURIOUS_PILGRIM_DIARY : In the air, in the water, everywhere. Inside the shell. Disfigured face. Mind, heart trembling. Palpitations, nausea. Living death? Or more violent. Even deeper. If you can't see it.
+DOCKS_FLINTSTONE_BUCKET : A quivering bucket full of flint.
+BELLTOWN_OUTER_SIGN : Pilgrims: This city is for all who walk the holy path. Protect your inner armor and new strength will carry you to new heights.
+MOSSTOWN_STONE : Little Weaver, you have protected us with your grace and healed us with your thread. We sing of your infinite mercy.
+JAIL_ACT3_POCKET_PROMPT : Want to expand your toolbox?
+UNDERSTORE_MAP : Below is a general map of the institution.
+PEAK_DJ_TUNING_FORK : The old system no longer exists.
+LIBRARY_THEATRE_LINES : Ah, land, where the fires have died! Choirs and conductors became ill. Listen! Beware! This flame still burning, the butterfly fluttering welcome, When the mighty lightning strikes the stage at last, Every bell shall ring and every voice resound.
+ABYSS_LORE_STONE_BASE : To remove our fears, remove our desires, to purify and empty us, so that we never suffer again.
+PINSTRESS_SUMMONS : Last time I was taken on a giant roller coaster. If anyone dares to defy his mortal mind, let him come into the storm and fight me. - Tension pin
+SHAMAN_STORE_ROOM : With flickering fire. Five cobweb ghosts that touch the soul and pull it to itself. The four stones reverberated and turned to dust. Three bullets, recently fired by unknown assailants, surrounded it and allowed it to grow.
+CRADLE_CAGE_02 : Weaver was seriously wounded in the last battle of the Eighth Ward. There he was tracked down and captured by the Black Cambers. Four members of the choir and the elders died in the battle.
+CITADEL_MAP_PROMPT : A vehicle showing a model of the palace.
+STEEL_QUEST_SPOT_2 : The other was where the Boy of Steel played golf. The vassals also used the same camp and another ceremony, then unfinished, was performed. It was truly terrifying. Don't they think they've been followed? It was scrawled, but the words were terrifying... and desperate.
+WISP_BOMB : Flammable or explosive material.
+COG_FLIER : Development of hardware and equipment for autonomous flying vehicles.
+ABYSS_LORE_STONE_TOP : Your voice in the silence, your image in the dark, the last soul you seek, the shells yearn for your embrace.
+PILGRIM_REST_SIGN : Those who were faithful were led to Ilgarim. This is a resting place between the two circles for the highest believers.
+WEAVER_FIRST : Half of the children are in a distant country...
+BONETOWN_TOP_SIGN : "My son," I replied as I went upstairs. "I have risen to join the elders in the hallowed halls. One day you will be strong against us."
+AQUEDUCT_MAP : This is an old painting depicting a decaying aquatic plant.
+WEAVE_ARCHIVE_RIGHT : They turn their gaze away from this darkness. Prepare yourselves, my sisters. Shine a ray of hope. I will destroy this cursed trap created by our ignorance.
+BANK_DOOR_INSPECT : The kits lock the doors with simple keys.
+SONG_KNIGHT_TUBE_PROMPT : Want to install a tool?
+CORAL_JUDGEMENT_SIGN : Travelers, accept the judgment of this world. Those who stand on the holy pinnacle of the Burning Gates show that their desires and aspirations are pure.
+TAKE_MAP_PROMPT : Want to buy a ticket?
+CLOVER_OATH_PLAQUE : It is believed that two sons were born, far apart and married, so that their skills in dance, song and sword could dominate; however, they were never born forgotten, and as a result, these born lovers are eternally cursed.
+ARBORIUM_MAP_GET_MSG : memory card
+TROBBIO_SIGN : The great insect house! Bring me on stage, lament the fall of the republic. Let us all sing with Paruma's love!
+CRADLE_MAP_GET_MSG : Up to the map
+STEEL_QUEST_SPOT_1 : This area was marked by the men of steel. Despite the camp's historical past, ritual symbols are evident here. The exact intentions of the soldiers are unclear, but they do not appear to have succeeded. Other marked areas may have their own intentions.
+CRADLE_CAGE_03 : Weaver was the last person sent on a four-man mission. He found them and led them to the city of Ferrea. Eight choirs and twelve special messengers were lost in the mission.
+COG_MAP_GET_MSG : Main landing gear table door
+UNDERSTORE_CHURCH : We followers of Hasidic Judaism can receive this holy light as we stand in the splendor of the palace.
+HALLS_MAP_GET_MSG : Coral Plan
+SLAB_MAP_PROMPT : Envelope between paper printed on cardboard.

@@ -1,0 +1,170 @@
+PROFILE_INCOMPATIBLE : Reverse version
+UI_MENU_STYLE_HORNET : Silio the Italian
+LANG_CURRENT : English
+UI_MENU_STYLE_ABYSS : stones
+SCREEN_AUDIO : the sound
+PAUSE_CONTINUE : continues
+GAME_CAMERA_SHAKE : Camera movement
+TROPHIES_BASE_SET_TEXT : Hollow Knight: Silky Cuts
+BUTTON_ATTACK : Iron
+VIDEO_DISPLAY : See:
+OPTIONS_KEYBOARD : Keyboard
+CTRL_REMAP : Some government discrimination
+SCREEN_GAMEPAD_REMAP : Report yourself to the manager
+PS4_SAVE_IMPORT_RESULT_FAILED : {0} of {1}PS4™ files were not imported. Please free up storage space to import the files to your PS4™.
+BUTTON_LOOK : shown / shown
+SCREEN_GAMEPAD : Animals
+CTRL_DETACHED : The controller is disconnected
+OS_SLIDER : stairs
+KEYBOARD_NONE : Not available
+UI_MENU_STYLE_SURFACE : class
+MODAL_ENGAGE_CONTROLLER : Click any button to begin.
+UI_MENU_ACHIEVEMENTS_XB1 : May you be happy
+UI_MENU_ACHIEVEMENTS_PS4 : Persians
+DESC_LANG : Change the list of languages
+OPTIONS_CREDITS : loan
+CTRL_UNMAPPED : not visible
+PROFILE_CLEAR_CONFIRM : you are heavy
+BUTTON_RIGHT : Well
+DESC_PARTICLES : On high-performance systems, reduce this value for better results.
+KEYBOARD_PRESSKEY : ,
+VIDEO_FULLSCREEN : full screen mode
+LOADING : The weight...
+NAV_BACK : Back
+PLAYER_VOICE_OPTION_LABEL : a man's voice
+MOH_OFF : close
+GAME_NATIVE_ACHIEVEMENTS_SWITCH : Specialist studies
+PS4_SAVE_IMPORT_PROGRESS : Import saved data
+MOH_NORMAL : in general
+MODAL_ENGAGE_PENDING : Loading user profile.
+SWITCH_FRAMERATE_DESC : High frequency motor mode for monitors that support 120 Hz. The Senate is reduced.
+MODE_STEEL : Seoul steel
+BUTTON_MAP : map
+CTRL_PRESSBUTTON : ,
+RESTORE_AUTOSAVE_PROMPT_SUB : (Default entries will be removed)
+TROPHIES_BASE_SET_TITLE : Hollow Knight: Silk Cut
+OS_INSTRUCT : Move the cursor until the frame touches part of the screen.
+PS5_ACTIVITY_CARD_NAME : Play Hollow Knight: Silksong
+AUDIO_SOUND_VOL : Tie
+AUDIO_MASTER_VOL : main clause
+PROFILE_DEFEATED : He denied it
+OPTIONS_AUDIO : the sound
+STEEL_MODE_TEXT : Resurrection is impossible. Death is eternal.
+AUDIO_MUSIC_VOL : the sound of music
+MAIN_SWITCH_USER : change user
+DESC_VSYNC : Prevents the film from tearing. This feature makes the screen brighter.
+BUTTON_DREAM_NAIL : Needlin
+RESTORE_SAVE_SELECTION_TITLE : Discover InVisual
+BUTTON_DASH : the beginning
+BUTTON_JUMP : Ours
+UI_MENU_STYLE : Menu Style:
+VIDEO_BRIGHTNESS : bitterness
+UI_MENU_RUMBLE : The obstacle
+MODAL_QUIT_TO_MENU : Want to save money and go out?
+UI_MENU_STYLE_CURSED : gray mud
+DESC_FRAME_CAP : Limit maximum frame rate for consistent performance.
+DESC_BACKER_NAMES : Kickstarter lists the names of applicants and the amounts of the donation.
+BUTTON_INVENTORY : List
+BUTTON_TAUNT : An idea
+DESC_HUD_VISIBILITY : SHELL changes the balance. If disabled, this option will be reset when you exit the game.
+BUTTON_INVENTORY_MAP : map
+VIDEO_SHADERS : As a dye
+VID_OPT_BORDERLESS : unlimited
+SCREEN_EXTRAS : A blessing
+SAVE_WARNING : This game automatically saves data at certain times. When this icon appears, do not close your account.
+MOH_LOW : paper
+BUTTON_MOVE : Excellent
+GAME_CONTROLLER_RUMBLE : The obstacle
+MOH_SMALL : Small
+GAME_NATIVE_ACHIEVEMENTS : Show results
+MAIN_EXTRAS : A blessing
+OPTIONS_VIDEO : I see
+MAIN_ACHIEVEMENTS : May you be happy
+UI_MENU_STYLE_CRADLE : Yorichago
+OPEN_CONTROLLER : It is recommended to use a control device.
+OPTIONS_CONTROLLER : Animals
+BUTTON_EMPTY : ,
+GAME_BACKER_NAMES : They are found in the newcomers
+PLAYER_VOICE_OPTION_DESC : Listen to the hero's voice when he explores or fights.
+ACHIEVEMENTS_BASE_SET_TITLE : Hollow Knight: Adventures in Silk Poetry
+MAIN_START : Start the game
+DESC_SHADERS : On high-performance systems, reduce this value for better results.
+PAUSE_OPTIONS : Location
+MOH_LARGE : Excellent
+BUTTON_PAUSE : Pause the menu
+PS4_SAVE_IMPORT_SEARCH_FAIL : No matching records were found.
+PS4_SAVE_IMPORT_RESULT_SUCCESS : {0} / {1} PS4™ files not imported.
+MODAL_PROGRESS_EXHIBITION : There was no internet.
+ACHIEVEMENTS_BASE_SET_TEXT : Cavae Eques: On Italian Affairs.
+CTRL_NONE : The controller is disconnected
+TEXT_SKIP_PROMPT : Click any button to continue.
+VIDEO_PARTICLES : Special effects
+PAUSE_MAIN : To the menu
+PROFILE_LOADING : The weight...
+PROFILE_NEW_GAME : new game
+MOH_HIGH : delay
+MODAL_CONNECT_CONTROLLER_PROMPT : Continue to connect to the controller.
+MODE_SELECT : choose a method
+UI_MENU_STYLE_STEEL : steel
+MODAL_PROGRESS : Your progress will be assured.
+VIDEO_RESOLUTION : decide
+CTRL_NO_ACTIVE_DESC : Press the button on the remote or plug in a new controller and start playing.
+MODAL_KEEP_RES : Do you want to save a new solution?
+BRIGHT_INSTRUCT : Adjust the desired amount of glaze.
+VIDEO_RESOLUTION_ULTRAWIDE : (Beta)
+NAV_YES : YES
+MODAL_NO_SAVE : Do you want to continue playing without logging in? Your progress will not be saved.
+NORMAL_MODE_TEXT : The method of reading tation.
+BUTTON_LEFT : Still
+BUTTON_SUPER_DASH : Please
+PS5_ACTIVITY_CARD_LABEL : History
+MODE_NORMAL : Classic
+BUTTON_DOWN : paper
+SCREEN_OPTIONS : Location
+MOH_MED : semi-
+NAV_RESET : there is no default value
+RESTORE_AUTOSAVE_PROMPT : Do you want to go back to the auto save feature?
+UI_MENU_STYLE_SONG : Songcha sang
+MAIN_OPTIONS : Location
+VIDEO_FRAME_CAP : Frame rate mode
+NAV_DONE : Last time
+SAVE_IMPORT_CONFIRM : you are heavy
+PS4_SAVE_IMPORT_LABEL : Import save data from PS4™
+BUTTON_UP : We are tall
+VIDEO_OVERSCAN : "collaborative text ladder"
+BUTTON_INVENTORY_TOOLS : past
+KEYBOARD_UNMAPPED : not visible
+BUTTON_CAST : necessary"
+SCREEN_ACHIEVEMENTS : May you be happy
+PROFILE_INCOMPATIBLE_SMALL : A game update is required
+BUTTON_INVENTORY_JOURNAL : magazine
+PROFILE_CLEAR_PROMPT : Do you want to delete your profile?
+MOH_ON : your wife
+EXTRAS_CREDITS : loan
+CTRL_NO_ACTIVE : No active manager
+SCREEN_KEYBOARD : Keyboard
+GAME_LANGUAGE : Language
+DESC_NATIVE_ACHIEVEMENTS_SWITCH : When you get an achievement, a message will appear in the game.
+SREEN_SAVE_PROFILES_DEMO : Select an area
+VIDEO_VSYNC : Vertical sync
+BRIGHT_SLIDER : bitterness
+NAV_APPLY_TRUE : I will skip
+SCREEN_VIDEO : I see
+GAME_CONTROLLER_VIBRATION : Vibration
+SWITCH_FRAMERATE : Frame rate in TV mode
+MODAL_RESTART : to tear down?
+SCREEN_GAME : game options
+MODAL_QUIT_GAME : Do you want to quit the game?
+SCREEN_SAVE_PROFILES : select a profile
+BUTTON_INVENTORY_QUESTS : Please
+DESC_NATIVE_ACHIEVEMENTS : When the event is implemented, a message will appear in the game.
+PROFILE_CORRUPTED : The content cannot be published.
+BUTTON_QCAST : Technology / Tools
+MOH_REDUCED : NEAR
+NAV_NO : NO
+PAUSE_MAIN_EXHIBITION : Get started
+UI_MENU_ACHIEVEMENTS_ALT : Application
+MAIN_QUIT : The game is over
+GAME_HUD_VISIBILITY : set up a monitor
+OPTIONS_GAME : the game
+NAV_APPLY : Back

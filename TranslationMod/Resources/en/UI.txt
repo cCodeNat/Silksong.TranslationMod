@@ -1,0 +1,394 @@
+INV_DESC_MOSSBERRY : It is a sweet fruit that grows in a moist environment. Its seeds are poisonous to most animals.
+INV_NAME_DRESS_BROLLY : Tourist robe
+INV_NAME_SHELL_FLOWER : Heart polyps
+RELIC_SEAL_CHIT_MEMORIUM_DESC : About cancer memory and its treatments. "Loneliness, distraction. Amnesia. Extinction from without. Support from within. Stasis support from Sheldon. Remember. Tomb from Lord Stasis. Remember."
+INV_NAME_HEART_BLOOM : The heart of the dust
+INV_DESC_SHARD_POUCH_USE : {0} contains shell fragments.
+CTRL_ZOOM_OUT : reduce
+INV_NAME_MEMENTO_FLEA : Memories of Flitfair
+INV_DESC_CRAWBELL : A nest made from an old bell. After the bell has been placed, the chicks sometimes build a nest inside it and fill it with debris and balls. The clock can also be placed outside the house.
+INV_NAME_MAPANDQUILL : Board and pencil
+CTRL_ROLL : Galileo
+INV_DESC_ROCK_ROLLER_ITEM : It is like a stone gem. It burns with flammable sparks and can explode if broken or dropped.
+INV_NAME_R_PSALM_CYL_MELODY : Holy cylinder
+SHOP_SHELLFRAG_NAME : Chip's Mask
+INV_DESC_CREST_SOCKET : A monument full of precious memories. It allows you to enlarge images. To do this, go to the "Icons" menu in the menu.
+GET_JOURNAL_1 : When you defeat an enemy, an entry will be added to your journal.
+GET_JOURNAL_2 : In the log window, check the menu to see fallen enemies.
+OPT_MENU_BACK_BUTTON : Back
+INV_DESC_TOOLPOUCH : A harmless bag designed to store tools, nets and craft materials.
+INV_NAME_NAIL2 : a needle
+INV_DESC_SPRINT_MEMENTO : The Gold Cup was awarded to the fastest car in the Master Sprint Race.
+INV_DESC_COG_HEART : The heart of the complex gear system consists of a series of gears and controls.
+INV_NAME_R_ANCIENT_EGG : Hidden egg
+KEY_TUBE : In Natorika
+MATERIUM_UPDATE_MSG : New message from the topic
+INV_NAME_SLAB_KEY_C : traitor Key
+INV_NAME_SLAB_KEY_B : key price
+COLLECTION_HEADING_MATERIUM : decorate
+INV_DESC_HEART_HUNTER : The dance of the bones is the celebration of the heart of the Carmelites. The rhythm is fluid and dynamic.
+SHOP_REPAIR_CONFIRM : Can this product be repaired?
+RELIC_BONE_RECORD_UNDERMAP_DESC : On the dirty cloth is written: "How much have we suffered. Were we really chosen or did we sin unknowingly and now we are being punished?"
+INV_DESC_SKILL_SILKBOMB : Forgotten weaving techniques. Use runes to destroy your enemies.
+INV_NAME_SKILL_SPHERE : Current storm
+INV_NAME_MORSEL_SHREDDED : Of different bodies
+ITEM_GIVEN_MSG : {0} is provided
+INV_NAME_SKILL_PARRY : I sewed the cross
+INV_NAME_TOOL_METAL : metal products
+INV_NAME_TOKEN_FAITH : Every key
+CTRL_TAKE : battle
+INV_DESC_HEART_PIECE_FULL : An ancient caterpillar made of cold, blue, white mineral. This mask protects the wearer and prevents damage from weapons.
+RELIC_PSALM_CYLINDER_LIBRARY_DESC : The voices of the choir are heard in sacred hymns.
+INV_DESC_BELLCLAPPER_ITEM : Professionally crafted from polished metal.
+INV_NAME_BROKEN_SILKSHOT : A broken record
+INV_DESC_SONGPILGRIM_CLOAK_ITEM : A cloth worn by pilgrims at the entrance to the palace. This thick material protected them from wind and cold.
+INV_DESC_GOURMAND_VINTAGE_NECTAR : Quality honey that has gone through a complex maturation process and is preserved for a long time by aphids.
+INV_DESC_SILK_GRUB : The caterpillar, which lives and feeds on the remains, makes silk. It is born with the ability to sense silk from a distance.
+SILK_RATION_MACHINE_JAMMED : The car is stuck.
+OPT_MENU_MUSIC_VOL : music volume;
+INV_NAME_R_WEAVER_TOTEM : sculpture of a weaver
+INV_MSG_TOOLPOUCH_UPGRADE : Expanded toolkit
+KEY_BELLWAY : Bellevue
+INV_NAME_BELL_HOUSE_KEY : they measure the key of the hourglass
+INV_DESC_CORAL_CHUNK : Dense coral mass. Although it is not suitable for tool making, it is believed to have numerous medicinal properties due to its processing methods.
+INV_DESC_SLAB_KEYRING : Key to the Slavic cell and route.
+INV_NAME_GOURMAND_VINTAGE_NECTAR : He loves
+INV_NAME_NAIL3 : Foot needle
+CTRL_DONATE : to participate in something
+UI_BLANK : 
+INV_DESC_COIN_MID : Pearls are obtained from polished oyster shells. Their value increases with the processing of the material.
+INV_DESC_DOCK_KEY : A small practical key that allows you to open the safety lid of the deep tank.
+INV_NAME_SPOOL_PIECE_HALF : Coil parts
+SHOP_PURCHASE_CONFIRM : Do you want to buy the product?
+MAT_NAME_SMELTSTONE : and the Flintstones
+MAP_UPDATED : Map updates
+INV_DESC_MORSEL_SHREDDED : Meat obtained from dead animals. It is carefully cut into pieces.
+INV_DESC_DRESS_APP_FLY_FULL : The strong smell of Paris is everywhere.
+USE_ITEM_PROMPT : Do you want to use {0}?
+INV_DESC_ROACH_CORPSE_ITEM : Fresh tuna. Strong, sharp, strong and dirty. Not suitable for consumption by most people.
+RELIC_BONE_RECORD_WISP_DESC : A folded scroll inscribed with a prayer to the fiery serpent: "Long live thy ardor! O flame of glory, thou hast made us, thou hast destroyed us. Thou hast reduced our shell to ashes."
+INV_DESC_BLUE_GOOP_FULL : Seed of Life: A regenerating fluid obtained from a ripe sprout.
+CTRL_PLAY : the game
+PANE_SKILLS : Talent
+INV_NAME_DOCK_KEY : I attribute it to Aeschylus
+INV_NAME_R_WEAVER_RECORD : Ronald Bailey
+PANE_BESTIARY : magazine
+INV_NAME_FINEPIN : small needle
+RELIC_WEAVER_RECORD_WEAVE08_DESC : From the nest below come the weaver's words: "Hide deep. This despised child. Hidden in the iron shell of our shame. This sacred desire is a thinly veiled god."
+CTRL_EXIT : Go
+CTRL_UNEQUIP : Download tools
+INV_DESC_SETH_MEMENTO : An old boat sails from the tunnel. In honor of his great art.
+INV_DESC_COIN_SET_M2 : The beans are obtained from a mixture of ordinary and fine stones. These stones are fragile and are used for commercial purposes.
+INV_DESC_NAIL2 : A long, balanced sword, specially designed for combat. Its edge was razor sharp.
+INV_NAME_GOURMAND_CORAL_INGREDIENT : Creston
+INV_NAME_HEART_PIECE_NONE : 
+INV_NAME_MEMENTO_GARMOND : The memory of a brave man
+INV_NAME_SKILL_EVAHEAL : Song of the Sylphs
+INV_NAME_DRESS_REG : hidden cloak
+RELIC_SEAL_CHIT_CITY_MERCHANT_DESC : The director's final command: "And so the infinite was born. With the claws, knobs and twists of the craftsman, he joyfully welcomes the final form of this spirit. The sound is unmistakable and indissoluble."
+ITEM_TAKEN_MSG : {0} received
+INV_NAME_SKILL_SPRINT : fast speed
+INV_NAME_SKILL_ASCENT : Silk soap
+INV_NAME_POUCHANDTOOLKIT : Tool boxes and DIY kits
+INV_DESC_SHELL_FLOWER : Sap forms around the root of the mushroom and from this liquid a sticky liquid is separated which is necessary for the stomach to survive.
+INV_NAME_THREAD : silk
+INV_DESC_PLINNEY_TOOLS : Anne McGee's Rare Feline Sylphide. A skilled craftsman can use hot liquid to sharpen the plates.
+INV_DESC_R_BONE_RECORD : A rough testimony of scratches and bones, left by a fallen stranger.
+CTRL_HIDE_PINS : hide the PIN number
+RELIC_SEAL_CHIT_WARDCORPSE_DESC : Surgeon's order: "Adok collapsed under the silk sutures. CPR was not performed. He committed a crime. He will not return. His body will be cremated. Remove the remains."
+INV_DESC_BROODMOTHER_REMAINS : A gelatinous organ obtained from a tree that falls vertically.
+INV_DESC_PLASMIUM_GLAND : A pulsating organ that grows from the Gyrotor Alchemist's neck. These glands regenerate slowly and provide an inexhaustible supply of plasma. No additional plasma is required to make new vials.
+PANE_TOOLS : past
+INV_NAME_ROCK_ROLLER_ITEM : Flint
+RELIC_ANCIENT_EGG_DESC : This technology is very old. It has many complexities. They are almost invisible. Without a will, without a soul, without a shadow.
+ITEM_DEPOSITED_MSG : {0} sent
+INV_NAME_SHARD_POUCH : a few pieces
+INV_DESC_MEMENTO_SURFACE : Above the factory is an old ornament from an unknown village.
+INV_NAME_SHININGCOG : A lot of pain
+INV_NAME_R_BONE_RECORD : oral membrane
+INV_DESC_THREAD : This versatile thread is naturally produced from shells. Collecting enough silk allows you to heal wounds or use your abilities. It showers the enemy with silk support.
+INV_DESC_SPOOL_PIECE_FULL : This weaving technique has been passed down from generation to generation and used to collect and store excess silk.
+CTRL_HIDE_KEY : Hide the key
+INV_NAME_SKILL_SILKDASH : a hard blow delivered
+INV_DESC_SHARD : Hard shells and pieces of bone were used to make tools and nets.
+INV_DESC_THREAD_HEART : Silk thread is produced naturally by ossification. A sufficient amount of silk can heal wounds or increase strength. Silk hearts automatically regenerate into silk. Silk regenerates when enemies are killed.
+INV_NAME_JOURNAL : A hunter's diary
+INV_DESC_SHININGCOG : The motor body is new. Even with heavy use, it does not scratch the metal.
+INV_NAME_PRISTINE_CORE : Core
+INV_NAME_SETH_MEMENTO : I miss the guards
+INV_DESC_PRISTINE_CORE : The internal drilling system is complex and can be broken down into separate parts for production use.
+INV_NAME_WHITE_FLOWER : Always blooming
+INV_DESC_SKILL_MEMORY_MELODY : Listen, I'll make an old memory.
+INV_NAME_CREST_SOCKET_PLURAL : The memory of the rocket
+INV_DESC_HEART_CORAL : King Krum Khan's heart beat slowly and deeply.
+INV_DESC_PICKLEDEGG : He offered a spicy plate of pickled cockroaches. One of Chef Le Guerre's most famous dishes.
+INV_DESC_SPOOL_PIECE_NONE : 
+INV_DESC_BROKEN_SILKSHOT : Old, broken and useless device. It can be repaired by an expert technician.
+INV_TOOLKIT_UPGRADES_TITLE : damage to equipment
+RELIC_SEAL_CHIT_ASPID_DESC : Order of a dirty, decrepit palace. "The White Dragon Empire Hall is barren. Split the weavers in two. The last of their kind. Seeking the power of silk. Fearing resistance. They are locked in a runic cage."
+INV_DESC_VOID : A luminous object in the darkness of the sea at the origin of the world.
+INV_NAME_SKILL_CHARGESLASH : needle stick
+INV_NAME_MEMENTO_GREY : gray memories
+INV_DESC_SK_FRAGMENT : A large vertebra taken from the skeleton of a scavenger.
+INV_NAME_SILK_GRUB : Silk Lunch
+INV_NAME_TOOLPOUCH : Toolbox
+RELIC_PSALM_CYLINDER_GRINDLE_DESC : The head of salvation.
+INV_DESC_SLAB_KEYRING_SINGLE_SWAMP : A key that opens the door to a specific room or corridor, engraved on a stone tablet with the word "Renegade".
+INV_NAME_NAIL4 : steel needle honeycomb
+INV_NAME_CREST_SOCKET : The memory of the rocket
+INV_NAME_PILGRIM_RAGS_ITEM : a stranger's scarf
+INV_DESC_MATERIUM : Test tubes and containers used to store, record and test various things. These materials can be collected at home.
+INV_DESC_WHITE_FLOWER : Press a flower plucked from a distant and deep memory. It radiates a soft, luminous light and reflects absence.
+INV_NAME_MEMENTO_CROWMAN : Raven's memory
+INV_DESC_NAIL3 : A long, balanced sewing tool, designed specifically for combat. The tip still shines.
+CTRL_CANCEL : cancel
+MAT_NAME_VOLTSTONE : Voltridian
+CTRL_CONFIRM : Check
+SHOP_SELECT_PAINT : Choice of colors
+REQUIRED_MATERIAL : necessary"
+KEY_FLEA : The missing part
+INV_DESC_NAIL4 : A long, deadly weapon, balanced for combat. The sharp edge of the protruding cage imitates iron.
+INV_DESC_QUILL : It's a useful tool for logging your trips. It's also a great way to update purchased files.
+CTRL_MARKER_PLACE : Please
+CTRL_CRAFT : Artifacts
+INV_DESC_SILKBOSS_NEEDLE : Originating from a primitive silk technique, the thread can be pulled with claws to identify enemies.
+CONSUMABLE_MAX_SHOP_DESC : The more the better
+INV_NAME_SPINE : Spinal cord
+RELIC_WEAVER_TOTEM_BONETOWN_DESC : A cloak, a piece of kamura. About him it is written: "Heal our children." Hearts quiver with fear, limbs tremble at the ascent.
+INV_TOOLPOUCH_UPGRADES_TITLE : Room bag
+INV_DESC_WALLJUMP : This is an ancient weaving technique that allows them to cling, jump and lift themselves quickly on vertical surfaces.
+INV_NAME_COG_HEART_PIECES : Part of the heart is the heart
+INV_NAME_CORAL_CHUNK : hawk piece
+INV_DESC_GROWSTONE : Cold stone and steel have amazing regenerative properties. If they break, they eventually regenerate;
+INV_NAME_SPRINT_MEMENTO : Master Sprint Memory
+INV_DESC_TOKEN_FAITH : A simple rusty key. Many people are used to hair. Occasionally they break after one use.
+INV_NAME_SONGPILGRIM_CLOAK_ITEM : Short scarf
+INV_DESC_TOOL_METAL : This rare element occurs naturally in Paruma stones and bones. Professional craftsmen use it to make tools and accessories.
+INV_NAME_PICKLEDEGG : Macamago is busy
+INV_DESC_COG_HEART_PIECES : These two elements form the basis of the transmission system, which includes wheels and control devices.
+INV_DESC_MOMENTO_HEART_EXTRA : You can use hearts to decorate your home.
+TAKE_ITEM_PROMPT : Do you want to buy {0}?
+INV_NAME_GREAT_SHARD : part of an animal
+INV_DESC_MEMENTO_FLEA : Only true flea lovers received a unique symbolic award.
+CTRL_LEAVE : Go away
+INV_NAME_SKILL_MEMORY_MELODY : Elegy of the Abyss
+INV_DESC_SKILL_BELLBEAST_MELODY : Immediately call the animal and return to your mother.
+MAT_NAME_LIFEBLOOD : Plasma
+INV_DESC_POUCHANDTOOLKIT : The bag is used to store nets, tools and certain devices to increase impact.
+MAT_NAME_SILK : silk
+INV_NAME_SKILL_BELLBEAST_MELODY : Two-way conversation
+INV_NAME_HEART_PIECE_MULT : Chip's Mask
+INV_NAME_HUNTER_MEMENTO : comments to the hunter
+MAT_DESC_VOLTSTONE : A durable medium that enables the collection, storage and operation of electrical energy.
+CTRL_GIVE : Contribution
+INV_DESC_R_WEAVER_TOTEM : Ancient figure made of woven bones. Beans cut into its body.
+INV_DESC_SNARE_SOUL_SWAMP : A broken shell containing the soul of a long-dead insect.
+INV_NAME_QUILL : Fire pen
+INV_DESC_GOURMAND_MOSSBERRY_STEW : Thick soup and syrup made from seaweed and druidic herbs. Sweet and fragrant, but poisonous to most creatures.
+INV_DESC_COIN_SET_USE : {0} contains gems.
+OPT_MENU_APPLY_BUTTON : I will skip
+INV_DESC_SKILL_PARRY : The art of achieving true descriptive unity. Wrap the needle in silk to block the enemy's attacks and immediately counterattack.
+INV_DESC_COIN_BIG : Crafted with exquisite craftsmanship, this brilliant gem is the rarest and most precious gemstone in Paru.
+GIVE_ITEM_PROMPT : Can you give me {0}?
+KEY_BENCH : OR
+INV_DESC_SPOOL_PIECE_HALF : Half of the handicrafts come from the textile industry. This sector is used to collect and store silk. Finished strands can be wrapped in a cover for added protection.
+OPT_MENU_SOUND_VOL : Volume:
+INV_NAME_CRAW_SUMMONS : Ring the claws
+INV_DESC_SKILL_THROW : The death of the weavers must be excommunicated: the needle is thrown from the growing thread.
+INV_DESC_HEART_PIECE_NONE : 
+RELIC_SEAL_CHIT_SILK_SIPHON : A weary message came from the citadel: "The voice is lost, the shell is broken and shattered. Hueius has been chosen for the most sacred work: let him be our light, our guide in the darkness, and gather others worthy in sacred song."
+INV_DESC_MORSEL_SPEARED : Flesh of fallen creatures. Short of a spear, but harmless.
+INV_DESC_MEMENTO_GARMOND : The remains of the village were destroyed due to Paruma's curse.
+INV_NAME_CROW_FEATHER : Rogfeld
+PANE_MAP : map
+INV_DESC_HEART_PIECE_1 : In ancient times, masks were used to protect against danger. After wearing them, a person becomes stronger and protected from injury.
+INV_NAME_COIN_BIG : pearl necklace
+INV_DESC_R_PSALM_CYL : The recorded sounds are engraved on the metal cylinders of the Palace and can be listened to through a gramophone.
+COLLECTION_HEADING_LIBRARIAN : Cylinder
+INV_NAME_CONCHFLY_REMAINS : Shell needle
+INV_NAME_BROODMOTHER_REMAINS : My mother's eyes opened
+SHOP_SELL_CONFIRM : Do you sell products?
+INV_NAME_MORSEL_SEARED : fried organs
+SILK_RATION_MACHINE_EMPTY : The car is empty.
+RELIC_BONE_RECORD_GREYCOR_DESC : The last words of the lost pilgrim were written on the lost tapes: "Better to die in the soft darkness than to be the companion of the wretched, shut up in the vast space, and suffer disgrace until one's limbs are dust."
+INV_NAME_WARD_KEY : white button
+INV_NAME_ANT_TRAPPER_ITEM : A complete doll
+INV_NAME_SLAB_KEY_A : Lazy programmer
+INV_NAME_BLUE_GOOP_PICKUP : They lose plasma
+CTRL_STOP : the taking of freedom
+INV_DESC_MAPANDQUILL : Town map and travel blog style. Placed on a bench or other surface, it will display recently discovered locations on the map.
+INV_DESC_SKILL_SPHERE : The Weaver's Deadly Step. He winds a needle in silk and strikes his enemies.
+CTRL_REPAIR : To repair
+INV_NAME_ROACH_CORPSE_ITEM : Cockroach roots
+INV_NAME_WARD_BOSS_KEY : medical key
+INV_DESC_SKILL_NEEDOLIN : The Weaver's Sacred Discipline. He plays old melodies with silk thread threaded through a needle.
+INV_DESC_SKILL_EVAHEAL : The essence of the core dissolves itself from within. Resting on the bench renews the silk's life.
+INV_DESC_R_PSALM_CYL_MELODY : The castle's metal cylinders carry the melodies of the graves, which can be heard on the phonograph.
+MAT_DESC_SMELTSTONE : A standing stone is excavated from the lighthouse beach. The camp blacksmiths are employed.
+INV_DESC_COG_HEART_PIECE : The heart of the transmission is a complex gear adjustment system.
+INV_DESC_DRESS_BROLLY : The protective bib is only sewn with elastic at the back.
+INV_DESC_HUNTER_MEMENTO : This seal, the symbol of true hunters, is woven into a rubber ball.
+SHOP_PURCHASE_COMPLETE : He bought some things
+INV_DESC_GOURMAND_CORAL_INGREDIENT : The hard, hairy seed is collected in the center of the seed. Delicate, but bruised, pungent, aromatic, aromatic;
+INV_DESC_GREAT_SHARD_USE : {0} The shells are broken.
+INV_NAME_COIN_SET_M2 : heavy necklace
+INV_NAME_SPOOL_PIECE_NONE : 
+INV_NAME_GROWSTONE : Stone stone
+RELIC_PSALM_CYLINDER_HANG_DESC : The chorus is based on the theme of ascension.
+INV_NAME_VOID : People
+CTRL_PLAY_GAME : the game
+PANE_QUESTS : Please
+INV_DESC_R_WEAVER_RECORD : An ancient weaving tool covered in silk runes. The ancient runeweaver's words are desolation.
+COMPLETED : Complete
+INV_DESC_SLAB_KEYRING_SINGLE : The key, engraved with the word "Desidia", opens access to certain rooms or passages on the stone tablet.
+INV_NAME_HEART_PIECE_1 : Chip's Mask
+INV_DESC_CROW_FEATHER : The torn skin was removed from the shrimp carcass. It is considered waste because of its appearance, both beautiful and ugly.
+INV_DESC_SKILL_SILKDASH : An expert weaver's skill pierces the enemy with a silken sword.
+CTRL_MARKER_REMOVE : eliminate
+GIVE_SHARDS_PROMPT : Can you give me a bite of oyster?
+CTRL_MARKER_CHANGE : Changing letters
+INV_DESC_CONCHFLY_REMAINS : The hard part that protrudes from the end of the horapari puta.
+GIVE_ITEMS_PROMPT : What are you going to give me?
+INV_DESC_SHARD_POUCH : A small piece of shell tied with string. Can be used for artistic purposes.
+INV_NAME_MOSSBERRY : Mossbury
+INV_NAME_BEASTFLY_REMAINS : Corner piece
+INSTALL_ITEM_PROMPT : Do you want to install {0}?
+INV_DESC_SNARE_SOUL_BELLHERMIT : A heavy bell, filled with the radiant soul of the ringer.
+CTRL_EQUIP : of weapons
+INV_MSG_TOOLKIT : CNN
+COMPLETION_RATE_UNLOCKED : You can check the fill mode in the list.
+INV_NAME_SNARE_SOUL_SWAMP : soul searching
+RELIC_BONE_RECORD_BONEEAST_DESC : Burned book, on which is written "The Stranger". "Our friend's brothers are dead."
+INV_DESC_MORSEL_SEARED : The meat of dead animals is fried to greatly improve the taste.
+MAT_DESC_LIFEBLOOD : The liquid seed of life, with amazing regenerative properties. An exotic substance from Faram, created by the alchemist Gyrotor.
+CTRL_ZOOM_IN : Expansion
+INV_DESC_DRESS_DJ : Protective material with soft, padded lining and sewn-in elastic nose piece.
+CTRL_TRAVEL : trip
+INV_NAME_MAP : map
+INV_NAME_SKILL_SILKBOMB : Rune of Wrath
+CONSUMABLE_MAX_POPUP : The more the better
+INV_DESC_BEASTFLY_REMAINS : A hard horn made from a dead wild fly.
+KEY_CARAVAN : Free video
+INV_DESC_SKILL_ASCENT : Study of Ancient Texts. Let's dive deeper and soar towards the amazing.
+INV_NAME_COIN_MID : pearl oysters
+INV_DESC_SKILL_HARPOON : Like a skilled weaver, he pokes the silk as if it were cotton with a needle and directs it towards the street.
+PANE_JOURNAL : magazine
+RELIC_SEAL_CHIT_SLABCORPSE_DESC : The abbot's words: "To you, who have been chosen for the choir, the grace of the ruler of the choir is mercifully granted."
+INV_DESC_COIN_SET_L : Heavy pearl necklace. Pearls are fragile and are used commercially.
+KEY_SHOP : supplier
+RELIC_WEAVER_TOTEM_WITCH_DESC : A journey that Chirli went on. It reads the prayer: "Blessed Weaver, Goddess of Mercy, protect us in our sins, in our weaknesses and even in our weak voices."
+INV_NAME_SKILL_NEEDOLIN : Needlin
+INV_DESC_SILK_GRUB_FUNCTION : Drink while in line to regain cover in a losing battle.
+INV_DESC_RELIC : This work, a souvenir that reflects the village's past, attracts the attention of collectors of historical art.
+INV_DESC_COIN_SET_F : Old rosary. The cut buttons can be used for various purposes.
+INV_NAME_SLAB_KEYRING : Chip key
+INV_DESC_COIN_SET_S : A small rosary. This can be replaced with a shorter one.
+INV_DESC_R_SEAL_CHIT : Castle Manda Once the glittering seal was destroyed.
+MAIN_MENU_START_GAME : Start the game
+INV_DESC_MEMENTO_CROWMAN : Mark of the Raven in the Iron Palace. He forgives all past and future sins.
+INV_NAME_HEART_CORAL : the heart is made
+INV_MSG_NEEDLE_UPGRADE : to sharpen the needle
+SHOP_SPOOL_SEGMENT_NAME : Coil parts
+INV_NAME_BLUE_GOOP : Plasma
+INV_DESC_MEMENTO_GREY : Pebbles, made of sand, colored by time... Look back... Remember...
+INV_DESC_DOCK_DEMO_KEY : A small key works. It opens the door in the middle of deep water.
+INV_DESC_SKILL_SPRINT : The great art of the weaver; where he slid and leapt upon the silk, and ran with incredible speed.
+INV_NAME_SKILL_THROW : A silky spear
+CTRL_BUY : Buyer
+GIVE_ROSARIES_PROMPT : can you give me a bouquet of flowers
+ITEM_DESTROYED_MSG : {0} broken
+INV_NAME_SPOOL_PIECE_FULL : He breaks the silk
+INV_DESC_MOMENTO_EXTRA : Gift items can be used to decorate the home.
+INV_NAME_NAIL5 : yellow steel needle
+INV_NAME_DOCK_DEMO_KEY : door key
+INV_NAME_COG_HEART : Heartmaker
+CTRL_ACCEPT : purchase
+ENCOUNTERED : Clothes;
+INV_NAME_COG_HEART_PIECE : Part of the heart is the heart
+INV_MSG_TOOLKIT_ALT : Expand your skills
+RELIC_WEAVER_RECORD_SPRINT_DESC : The weaver stood by the fire and called, "Run, sister."
+CTRL_NEXT : Then
+INV_DESC_PILGRIM_RAGS_ITEM : Worn by countless pilgrims over the years, this simple garment has been torn, repaired and improved countless times.
+INV_NAME_WITCH_ITEM : tightly inserted
+SHOP_SELL_COMPLETE : Products sold
+INV_NAME_PLASMIUM_GLAND : plasma glands
+INV_NAME_MORSEL_SPEARED : salivary organ
+COMPLETION : Complete
+INV_DESC_FIXER_IDOL : A small and awkward thing, but one that carefully creates a solid friendship.
+INV_DESC_NAIL5 : A great hacking tool, hardened and ready for battle. Steel built to Hivesteel's highest standards.
+INV_DESC_PLASMIUM_BLOOD : Organic blood mixed with the liquid seed of life. It has powerful regenerative properties.
+INV_NAME_HEART_PIECE_FULL : Old mask
+YESNO_HINT_SILKMACHINE : Car with wit silk symbol.
+INV_DESC_WARD_BOSS_KEY : Whiteward left the key. It opens the airlock below the operating room.
+INV_NAME_R_SEAL_CHIT : Dance rhythm
+RELIC_WEAVER_RECORD_CONDUCTOR_DESC : The closing words of the text: "Sister spider, the burden is heavy. These simple insects have taken over. They will never stop."
+INV_DESC_GREAT_SHARD : Hard material in the shell of a giant animal. This shell can be broken and used to craft items.
+OPT_MENU_RESOLUTION : To decide
+INV_DESC_HEART_PIECE_MULT : In ancient times, masks were used to protect against danger. After wearing them, a person becomes stronger and protected from injury.
+MAT_NAME_MAGNETITE : Magnetite
+INV_NAME_SKILL_SILKBOSS_NEEDLE : white and blue nails
+INV_NAME_SK_FRAGMENT : a piece of the króna
+INV_DESC_SPINE : The soft fibers were obtained from the stings of street vendors who could rely on expert tailors to make clothes and other items.
+INV_NAME_BELLCLAPPER_ITEM : silver shields
+CTRL_MARKERS : Marketing
+INV_DESC_ARCHITECT_KEY : The blacksmith turns the key and opens the chapel under the workshop.
+INV_DESC_DRESS_REG : Simple protective case. He did well, but showed his traits.
+INV_DESC_FARSIGHT : Weaver has a large selection in stock. Once installed, they provide complete remote monitoring. You may have installed a pest control system in your home.
+INV_NAME_HEART_CLOVER : Unity
+INV_NAME_SHARD : shell fragments
+CTRL_RETURN : Back
+INV_DESC_CRAW_SUMMONS : A letter written on an old black cloth: "Dirty man, . . dark . . listening . . house . . room ..."
+INV_NAME_FIXER_IDOL : Wasp sculpture
+CTRL_SHOW_PINS_KEY : Needles/key display
+COLLECTION_HEADING_MOMENTOS : Man
+INV_DESC_COIN : Beads of various materials were a symbol of religion and currency. Each head was finely carved.
+INV_NAME_WALLJUMP : Lever gives chase
+INV_DESC_HEART_CLOVER : The touching heart of the Green Prince. The beat is crisp and clear.
+INV_NAME_SKILL_HARPOON : Claw
+INV_DESC_SNARE_SOUL_CHURCHKEEPER : We bought a small bottle of Spirale for the chapel.
+MAT_DESC_MAGNETITE : Broken and floating rocks are found in the Faroe Islands.
+INV_DESC_R_ANCIENT_EGG : A black stone egg was formed before Vitan's birth. Relics of ancient participants in the art of Chara-tissimo.
+PANE_INVENTORY : List
+INV_DESC_HEART_BLOOM : Neal's heart was beating faintly but fast.
+INV_DESC_BELL_HOUSE_KEY : The corridor bell in the upper center has been repaired.
+INV_NAME_PLINNEY_TOOLS : Light butter
+INV_NAME_FARSIGHT : Visibility
+SHOP_REPAIR_COMPLETE : Refurbished products
+INV_NAME_GOURMAND_MOSSBERRY_STEW : Blueberry goulash
+INV_NAME_NAIL1 : a needle
+INV_NAME_PLASMIUM_BLOOD : blood
+INV_DESC_WARD_KEY : An elegant metal key in the shape of a surgical instrument. It grants access to the White Castle's defenses.
+INV_NAME_R_PSALM_CYL : For example a column
+INV_DESC_WITCH_ITEM : The brown leaves on the twisted vines rustled incessantly.
+INV_NAME_CRAWBELL : I'm watching
+RELIC_WEAVER_TOTEM_SLAB_BOT_DESC : It's a coin. The words of the prayer are engraved on him: "You are wonderful in my heart and our history is yours, our songs are yours, for your name is holy."
+INV_DESC_DRESS_APP_FLY_HALF : I can smell the Paris lights.
+RELIC_PSALM_CYLINDER_LIBRARY_ROOF_DESC : A ritual sermon that a certain monument keeper must deliver to samurai in training.
+OPT_MENU_TITLE : Location
+INV_NAME_SNARE_SOUL_CHURCHKEEPER : virgin soul
+INV_NAME_HEART_HUNTER : heart hunter
+INV_DESC_NAIL1 : A long, balanced propeller, specially designed for combat. The blade shows signs of wear.
+INV_NAME_MATERIUM : decorate
+MAIN_MENU_OPTIONS : Location
+INV_DESC_R_PSALM_CYL_MELODY_BOARD : The sacred song of the round dome, as the Pope whispers under the dome desires and asks.
+MAIN_MENU_QUIT_GAME : The game is over
+COLLECTION_HEADING_RELICDEALER : Ruins
+INV_NAME_DRESS_DJ : Payment level
+INV_DESC_COIN_SET_M : It is decorated with several buttons, which can be folded and replaced.
+INV_DESC_BLUE_GOOP : Seed of Life: A regenerating fluid obtained from a ripe sprout.
+INV_NAME_ARCHITECT_KEY : the architect's key
+INV_DESC_ANT_TRAPPER_ITEM : Children's toy decorated with figures of insects wearing leaves.
+INV_NAME_SNARE_SOUL_BELLHERMIT : the soul of the saint
+INV_NAME_COIN_SET_S : Margherita pizza
+INV_NAME_COIN_SET_M : Margherita pizza
+INV_NAME_COIN_SET_L : Necklace made of luminous thread
+INV_NAME_MEMENTO_SURFACE : Memory from the surface
+INV_DESC_FINEPIN : He thought well of the Faroma flag. It is in excellent condition, although used a lot. Sharp metal shaft with a beautifully machined edge.
+INV_NAME_COIN_SET_F : the hard thread of the króna
+LANGUAGE_CONFIRM : you are heavy
+CTRL_SELL : Salt
+RELIC_PSALM_CYLINDER_WARD_DESC : The operator's last American operation was performed in Whiteward's operating room.
+INV_DESC_SPOOL_SILKHEARTS : Silk heart
+MAT_DESC_SILK : The most magnificent thread woven by the Spirit of the Creator. Its extraordinary power and mystical influence are the envy of many. It is used to heal wounds, prolong life, and create powerful runes.
+INV_NAME_COIN : Margherita pizza
+INV_DESC_MAP : It's a poker card. Her power station has been partially restored. Wing suspension cannot be repaired.

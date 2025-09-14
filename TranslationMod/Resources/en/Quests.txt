@@ -1,0 +1,359 @@
+Q_SOUL_SNARE_PRE_DESC_WALL : Hi! That annoying waitress! I have a request! Have you read this? Then I came to the Lord. Come on, tell me...
+SQ_MELODY_ARCHITECT_PROMPT : Part of the three-year period is devoted to the work of a musical architect.
+SQ_BLACKTHREAD_5_FLOWER_DESC_END : At Niles, a company of artillery was needed.
+QUEST_COURIER_BONEBOTTOM_NAME : Low offer
+QUEST_DOCTOR_CURSE_CURE_LOC : Yanbei of Graymore
+QUEST_TROBBIO_2_DESC_INV : Use the thunder horn to return to the castle level.
+QUEST_MRMUSHROOM_DESC_END : This fungus is a witness to the passing of time.
+MQ_DIVINGBELL_3_NAME : in the dark
+QUEST_TROBBIO_2_TITLE : pain, sickness, anxiety
+QUEST_ROCK_ROLLERS_LOC : Residents of this area
+QUEST_ROCK_ROLLERS_DESC_WALL : The Flintstones wake up in Merlawe. The gems born in the womb radiate pure, eternal warmth. Recover this treasure and you will be rewarded!
+MQ_CITADEL_ASCENT_DESC_SILK : Let us fight against those who destroy the land of Paruma.
+QUEST_HUNTRESS_NAME : Wider sleeves
+QUEST_FLEAGAMES_LOC : Mushko from Plitafia
+MQ_DIVINGBELL_2_DESC : In open water, help dock, go to the diving bell and release.
+QUEST_PINSTRESS_BATTLE_PRE_DESC_WALL : If the end of the world is near, I'll try one last time. Come to me on the shore and shout my voice!
+MQ_CITADEL_INVESTIGATE_NAME : a quiet place of testimony
+QUEST_PINSTRESS_BATTLE_TITLE : Terrible resolution
+GARMOND_BLACK_THREADED_LOC : Residents of Belhart
+QUEST_STEELSENTINEL_DESC : Search for the remains designated by the Steel Prophet G and discover the location of his vassal.
+QUEST_SHINY_BELL_GOOMBAS_LOC : Residents of Belhart
+QUEST_PINSTRESS_BATTLE_LOC : Finn was worried about the broken ladder
+QUEST_COURIER_FLEATOPIA_NAME : Delivery of class pairs
+QUEST_CROW_PRE_DESC : Talk to Craig in the Grimoire.
+QUEST_BELL_HOUSE_CONT_TITLE : Credit: Belhart
+QUEST_SAVE CITYMERCHANT_LOC : Songklau people
+QUEST_BEASTFLY_DESC_READY : Send the Horn Shard to the Flying Moon on Bellhart to get your reward.
+MQ_CITADEL_SEEKER_DESC : Climb Eretz Pum and reach the kingdom at the top of the kingdom.
+MQ_BLACKTHREAD_5_NAME : Old heart
+Q_SOUL_SNARE_LOC : He longs for the defender's song
+QUEST_BROLLY_GET_DESC : They collect prickly seeds from traders who hunt in the plantations.
+TYPE_HUNT_2_TITLE : Big game
+QUEST_COURIER_SLAVE_NAME : Queen's egg
+QUEST_STEELSENTINEL_DESC_2 : Go to Stillsey Zed and tell him that Sola has escaped.
+QUEST_SHAKRA_FINAL_TITLE : The end of the road
+QUEST_EXTRACTOR_B2_NAME : Advanced alchemy
+QUEST_ROACH_KILL_LOC : trail of sins Kuroro and gasoline
+QUEST_ROCK_ROLLERS_TITLE : fly
+QUEST_SHELL_FLOWER_TITLE : Information about polyps
+QUEST_CROW_PRE_DESC_WALL : These crickets are raging on my roof! I figured out how to contact them but I need help. Contact your home if you can.
+UI_PROMPT_ACCEPT : Ready to bet?
+QUEST_SAVE_COURIER_SHORT_DESC : Follow immediately to find the transit route. This direction was last seen in the lower clay forests.
+MQ_BLACKTHREAD_0_NAME : after the fall
+SQ_BLACKTHREAD_5_ANT_DESC : Win the hunter's heart.
+QUEST_COURIER_FIXER_NAME : Camping gear for the rest
+QUEST_PINSMITHTOOLS_LOC : the castle
+QUEST_PILGRIM_RAGS_DESC_WALL : Crazy and cruel strangers walk the main streets... maybe you put your handkerchiefs on the ground under your feet. Pass them by with true mercy!
+MQ_DIVINGBELL_1_DESC : The way to the lighthouse from the upper station.
+QUEST_COURIER_MASKMAKER_NAME : Liquid paint
+MQ_BLACKTHREAD_5_DESC : We will keep the ancient form of learning alive and well.
+SQ_MELODY_CONDUCTOR_PROMPT : Excerpt from a trio of arias attributed to the conductor.
+QUEST_FLEAS_LOC : Mushok from six to the flea market
+QUEST_BROODMOTHER_DESC_READY : Send the Eye of the Blood Mother to Songclave: Desire Moon to claim your reward.
+QUEST_SPRINT_KILL_TITLE : The fastest in Faro
+COURIER_SUPPLIES_SLAVE_DESC : Inside the delicate egg is a young queen that feeds on the silk. The queen cannot collect silk herself, but as she grows, she will be able to eat more than the queen.
+QUEST_SONGCLAVE_DONATE_LOC : He longs for the defender's song
+MQ_CITADEL_SEEKER_NAME : Daesongseok
+QUEST_BELLHART_DONATION_CONT_LOC : Belhart's Turkey
+QUEST_HUNTRESS_LOC : A hunter with a broken chain.
+TYPE_SPRINT_TITLE : the beginning
+QUEST_WITCH_CURSE_DESC : They arrest the corrupt gunman.
+QUEST_SHAKRA_FINAL_DESC_WALL : "Little girl, trembling under the needle, I smelled the rich fragrance of our Lord in the sunny marshes near the castle. Follow me, we'll meet again at the end of the road."
+QUEST_FLEAS_DESC_READY : Let's go back to Mushoka, who is a member of the bay ship and uses the Marshmallow bay.
+QUEST_FLEAGAMES_PRE_DESC_WALL : As we were warned, bad days are coming. Final exams haven't come yet. Don't forget to stop by an old dive bar called Flitpier.
+SQ_MELODY_LIBRARIAN_LOC : some whispered
+QUEST_COURIER_FIXER_LOC : Fever
+UI_BOARD_REWARD_TITLE : Persians
+QUEST_SAVE_CITYMERCHANT_BRIDGE_DESC : Find a Jubilee merchant and you will find a place. Jubilee was later spotted near the castle memorial.
+QUESTBOARD_PROMPT : words of passion
+QUEST_COURIER_PILGRIMSREST_LOC : Philip rests
+INV_TOGGLE_COMPLETED_ON : See all
+QUEST_SAVE_CITYMERCHANT_BRIDGE_DESC_WALL : Our dear merchant came looking for treasure in this huge palace. He disappeared a long time ago. Find him!
+GARMOND_BLACK_THREADED_DESC : Watch for this dangerous insect near the steps of the Blasted Belvedere.
+QUEST_BROLLY_GET_DESC_READY : Take the base of the statue to the tailor waiting for you at the village crossroads.
+QUEST_EXTRACTOR_B_DESC_INV : Collect the plasma from the germs in the wormhole below. You can extract plasma from the gem with the tip of a fully charged bulb needle.
+COURIER_SUPPLIES_MASK_NAME : Liquid paint
+QUEST_SAVE COURIER_TALL_LOC : in the heart
+SQ_MELODY_CONDUCTOR_LOC : large hall
+MQ_CITADEL_ASCENT_DESC_MELODY_COMPLETABLE : Triguna Raga was played in front of the statue placed in the center of the palace.
+TYPE_DONATE_1_TITLE : to participate in something
+QUEST_SONGCLAVE_DONATE_2_DESC_INV : Donate grain to help the people of Songkhlao.
+QUEST_PINSTRESS_BATTLE_PRE_DESC : Descend the broken steps to feel the thrill and take on her challenge.
+QUEST_ROACH_KILL_TITLE : Cockroach roots
+MQ_THREADSPUN_TOWN_LOC : Belhart
+QUEST_COURIER_FLEATOPIA_LOC : still cool
+TYPE_HUNT_1_TITLE : soon
+COURIER_SUPPLIES_MEAT_TARGET_MASK : There is a traditional mask factory in Mount Fay.
+QUEST_FIXER2_DESC_INV : Donate a turtle piece to help us create the symbol of your dreams.
+QUEST_ANT_TRAPPER_DESC_READY : Willing Moon Bellheart will send you a crystal doll as a reward.
+ITEM_EXTRACTOR_PINS_NAME : Steel column
+QUEST_MOSSBERRY1_PRE_DESC_WALL : Hello! Sorry! Love it! Come on! If you have any valuables, go home and throw them away.
+QUEST_JOURNAL_DESC_READY : Submit the perfect Naked Hunter's Journal to Grimoire Central.
+QUEST_FLEAGAMES_PRE_DESC : Talk to Master Mushuka in Fleet of Fear.
+QUEST_SPRINT_KILL_LOC : Fairfield Sprint Master Fast
+SQ_MELODY_CONDUCTOR_DESC : Find the song of the conductor and discover the golden glow of antiquity in the palace.
+QUEST_FLEAS_TITLE : The missing part
+QUEST_EXTRACTOR_B2_DESC_READY : Give extra blood to the alchemy at the top of the wormhole.
+QUEST_SHELL_FLOWER_LOC : Cursed by the gray bark of the tree
+QUEST_CROW_TITLE : Remove the shrimp.
+COURIER_SUPPLIES_ITEM_TARGET_FIXER : The tradition of the survivors of the Malo camp.
+MQ_TYPE_DEFEAT : He denied it
+MQ_CITADEL_ASCENT_DESC_MELODY : Play the trio's song skillfully and go to the top of the castle.
+SQ_BLACKTHREAD_5_FLOWER_NAME : Heart of the jungle
+MQ_BLACKTHREAD_1_DESC : I met the prefect and his family in a ruined chapel near the main station.
+QUEST_GOURMAND_DESC : I will collect unique flavors.
+QUEST_COURIER_PILGRIMSREST_NAME : Philip's Christmas Surprise
+TYPE_GATHER_1_TITLE : gather together
+SQ_MELODY_ARCHITECT_DESC_GOT : It simply contained me as an artist.
+COURIER_SUPPLIES_MEAT_TARGET_GOURMAND : We met Marvin in the ballroom.
+QUEST_CROW_INV_DESC : Alpheus goes hunting in Gríma and collects his clothes.
+SQ_MELODY_CONDUCTOR_DESC_GOT : I learned the melody from the conductor.
+QUEST_FINEPINS_DESC_WALL : Our colony is unarmed! This situation cannot last long! Prepare for the worst. Let's capture the clock tower. Its sword is still sharp and powerful.
+MQ_BELLSHRINES_NAME : A large door
+QUEST_STEELSENTINEL_TITLE : Lost vassal
+QUEST_MOSSBERRY1_TITLE : And take the strawberries
+QUEST_ROCK_ROLLERS_DESC_INV : Find and kill Flint Scarabs in Malva with Flint Gems. You can hunt them using flint shells and scented excrement.
+QUEST_SAVE_CITYMERCHANT_DESC : Find the happy merchant and follow his travels. The last jubilee was seen in the lower choir.
+QUEST_BELL_HOUSE_CONT_DESC_INV : Pull the strings to help Bellhart recover.
+QUEST_FIXER2_TITLE : it means hope
+QUEST_SHINY_BELL_GOOMBAS_TITLE : Silver watch
+QUEST_SAVE COURIER_SHORT_LOC : Belhart Dam
+QUEST_DOCTOR_CURSE_CURE_DESC : Get Iron Spikes from Krul and Benjin in Sin's Journey to help the Yranavi get rid of the parasites.
+QUEST_COURIER_SONGCLAVE_DESC : Delivering supplies to Songklava's assistants.
+QUEST_CROW_INV_DESC_READY : Give Craig's skin, which is the core of the Grimoire.
+QUEST_DOCTOR_CURSE_CURE_NAME : Hedging business
+QUEST_PINSMITHTOOLS_DESC_READY : To send the yellow oil to Prince Blahart.
+QUEST_BROODMOTHER_DESC_WALL : A cry rose from the prison near the palace. What blasphemy had been recognized?
+INV_TOGGLE_COMPLETED_OFF : I will hide you completely
+MQ_DIVINGBELL_3_DESC : Use Bella Diva on the dock to reach Parum.
+QUEST_SONGCLAVE_LOC : Songklau people
+MQ_BLACKTHREAD_2_NAME : in the dark
+QUEST_PILGRIM_RAGS_LOC : Residents of this area
+QUEST_SONGCLAVE_DONATE_2_DESC_WALL : What are these poor dead insects wandering around in a place like this? They are emptying their bellies and looking for shelter! Please empty your bags, because we need more pearls.
+QUEST_THREADCORES_TITLE : your heart is in darkness
+QUEST_BROODMOTHER_DESC : Find it moaning on the plains and destroy it. Continue along the mountain path.
+ITEM_EXTRACTOR_PINS_DESC : The forged, heavy-duty plugs are suitable for use with heavy equipment and will penetrate even the hardest bullets.
+MQ_TYPE_BELLSHRINES : open
+MQ_BLACKTHREAD_4_DESC : Return to Snell Sherman in the Ruined Chapel near Bonebottom.
+QUEST_THREADCORES_DESC : To destroy the air mass in the lighthouse.
+QUEST_FINEPINS_DESC_INV : They will follow the emblem-bearing insects into the Citadel Choir and collect their wondrous emblems.
+QUEST_COURIER_FLEATOPIA_DESC : Return the materials to Free Master Musuka in the palace.
+QUEST_EXTRACTOR_LOC : Gyrotor, Alchemist Worm
+QUEST_DOCTOR_CURSE_CURE_DESC_READY : Yanabi's last iron in the grimoire to cure the parasite.
+QUEST_SAVE_CITYMERCHANT_BRIDGE_NAME : The lost merchant
+MQ_SILK_SNARE_NAME : Ferry from Seoul
+COURIER_SUPPLIES_ITEM_TARGET_FLEATOPIA : Tra- to Flatopia.
+QUEST_EXTRACTOR_B_NAME : an alchemist's assistant
+COURIER_SUPPLIES_ITEM_TARGET_SONGCLAVE : Report to Songclive.
+QUEST_MOSSBERRY1_PRE_LOC : Druids of the House of Moss
+QUEST_SHININGCOGS_DESC_READY : Upload your shiny gear to Songclave's Willing Wall and claim your rewards.
+UI_PROMPT_ACCEPTED : The promised will
+TYPE_JOURNAL_TITLE : know
+UI_TITLE_QUESTS_COMPLETE : Complete
+QUEST_FIXER3_DESC_WALL : I have heard that strangers sometimes fall into large ditches near villages. The horror comes even before the journey begins. If I had the materials I could build a bridge!
+MQ_CITADEL_ASCENT_NAME_SILK : Yellow Emperor
+SQ_MELODY_LIBRARIAN_PROMPT : Part of a trio of hidden chests.
+QUEST_SONGPILGRIM_CLOAKS_DESC_WALL : As I walked around the room, the residents were wearing delicate white gowns. Their protection would be invaluable to this city. Maybe I'll wear one too!
+QUEST_ROCK_ROLLERS_DESC_READY : Send the stone seal to the flying moon below the cube to get your reward.
+QUEST_ROACH_KILL_DESC_READY : Give Kororo on Gulf Road cockroaches and gas.
+SQ_BLACKTHREAD_5_CORAL_DESC : Illuminate your heart.
+QUEST_SHELL_FLOWER_DESC_READY : The core of the octopus is bifurcated at the bottom of the gray shell.
+QUEST_SHELL_FLOWER_DESC_INV : Collect Octopus Hearts from Purple Flower Bark.
+QUEST_EXTRACTOR_B_DESC_READY : Send the collected plasma to the alchemist at the top of the wormhole.
+QUEST_SONG_KNIGHT_TITLE : The final session
+QUEST_PINSMITHTOOLS_NAME : Master Weapon Oil
+MQ_BELLSHRINES_LOC : platform
+QUEST_SAVE_CITYMERCHANT_DESC_WALL : The itinerant trader Jubilana was seen wandering between the corrals, but was never seen again. Has something strange happened to him?
+QUEST_ANT_TRAPPER_DESC_WALL : The giant red shell stole my precious memory and disappeared into the fields! Catch the culprit and bring me the treasure!
+QUEST_SHININGCOGS_DESC_WALL : Description of the mechanism of the Zohar wall.
+QUEST_PINSTRESS_BATTLE_DESC : The Finns find Pressuna in the storm on Paafjall and defeat her in battle.
+QUEST_BELL_HOUSE_START_DESC : Hear, saints! Our homeland has been freed from evil, but we are tasked with restoring it to its former glory. Come, say the Rosary and begin.
+QUEST_SONG_KNIGHT_LOC : second innings
+QUEST_GOURMAND_DESC_READY : Bring this super dish to Magwin Castle's dining hall.
+SQ_TYPE_MELODY : know
+MQ_BLACKTHREAD_1_NAME : Wait until the end
+SQ_MELODY_ARCHITECT_DESC : Find the architect's melodies and explore the mechanized core of the castle.
+TYPE_HERALD_TITLE : maintain
+QUEST_RUNTRESS_NAME : Dwarf Pist
+MQ_CITADEL_INVESTIGATE_DESC : They enter the castle and fight hidden insects.
+QUEST_SHININGCOGS_TITLE : A lot of pain
+SQ_BLACKTHREAD_5_CORAL_NAME : Hall of the Heart
+QUEST_SONG_KNIGHT_DESC_WALL : Scarlet Hunter, listen to Headquarters. He met me at the Classic Bar, in the waiting room. I'll show you the way.
+QUEST_SAVE CITYMERCHANT_BRIDGE_LOC : Songklau people
+QUEST_GOURMAND_TITLE : Faroma tastes wonderful
+QUEST_COURIER_MASKMAKER_LOC : Mount Faye
+QUEST_FLEAS_PRE_DESC_WALL : My name is Mushoka. I am a foreigner in this ordinary country and I run a flea market. I am asking for your cooperation so that all fleas can travel safely!
+QUEST_FLEAS_PRE_DESC : Talk to Mushoka, the Flea User, in the Flea Trailer in Mallow.
+QUEST_SAVE_SHERMA_DESC_WALL : I turned to the Holy Word to find help in healing our sick brothers and sisters. If you have a chance, please share it with us! Community makes work much more fun.
+QUEST_WITCH_CURSE_TITLE : Renewal ceremony
+UI_PROMPT_PROGRESS : The request has been updated.
+QUEST_COURIER_PILGRIMSREST_DESC : Greek forces.
+Q_SOUL_SNARE_DESC : The desire to build a springy trap.
+UI_BOARD_DONATE_TITLE : Contribution
+QUEST_HUNTRESS_DESC : Hunters using tools can collect various items and give them to the cubs.
+QUEST_PILGRIM_RAGS_TITLE : Pilgrim costume
+QUEST_FLEAGAMES_TITLE : endless movement
+SQ_MELODY_LIBRARIAN_NAME : air in the mucous membrane
+SQ_MELODY_CONDUCTOR_NAME : Music director
+QUEST_PINSMITHTOOLS_DESC_INV : Like shining oil in a castle.
+MQ_BLACKTHREAD_3_DESC : Get off the cliff.
+QUEST_MRMUSHROOM_TITLE : Time of change
+COURIER_SUPPLIES_ITEM_DESC : A bag made of dense material in which tools, accessories and medical equipment are stored.
+QUEST_SHINY_BELL_GOOMBAS_DESC_READY : Return the silver bell to Bellheart Willing Moon to receive your reward.
+QUEST_MRMUSHROOM_DESC_4 : The doctor was removed from the tower.
+TYPE_WAYFARER_1_TITLE : But the way
+MQ_BLACKTHREAD_0_DESC : Discover the fate of the lighthouse.
+QUEST_BELLHART_LOC : Residents of Belhart
+QUEST_HUNTRESS_DESC_READY : Now I will return to the long-armed hunter.
+QUEST_COURIER_MASKMAKER_DESC : We supply liquid hair spray to mask artists in Payson.
+SQ_TYPE_BLACKTHREAD_5 : share
+QUEST_COURIER_BONEBOTTOM_DESC : The film is produced by Pixar's Bonebottom Studios.
+QUEST_BELL_HOUSE_START_DESC_INV : Donate the rest to help rebuild Bellheart.
+SQ_MELODY_ARCHITECT_LOC : Device center
+QUEST_ANT_TRAPPER_TITLE : Hunter of secrets
+SQ_MELODY_LIBRARIAN_RETURN_DESC : We quickly found a way to extract the holy book from the box.
+QUEST_BELL_HOUSE_CONT_DESC : The task of rebuilding our sacred homeland is almost complete! Those who pray the Rosary join us in achieving this holy goal!
+QUEST_FIXER1_TITLE : Golgo reforms
+MQ_TYPE_SAVE : maintain
+QUEST_SONGCLAVE_DONATE_1_TITLE : On the founding of Songklao
+QUEST_BEASTFLY_DESC_WALL : O protector, burning desert as punishment! Don't bother nice strangers again! Do not give in to the wrath of the saints!
+MQ_TYPE_DESTROY : LOST
+QUEST_EXTRACTOR_B2_DESC_INV : Collect plasma from infected organisms in the wormhole. Plasma can be collected using a glass vial with a fully loaded needle.
+QUEST_FINEPINS_TITLE : small needle
+QUEST_BROODMOTHER_LOC : Songklau people
+QUEST_SKULL_KING_LOC : Residents of this area
+QUEST_FINEPINS_DESC_READY : Add FinePin to Songclave to get rewards.
+SQ_BLACKTHREAD_5_ANT_DESC_END : Hunter's Heart was given to a Carmelite singer with a skeleton.
+QUEST_SHAKRA_FINAL_LOC : are issued
+QUEST_SONGCLAVE_DONATE_1_DESC_WALL : To provide a safe haven for all the wildlife, supplies and money are needed. So, if you're reading this, empty your pockets!
+QUEST_BROODMOTHER_TITLE : Mom is crying
+QUEST_SAVE_CITYMERCHANT_NAME : Street vendor
+QUEST_FIXER3_DESC_INV : Give the shell pieces to build the bridge.
+SQ_MELODY_ARCHITECT_NAME : An architect's style
+MQ_DIVINGBELL_1_NAME : in the dark
+SQ_MELODY_LIBRARIAN_DESC : The palace corridors wander and the gravediggers learn the melodies.
+QUEST_SKULL_KING_DESC : Follow the tyrant's orders.
+QUEST_SAVE_COURIER_TALL_DESC : Search your site for signs of Hap. Hap was last seen in Lower Graymoor.
+GARMOND_BLACK_THREADED_NAME : the guy is a hero
+TYPE_STEELSENTINEL_TITLE : steel
+TYPE_COURIER_TITLE : Distribution
+QUEST_PILGRIM_RAGS_DESC_READY : Get a reward by sending a box of bandages to the Wish of the Month headquarters.
+QUEST_COURIER_BONEBOTTOM_LOC : at the bottom of this page
+QUEST_SONGPILGRIM_CLOAKS_LOC : Songklau people
+QUEST_JOURNAL_DESC : Defeat several creatures in Pharoma and complete the Hunter's Journal.
+QUEST_FIXER2_DESC_WALL : This journey is challenging. I want to place a beautiful symbol of hope next to this foundation, a symbol that embraces all those who embark on this long journey.
+QUEST_FIXER1_DESC_INV : Give pieces of crust to build a bone base.
+QUEST_SAVE_COURIER_TALL_NAME : lost a brother
+QUEST_SONGCLAVE_DONATE_1_DESC_INV : Submit a thread to help the Songclave team grow.
+MQ_BLACKTHREAD_6_DESC : Jump into the air and light the fire.
+QUESTBOARD_TITLE : I want a month
+MQ_BLACKTHREAD_4_NAME : Spelling
+QUEST_PILGRIM_RAGS_DESC_INV : Follow the path of the Pilgrim's Lighthouse and collect the Pilgrim's Shawl from their bodies.
+QUEST_TROBBIO_2_DESC_WALL : In the deep darkness, everything is clear. Faram dies and few of those who suffer the torture of death survive. Let's gather in the royal garden and grieve together.
+QUEST_ROACH_KILL_DESC : Ban Macroach Sinners Lane and collect the roach droppings from the body.
+QUEST_COURIER_SONGCLAVE_LOC : The key to the song
+QUEST_FLEAS_DESC : Find fleas around the Faroe Islands and bring them to the flea cart.
+MQ_BLACKTHREAD_3_NAME : Go back to the scene
+QUEST_MOSSBERRY1_PRE_DESC : Talk to the droid in Moss's house.
+QUEST_JOURNAL_TITLE : Forum error
+MQ_PROMPT_BEGIN : new purpose
+QUEST_GOURMAND_LOC : Magwinus de Castello
+MQ_SILK_SNARE_DESC : He bursts into the palace and captures the master with a death trap.
+COURIER_SUPPLIES_ITEM_TARGET_PILGRIMSREST : The card comes in a box.
+UI_BOARD_DELIVER_TITLE : Distribution
+QUEST_COURIER_FIXER_DESC : Send a convoy to Flick's rescue camp.
+QUEST_SPRINT_PRE_DESC : Meet the sprint champion. Fast forward to the end of Furies.
+QUEST_SKULL_KING_DESC_READY : Return the crown piece to the moon in the land of Bone to receive your reward.
+QUEST_MOSSBERRY1_DESC : Algae collected in the marshes of the Faromm plain.
+MQ_TYPE_SEEK : Book
+SQ_MELODY_LIBRARIAN_RETURN_DESC_GOT : Melody found out by checking the treasure.
+QUEST_SAVE_COURIER_TALL_DESC_WALL : Help! Hurry up! My sister's eggs are missing! They are lost somewhere in the Grimoire! Help me find them!
+SQ_BLACKTHREAD_5_ANT_NAME : Wild hearts
+QUEST_BELLHART_DONATION_START_LOC : Belhart's Turkey
+QUEST_SPRINT_KILL_DESC : With Sprint Master Fast, they became the fastest Beetle in the world.
+QUEST_MRMUSHROOM_DESC_5 : A silk cage full of painful lies;
+MQ_PROMPT_COMPLETE : to the goal
+QUEST_MRMUSHROOM_DESC_7 : He tries his last patience behind the roof of the cradle;
+QUEST_MRMUSHROOM_DESC_6 : Let the heart beat strong and cold;
+QUEST_JOURNAL_LOC : in the middle of the nest
+QUEST_MRMUSHROOM_LOC : platform
+QUEST_MRMUSHROOM_DESC_3 : Fields in flames, black shells;
+QUEST_MRMUSHROOM_DESC_2 : The camp was closed by a black hole;
+QUEST_SAVE_SHERMA_DESC : Follow Haji Sharma's footsteps to find out. Sharma in the fourth quarter of the White Camp.
+COURIER_SUPPLIES_ITEM_NAME : the best memories
+Q_SOUL_SNARE_PRE_DESC : Meet the Guardian Songclub.
+QUEST_FIXER3_LOC : The basis of the matter is the mouth
+QUEST_FLEAGAMES_DESC_READY : Meet the teacher Mushuka and start the final ceremony.
+MQ_BELLSHRINES_DESC : The sound of the old village clock is heard.
+QUEST_RUNTRESS_DESC_READY : The song begins with an organ.
+QUEST_SAVE_SHERMA_NAME : the comfort of the wounded
+QUEST_SHINY_BELL_GOOMBAS_DESC_WALL : If you look carefully, you will find a silver lining. If you can save even a little, it's priceless!
+QUEST_THREADCORES_DESC_READY : Return to Bellhart on the Willing Moon to claim your reward.
+QUEST_TROBBIO_2_LOC : victims
+MQ_TYPE_ASCEND : Sublimation
+MQ_CITADEL_ASCENT_DESC_LIFT : We will enter the palace and fight the traveler from the land of the lighthouse.
+QUEST_BEASTFLY_TITLE : wild flies
+SQ_BLACKTHREAD_5_FLOWER_DESC : Remove dust.
+QUEST_BEASTFLY_DESC : Avoid flies and kill them in the furs. You will know chickens by scales and claws.
+COURIER_SUPPLIES_ITEM_TARGET_BONEBOTTOM : I put it down.
+QUEST_SONGCLAVE_DONATE_2_TITLE : Confirm the harpsichord work
+QUEST_HUNTRESS_GIVE_NAME : For a long time
+QUEST_SHAKRA_FINAL_DESC_INV : Find Shakra and the Master in Rough Water. Follow Shakra to the bend.
+QUEST_FIXER1_LOC : The basis of the matter is the mouth
+QUEST_SPRINT_PRE_DESC_WALL : are you quick are you quick If you want to prove that you are the fastest animal on the track, come to the finish line with me! Come on!
+QUEST_MOSSBERRY1_DESC_READY : Give moss to David in Moss's house.
+GARMOND_BLACK_THREADED_WALL : Snakes crawled on the sand steps 24 hours a day. Can you help this poor worm?
+MQ_BLACKTHREAD_2_DESC : To the black threads of the deep.
+QUEST_FIXER2_LOC : The basis of the matter is the mouth
+QUEST_BELL_HOUSE_START_TITLE : Regeneration in the heart
+MQ_BLACKTHREAD_5_DESC_END : Take the Old Flamin Snail Heart in the Ruined Chapel near the floor.
+QUEST_FLEAGAMES_DESC : Get free points from all games and make a bird.
+QUEST_SAVE_COURIER_SHORT_NAME : Lost message
+MQ_THREADSPUN_TOWN_DESC_INV : Break the cursed silk that plagues the citizens of Belhart.
+MQ_RESCUE_BELLBEAST_DESC : You can go under the clock tower and defeat the enemies inside.
+MQ_CITADEL_ASCENT_NAME : The last kroner
+QUEST_WITCH_CURSE_LOC : 
+COURIER_SUPPLIES_MEAT_DESC : The meat contains large amounts of contaminants of unknown origin. Improper storage after preparation can cause immediate deterioration in quality.
+QUEST_MRMUSHROOM_DESC_1 : Under the chapel, given to the king;
+QUEST_COURIER_SLAVE_DESC : Place the egg back into the queen's scepter on the left road.
+QUEST_CROW_LOC : Craig is average
+QUEST_SHININGCOGS_DESC_INV : Search the clock in the clock core and collect the shiny objects.
+QUEST_COURIER_SONGCLAVE_NAME : Unpopular song archived
+QUEST_SONGPILGRIM_CLOAKS_DESC_INV : They hunt Chorus Scarabs in the palace and collect them from their bodies.
+MQ_BELLSHRINES_DESC_READY : Bring Damon back and make your way to the castle.
+MQ_PROMPT_PROGRESS : Update your destination
+QUEST_STEELSENTINEL_DESC_READY : Visit the ritual area near the nape of the neck.
+SQ_BLACKTHREAD_5_CORAL_DESC_END : Kirsten King Khan's heart stopped.
+COURIER_SUPPLIES_SLAVE_NAME : Queen's egg
+QUEST_SAVE_SHERMA_LOC : Sharma from Songlive
+QUEST_SKULL_KING_DESC_WALL : The largest creatures of the Halamites, the Skulltyran, roam the caves above the village. Defeat this beast to ensure everyone's safety!
+MQ_TYPE_DESCEND : they don't want it
+QUEST_SONGPILGRIM_CLOAKS_TITLE : Short scarf
+MQ_CITADEL_SEEKER_LOC : platform
+QUEST_ANT_TRAPPER_LOC : Fairfield Gillies
+QUEST_COURIER_SLAVE_LOC : the sinner's way
+QUEST_ANT_TRAPPER_DESC : Find the villain who stole Gilly's character near the Bara Shrine, between the Deep Key and the Sheepfold.
+Q_SOUL_SNARE_NAME : Silk and soul
+MQ_TYPE_INVESTIGATE : proves it
+MQ_BLACKTHREAD_6_NAME : Final dive
+MQ_CITADEL_ASCENT_DESC : Go to the castle and fight the bandits in Faro land.
+QUEST_SKULL_KING_TITLE : A terrible shame
+QUEST_BROLLY_GET_TITLE : Flexible spine
+COURIER_SUPPLIES_MASK_DESC : A light skull is used to make and maintain mouth masks.
+Q_SOUL_SNARE_DESC_GOT : Return the coins you have collected to the Songclave administrator.
+MQ_DIVINGBELL_2_NAME : in the dark
+QUEST_BROLLY_GET_LOC : Beautician from distant lands
+QUEST_FIXER1_DESC_WALL : There are lots of workshops here, but I need more supplies! All you need to get started is a peel. Is it too much?
+QUEST_SAVE_COURIER_SHORT_DESC_WALL : This venerable Porter was last seen on the fords. Help us with clues so he can reunite with his beloved animals!
+QUEST_THREADCORES_DESC_WALL : On the way we came to a terrible sight! Rocks covered in black bark and insects eating everything around them. They wanted to release one and give the poor animals peace!
+QUEST_FIXER3_TITLE : Save the bridge
+MQ_THREADSPUN_TOWN_NAME : they give a pleasant city life
+QUEST_SONGPILGRIM_CLOAKS_DESC_READY : Take the Choir Cloak to the Flying Moon in the Song to receive your reward.
+MQ_RESCUE_BELLBEAST_NAME : animals in the bell
+QUEST_SONG_KNIGHT_DESC : After the second guard, follow the sign near the Key of Songs.
+QUEST_SHINY_BELL_GOOMBAS_DESC_INV : Collected from the silver bell tunnels above and below the bell core.
+COURIER_SUPPLIES_MEAT_NAME : Collie Viper
+COURIER_SUPPLIES_MEAT_TARGET_SLAVE : Let Styx keep the sinners away.
+QUEST_RUNTRESS_DESC : You can use tools and feed Ranth food to get different types of organs.
+QUEST_BEASTFLY_LOC : Residents of Belhart

@@ -1,0 +1,37 @@
+GAINED_MELODY_BEAST : Learn the songs of animals
+SAVED_BELLHART : Belhart was saved
+GAINED_BROLLY : Goat Walker coat
+GAINED_REAPER : Goatley Park
+GAINED_MELODY_CONDUCTOR : behavior learned by the senses
+GAINED_DOUBLE_JUMP : Which
+ACT_3 : At the beginning of number 3
+ACT_2 : Another issue begins
+ACT_1 : Episode 1. The beginning
+GAINED_WHITE_FLOWER : gotwhiteflower
+SLAB_CAPTURED : in custody
+GAINED_SILKNEEDLE : Light goat side dish
+GAINED_SILKSPEAR : goat silk spear
+GAINED_BEAST : Goat symbol
+GAINED_HEART_BLOOM : Win Nylath
+GAINED_MELODY_LIBRARIAN : Learn a safe melody
+GAINED_SPRINT : Gotwiftstep
+GAINED_SUPER_JUMP : Goat silk for swimming
+GAINED_THREADSPHERE : Storm with a gothic theme
+GAINED_CURSE : Damn it
+GAINED_WANDERER : Coat of arms of Gottwanderer
+GAINED_TOOMASTER : the logo of the architect Cabre
+GAINED_HARPOON : Goat of the Crow Line
+GAINED_WALLJUMP : Goat-shaped algae
+GAINED_MELODY_ARCHITECT : This Cog learned the song
+GAINED_HEART_HUNTER : Beat Carmarita
+GAINED_NEEDOLIN : nidrina goat
+GAINED_MELODY_DEEP : To find the deepest melody
+GAINED_HEART_CLOVER : The dwarf dancers win
+GAINED_SILKCHARGE : Goats sharpen arrows
+GAINED_WITCH : Gothic coat of arms in python
+GAINED_SLYTHSONG : The Song of the Gothic Angel
+GAINED_SHAMAN : The flamin' goat symbol
+UNLOCKED_MELODY_LIFT : How does the open seminar work?
+GAINED_RUNE_BOMB : Ronnie's anger
+GAINED_PARRY : go over his goat
+GAINED_HEART_CORAL : Sigra Khan

@@ -1,0 +1,69 @@
+BATHHOUSE : Thermal Palace
+BONETOWN_GRAVEYARD : Buried underground
+BELLHOME : The clock tower
+ABYSS : stones
+CRADLE : Yorichago
+HALFWAY_HOUSE : center point
+BONECHURCH : chapel in ruins
+BONETOWN : at the bottom of this page
+JUDGE_STEPS : broken step
+MOSS_CAVE : was born
+RED_CORAL_GORGE : Sands of Karak
+WARD : empty words
+ORGAN : flat chest
+CITY_OF_SONG : the castle
+CITADEL_FORUM : platform
+RED_CORAL_TOWER : Coral Tower
+FLEATOPIA : still cool
+ICECORE : Bright veins
+NONE : Guest
+SPRINTMASTER_CAVE : I'll limit you
+LIBRARY : some whispered
+MUCKVILLAGE : Yellow sky
+MOSSTOWN : Moss house
+BELLTOWN_HAUNTED : Saint Bellhart
+COG_CORE_SHORT : Cooking choir
+PEAK : Mount Faye
+DUST_MAZE : Fog
+CITADEL_STAGE : See
+HANG : large hall
+WEAVER_SHRINE : Connected to Atlas
+GREYMOOR : Grimoire
+VOLTNEST : Storage location
+EXTRA_TUBEHUB : terminal
+HOT_SPRING : Spa
+CITADELSHRINE : the first knight
+CRAW_LAKE : Chloe Oh
+CRAWLSPACE : animal-like characteristics
+LIBRARY_SHORT : So indeed
+DOCKS : Dark dog
+WHITELAKE : The yellow water
+MEMORY : Man
+FLEA_FESTIVAL : flea market
+ENCLAVE : The key to the song
+SWAMP : Flaw
+UNDERSTORE : Under the work
+CITADEL_STATION : Bellevue is great
+COG_CORE : The center frame and fins work
+HIGH_HALLS : Altar
+FRONT_GATE : A large door
+WISP : Scythe's whisk
+FORGE : Tattoo
+CAULDRON : Uncle
+PATH_OF_BONE : Fever
+PILGRIMS_REST : Philip rests
+CLOVER : Vardania
+DUSTPENS : the sinner's way
+ABOVE_CRADLE : The limits of the cage
+SHELLWOOD_THICKET : he barks
+HUNTERS_NEST : Parade of predators
+THE_SLAB : Plate
+AQUEDUCT : broken ties
+BELLTOWN : Belhart
+BAY : Faram Bay
+ASPID : Five Georgians
+MEMORY_RED : Red memory
+BELLSHRINE : Barshain
+BELLVEIN : Velvet
+ARBORIUM : Less cancer
+WILDS : distant places

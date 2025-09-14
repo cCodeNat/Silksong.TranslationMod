@@ -1,0 +1,23 @@
+WOOD_WITCH_CURSE_ACCEPTED : Pure The Last Rite... What Should I Do? The moment of birth is approaching. Now it's time to take off your clothes. To complete the final ritual. The moment of birth is approaching.
+SETH_GUARDIAN_TALK_REPEAT : You may rest in this sacred place, but if you choose to continue your journey, you will find that I have surrendered my weapon.
+WOOD_WITCH_CURSE_OFFER : The time has come. The birth is approaching. Button cries. Then the funeral can begin. White shell. Red hair. A tough old worm. The birth is approaching. Now is the funeral.
+WOOD_WITCH_FLOWER_QUEST_COMPLETE_1 : F... Polyp. All in all. They all came together. They gave us everything we needed.
+WOOD_WITCH_FLOWER_QUEST_DECLINE : I understand your request, but I must refuse. The journey continues towards Haruka, who lives in this forest. I can't refuse. The time of birth is approaching. The first ceremony must begin.
+WOOD_WITCH_FLOWER_QUEST_ACCEPT : If you have the knowledge and power, I can help you. Can you find a heart polypouse near the forest? Heart Proliferation in the Woods Yes, Mr. Bug. Find a purple flower. Into the heart... The moment of birth approaches. I want a heart transplant. Mr. Hugs. Then we will share our power.
+WOOD_WITCH_FLOWER_QUEST_COMPLETE_3 : Burned insects. The time of renewal is approaching. The first ceremony is over. Preparations have been made for the birth season. Here... here. Remnants of the ceremony.
+WOOD_WITCH_FLOWER_QUEST_KEEPITEMS : This is a ritual. We have to start the ceremony first. We need an octopus heart.
+WOOD_WITCH_CURSE_DECLINED : I can't help you. It's late. Maybe another traveler will help you. There is no one left. There used to be many insects. Many people. Now there is no one left. The funeral... the moment of birth is approaching...
+WOOD_WITCH_MANDRAKE_ASK : Red bells in the distance. Come here... Microbes. The conversational awareness. Tullo
+SETH_GUARDIAN_DECLINE : Let's not go any further. Then there will be peace between us.
+WOOD_WITCH_MANDRAKE_ACCEPT : A microbe... is still sick. He is starting to need food. Hmm... he needs food. He criticizes what he needs.
+WOOD_WITCH_FLOWER_QUEST_ACCEPTED : Let's take a purple flower. Inside is a precious heart. The moment of birth is approaching. I need an octopus heart. Mr. Insect, bring it to me. If you do, power will dissipate.
+WOOD_WITCH_FLOWER_QUEST_REOFFER : Hypanis, to be alone. Nobody comes here. Not for ceremony. Octopus heart. I don't need it. Make it an activity.
+SETH_GUARDIAN_OFFER : Want to challenge your family?
+WOOD_WITCH_FLOWER_QUEST_COMPLETE_2 : The first ceremony of the Octopus Festival. The first ceremony begins.
+WOOD_WITCH_FLOWER_QUEST_CANCOMPLETE : Offer your precious heart... Blood must flow in the sacrament of birth.
+WOOD_WITCH_FLOWER_QUEST_OFFER : The moment of birth is approaching. And the octopus ceremony begins. Only in the morning. No one can come here. No. At the ceremony. Octopus heart itself. Make an activity out of it.
+WOOD_WITCH_MEET : Microbe... Envelope. White larva, red fur. Worm. Live worms. I am at least part worm, but you are something else. I hate to wake you up from your deep sleep. Sleep. Long sleep. But it's time to get up. A microbe. Birth. Christmas is coming. Be careful, worm. Christmas is coming.
+WOOD_WITCH_MANDRAKE_DECLINE : This is the seed. The point must be made. This is what is needed for the ceremony.
+WOOD_WITCH_REPEAT : That time will come soon, the time of birth is approaching.
+SETH_GUARDIAN_MEET : Wait, sir! I command you to guard this holy temple forever. Anyone who wants to pass through here must hand over their weapons to me.
+SETH_GUARDIAN_TALK1 : Stay here, if you like, and rest. I am not your enemy. If you try to step on me, I will draw my weapon. Now, warrior, show what you represent. This cave at the edge of the forest seems long forgotten. Hidden perhaps, but never forgotten. This temple was built to destroy the first seeds of the forest that once existed, and still exists. Our first duty is to protect these lands. Sadly, many have perished under my sword in the performance of this duty.

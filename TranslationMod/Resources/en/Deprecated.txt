@@ -1,0 +1,74 @@
+LACE_NEEDOLIN_PLAYED : Ah, Spider-Man! Playing with keys and hammering on such an old instrument! What a tragedy! (etc.)
+QUEST_CORAL_TITLE : Healing Coral
+PILGRIM_STOMPER_QUEST_ACCEPTED_WISHWALL : We received your request from Wall Willing for this plan. I'll be more frugal, but I'd like to... lend a hand.
+PILGRIM_STOMPER_QUEST_MEET_2_ACT3 : Death... or maybe worse. That is not the point. I solemnly vowed not to travel until I understood this pain. And when I do... maybe I can handle it.
+QUEST_CORAL_INV_DESC : Hunt coral creatures and collect coral shells from their bodies.
+BLUE_SCIENTIST_QUEST2_REPEAT : Adjutant, Blood Alia awaits you. Testimonials are necessary, but not free. If you have time, pick up a copy.
+PILGRIM_STOMPER_QUEST_ACCEPT : Ah! I have finally found someone as interesting as me! Quick! Let them find this stranger and bring out his inner strength! Let us deepen our mutual understanding. I guess we'll find out what's bothering these aliens...
+QUEST_CORAL_WALL_DESC : Medicines are in short supply and pilgrims often arrive injured. If drugs were available, the ringing of the skulls could be reduced.
+PILGRIM_STOMPER_QUEST_MEET_2 : Hmm. Something is biting the legs of our strangers. It pulls the abyss into his heart, drags him into the abyss of madness. Only words escape, only a shell of flesh. Until I understand this pain, I will stop my journey. I will never let this trip end so sadly!
+BS_SIT_QUEST3_REOFFER : Help? Are you going to do this? For me? For us? Help? We need more, more... blood to understand.
+CARAVAN_SPIDER_BELLHART_ARRIVE : Hello, Mr. Chibi Spider. Bellhart is waiting for us on the other side of the tunnel. From a distance it looks safe enough. Or are the rumors of danger exaggerated? If you want to come, I'll show you around for a small fee. It's time for the compliment, because from here it looks safe, but be careful, not yet.
+TUNING_FORK_INSPECT : Temperature controlled weaving machine.
+BLUE_SCIENTIST_QUEST2_DECLINE : "Help, this is important research! We need to understand the properties of plasma. If this doesn't work, your argument is boring."
+BS_SIT_QUEST3_REPEAT : Blood... Please help me. Feeding plasma is the ultimate challenge. Use a bowl... dig deeper. They suck the liquid from the swamp skins... endlessly.
+CARAVAN_SPIDER_PURCHASED : (Acquired expression like 'come on!')
+CARETAKER_REPEAT : Are you in love at this moment? The weavers have shaped the echoes and resonances of the earth with their intelligence to bring us to this land. No one will deny that it is wonderful, but they should be ashamed to open their eyes! You stand before the tower, accept your fate and everything will change!
+PILGRIM_STOMPER_QUEST_FINAL_DECLINE : Ah, ah ... yes ... yes ... for me ...
+PILGRIM_STOMPER_QUEST_ACCEPT_ACT3 : If you agree... then hurry up and start your search! Find stray aliens and rip their limbs from their shells. Let's deepen our understanding together. I think we need to find out what happened to these strangers.
+PILGRIM_STOMPER_QUEST_OFFER : You, though not a stranger, your way is holy, help me! I want to know what strangers are going through. Then they examine their bodies. The viscera hides the terrible pain! Tell me about them!
+LACE_MEET_GROTTO_1 : Sorry! The spider fell out of the cage. She was completely lost. He was completely helpless. He is so cute.
+CARETAKER_MEET : Ah! Of course your henchmen are in the corner! They crawl and jingle! Look what you have done! Ring the old bells! Now you cry, we weaken the vigilant king. Even while in your church? Your nation knows this, and common snakes do not come to these cradles. Think it's time to stop being poor strangers? Ah! I curse you, old man! He will even forgive your little hidden worm. It was fun to be evil! Even if you ask me to change, I wouldn't! I tried, but he had to change. The king is born. My inescapable presence is hastening. So, madam, what do you want to achieve? Seizing power? Become the new queen, dominate and conquer us with your devilish weapons? This must be the fate of the texts and the gods.
+CARAVAN_SPIDER_MEET_NO_BELLHART : Spider, help of grace. I was easy and I walked a dangerous tightrope. It looks like a spider, but it's like silk, right? It's a casino! Don't blame me. I am a spider, but I am not a weaver. And no less! If I knew how to weave silk, they'd catch me in a heartbeat. Weaving... I have great skill but my weakness holds me back. It's no problem. I prefer to use the rest in hedges. If you give me corn, I'll show you how to climb it yourself.
+BS_SIT_QUEST3_COMPLETE : My loving, faithful and wonderful helper... Zengo... you did it. Without you... we've never changed so much... drank the last... pure blood... that's the answer. Become an author. For all... for you as forever... Accept my gift, Zengo. Our icon... Now... continue. Open your hands and go deeper. I feel a new form growing in my shell. Always yours...
+LACE_NEEDOLIN_R : (On the last line of the race)
+CARAVAN_SPIDER_STRUNG_MEET : Hi! Tourists, how I love it! So I've gotten caught up in this tangled thread. There is definitely a knot there. Save me!
+LACE_MEET_GROTTO_3 : This is so delicious! Now I love it!
+PILGRIM_STOMPER_QUEST_ACCEPTED_WISHWALL_ACT3 : I got your oath written on the wall under your feet and retracted it. The nature of this resource has changed, but it is still useful.
+BS_SIT_QUEST2_REPEAT : In the abyss of their needles...
+CARAVAN_SPIDER_BELLHART_CONFIRM_PROMPT : Want to visit Belhart?
+BS_SIT_QUEST3_DECLINE : No? But it's more than that, it's still life.
+QUEST_CORAL_LOC : Residents of Belhart
+PILGRIM_STOMPER_QUEST_MEET_1 : You! Are you abroad? Tell me, do you think something new? Are you wrong? Do you suddenly feel like killing something? I am not a foreigner, but I have seen the suffering of those who walk this way. Am I looking for a reason?
+BLUE_SCIENTIST_QUEST2_COMPLETE_2 : Of course they hang me. I have woven these heads so exquisitely and delicately that you will not find them anywhere else!
+PILGRIM_STOMPER_QUEST_READY : And .... and .... ... to discover?
+CARAVAN_SPIDER_STRUNG_REPEAT : My God! Tourist! Help me!
+LACE_NEEDOLIN_1 : Look at you, look at you, sleeping like a newborn! Stupid spider! Think! I nailed you to a stone, and you will sleep forever beside your father's skull. You, however, as I lie helpless, keep me alive. Your words are crueler than your actions. What is your duty, innocently? Do you like the cotton that is ruining this country? Does it inspire you? Or must we fight? What an annoying question, spider! I don't want this country to perish. Only curiosity led me here, to the deep world where the song sounds. Do not rejoice in your misfortune! You are a rare gift, a rare joy in this fleeting world.
+BLUE_SCIENTIST_QUEST2_OFFER : Helpful! While you're here, can you do a good deed? If the conditions are right and compensation is fair. what do you need I'm looking for moss blood in damp caves. I won't look at it. They are invisible. To better understand plasma! Let's mix the ingredients together and see how it behaves.
+PILGRIM_STOMPER_QUEST_MEET_1_ACT3 : Ah! Are you still doing this? Am I the only outsider who resists the curse? I am not an outsider, but I know well the curse that rests on these lands. A black thread runs through the tunnel. Being here means death.
+PILGRIM_STOMPER_QUEST_REOFFER_ACT3 : We need to see the bodies of these strangers when they were tortured. Their organs hold secrets of excruciating pain. Please... remove them!
+LACE_REMEET_GROTTO_1 : Sorry! A small spider fell out of the cage. So long and delicate. How sweet.
+PILGRIM_STOMPER_QUEST_CONVO_1 : We met death on the moon and in a strange way. It seems not even this sentence can deter them from their pilgrimage. Throw it wherever you see it, and the fallen bodies will tear from the frame. And do not pity their pain! It would be a real shame if their hearts remained in their shells.
+PILGRIM_STOMPER_QUEST_CONVO_3 : This is a chronic problem. Let's move on! This subtle phenomenon must be understood! Absolutely!
+PILGRIM_STOMPER_QUEST_CONVO_2 : This disease that the people of this town talk about, this "spirit"... what do you know about its true nature? A terrible disease that destroys the living and the dead. The victim is knocked unconscious and attacked by the creature who crushes them. Happy ending! True. So, what do you think is the reason? The reason... I think I almost know. The answer is there and I am drawn to this screen of life every moment.
+BLUE_SCIENTIST_QUEST2_ACCEPT : All right! All right! Take my syringe. You will find a mossy creature. Whatever works. Prepare a bowl and dig to draw blood. It's not hard, it's a simple task, so the crown prize is there. But! Think of the real prize! Got you! Each step is incredibly valuable to get plasma.
+TUNING_FORK_PROMPT : Want to move yours?
+WEAVER_ABILITY_INTRO : Father... the power in your shell is my power. Your silk is attached to my silk. And let those who torment me know the fullness of your power.
+BS_SIT_QUEST2_OFFER : Help... We still have a lot to do for science and for you... Start the plasma reaction... Can we help you again...?
+PILGRIM_STOMPER_QUEST_REMEET_ACT3_1 : Ah! I am at peace! Am I the only stranger resisting the spirit? But wait... I think I've met you before? Even a redheaded traveler. Not a stranger. It's strange to be here after such a long time. I have traveled through these countries looking for ways to release the black thread. You searched for the cause of the spirit's appearance... Have you found anything?
+LACE_REMEET_GROTTO_3 : This is so delicious! Now I love it!
+BS_SIT_QUEST3_ACCEPT : Excellent! Help... Morality needs saving. Blood from the swamp on the beach. Dirt, dirt... we have to find this great find... to find this great find. Stick a little needle in there. Use it. Take the blood... and bring it back. I have to finish this tetraliquid...
+CARAVAN_SPIDER_CANCEL : (Shop menu cancelled)
+BLUE_SCIENTIST_QUEST2_COMPLETE_1 : Sorry! Plasma research will get a big boost thanks to Moswardo. You are a great help! You're way better than the last wretch (what's his name?).
+BLUE_SCIENTIST_Q2_REFUSE : A handgun like that with so much effort... it says nothing about your intelligence!
+LACE_MEET_GROTTO_2 : Little spider, I can save you. From all the tribulations and sufferings you will face on earth. That's all. I want to stab you here and now and tear out your trembling soul. Your threats are meaningless. If you are an enemy, get closer and draw your sword.
+BS_SIT_QUEST2_REOFFER : I understand it well... I see it there... nearby. Can you help me again... Assistant?
+PILGRIM_STOMPER_QUEST_REMEET_ACT3_2 : I'm getting closer to understanding. So close it hurts! I feel that the answers to all my questions are slowly emerging from the darkness. My work continues... I won't stop here until I understand. What's wrong with foreigners? I want to know...
+BS_SIT_QUEST2_DECLINE : No? But it's more than that, it's still life.
+PILGRIM_STOMPER_QUEST_OFFER_ACT3 : You are not a pilgrim nun, but a holy witness standing against the Black Death. Their bodies must be seen to understand what tormented the pilgrims. The members of Sorrow keep secrets. Please... release them!
+BS_SIT_QUEST2_ACCEPT : Ah... Great... If we unite, we can surely do it... Pillow... Seaweed cake from the damp caves of Fort Parum...
+PILGRIM_STOMPER_QUEST_DECLINE_ACT3 : It is not easy, but it will do no good to abandon the poor foreigners willingly. We need to think carefully!
+CARAVAN_SPIDER_MEET : Spider, thank you so much for saving me. I was stupid enough to step on this dangerous thread. It looks like a spider, but isn't it silk? Like silk? Here's another one! Don't be fooled. I am a spider, but not a web. This one is better! If I knew how to spin silk, it would be discovered immediately. I go there. I prefer to use rope on the fence. If you divide the grain for me, I will show you the way I can go alone.
+BS_SIT_QUEST3_OFFER : Help? Are you going to do this? For me? For us? Help? We need more, more... blood to understand.
+PILGRIM_STOMPER_QUEST_FINAL : My friend, I send you my best regards. Are you feeling better? I... I... I... I... I... I... I... I... I... I... I... I... I understand. It was written... I see! Great, great, great, great!
+CARAVAN_SPIDER_BELLHART_CONFIRM_DLG : Spider, I can take you to Belhart, but I warn you. The pilgrims have reported some unpleasant happenings in that area. I haven't seen you, but we are out of danger.
+PILGRIM_STOMPER_QUEST_FINAL_ACT3 : Baby, I get what you want. Are you happy?
+BS_SIT_QUEST2_COMPLETE : Foam... Plasma. The work of a strange and ugly life... The work of cruel coercion... Help, well done... Evil is a serious thing and must die... In the shell of love, Libra...
+BLUE_SCIENTIST_Q2_CANCOMPLETE : Vote, how will your work go in the end? Will you be able to collect enough moss?
+BLUE_SCIENTIST_QUEST2_REOFFER : Helpful! If you want more gems in your pocket, help me collect moss from the cave below.
+QUEST_CORAL_INV_DESC_READY : Send a piece of coral to the Bell Heart Willing Wall and receive a reward.
+CARAVAN_SPIDER_TALK_THREAD : (It is no longer needed. Remove it.)
+PILGRIM_STOMPER_QUEST_DECLINE : As for the rest, I refuse. Their stupidity is no excuse for forgiveness.
+PILGRIM_STOMPER_QUEST_REOFFER : I want to know what these strangers are doing. For that I need to read their minds. The members of Pain are hiding a secret! Get them out of here!
+CARAVAN_SPIDER_MEET_CORAL : Anyway, the old trail hasn't been seen in years. It's good that it has been cleaned up. They have cleaned the corals. The insect structures around the corals have been completely destroyed. Even though I had heard it was a serious problem, it was difficult to maintain. Now that there is no one to protect it, it is no wonder that few pilgrims come.
+LACE_REMEET_GROTTO_2 : Little spider, I can save you. V. From all tribulation and tribulation that shall come upon the earth. It's simple. I want to stab here and now and tear out your trembling soul. Your threats are in vain. If you are my enemy, shut up and draw your sword!

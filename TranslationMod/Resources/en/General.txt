@@ -1,0 +1,17 @@
+DEMO_END_MESSAGE : Thanks for watching the presentation.
+GAME_TITLE : Hollow Knight: Silk Song
+PROLOGUE_EXCERPT_02 : They see the world created by your faith and your work.
+ACT_3_SUPER : Policy 3
+SAVE_WARNING : This game automatically saves data from time to time. When this icon appears, the application does not close.
+HORNET_NAME : wasp
+ACT_2_SUPER : 2nd law
+CONTROL_PROMPT : We strongly recommend using a controller.
+ACT_2_NAME : Castle song
+PROLOGUE_EXCERPT_AUTHOR : - From the film "Firm Stupidity" directed by Romino.
+ACT_1_SUPER : 1st law
+PROLOGUE_EXCERPT_03 : The mind forgets and abandons itself to sleep.
+PROLOGUE_EXCERPT_01 : Come, your figure, so thin and so charming.
+ACT_1_NAME : platform
+ACT_3_NAME : stones
+PROLOGUE_EXCERPT_04 : When they come up they will know your truth.
+PROLOGUE_EXCERPT_05 : The nature of the beast was revealed to all.

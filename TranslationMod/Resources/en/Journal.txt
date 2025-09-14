@@ -1,0 +1,718 @@
+NOTE_CRYPT_WORM : It is a dangerous monster. When you try to defeat it, it runs away.
+NAME_POND_SKATER : book language
+NOTE_ROSARY_PILGRIM : Is this wealth a sign of simplicity or greed? The level of religion in this country is truly amazing.
+NOTE_SONG_PILGRIM_MAESTRO : Once they sang folk songs, but now they rebel only to destroy the weak.
+NAME_CORAL_KING : King Khan Baracum
+DESC_CLOCKWORK_DANCER : This perfectly executed apparatus greets all who enter the hall with elegant dances.
+DESC_SLAB_FLY_BROODMOTHER : They are very angry slaves. They rarely emerge from the circular hole. All guardians are born and raised with this.
+NOTE_PILGRIM_FLY : They can fly, but only partially. They can fly from rocks, but their fragile wings prevent them from flying any further.
+NAME_PILGRIM_STAFFWIELDER : Hajj guide
+NAME_TROBBIO : i feel
+DESC_MAGGOTS : A lifeless larva covered in thick slime.
+DESC_SWAMP_SHAMAN : Shepherd and leader of the Stilkin family. He was always annoyed that Black had closed his cave and supported him.
+NAME_WEAVER_SERVITOR_LARGE : Buran servant
+NAME_CORAL_HUNTER : Aretha
+NOTE_LIGHTBEARER : If you want to find your way through dark decks and cards, don't miss this error.
+DESC_GRASSHOPPER_CHILD : A boy from Vardan. Despite his young age, he has incredible fighting power.
+NOTE_SLAB_PRISONER_FLY_NEW : Their thick armor makes them invisible, but that doesn't seem to be a problem. They don't care about their own safety, nor should they attack someone they think is sinful.
+NAME_CROWMAN : translator
+DESC_CORAL_BIG_JELLYFISH : The gelatinous giant shifts its body mass to escape threats.
+NAME_PILGRIM_STOMPER_SONG : shoulder
+DESC_BONE_FLYER : A dangerous fly in the Parumi plains. The man's prey is fierce and his bone mask captures her.
+DESC_PINSTRESS_BOSS : He was a swordsman, once a famous warrior, and had lived longer than the other residents of Dongfa.
+NAME_WEAVER_SERVITOR : Keep the fire burning
+DESC_GRASSHOPPER_FLY : He was a skilled warrior, gifted with great eyesight, sharp wings and the ability to shoot projectiles from the tips of his boots.
+NAME_CORAL_JUDGE : the judge
+NAME_LAST_JUDGE : Final judge
+NAME_SLAB_FLY_LARGE : Protection against flies
+DESC_CORAL_HUNTER : An ancient hunter. The most destructive and skilled of his race, he was also skilled in the use and control of a sword.
+NOTE_CROWMAN_DAGGER_JUROR : They are just trying to survive the surprise. Hey, enough chatter. I only have a sword and I know how to fight.
+NAME_SPINNER_BOSS : Widow
+NOTE_FIELDS_FLOCK_FLYERS : At the slightest danger, they order their companions to scream. For hunting to go well, they must remain silent until the attack.
+NAME_ABYSS_MASS : He was called Salvatore
+NOTE_WEAVER_SERVITOR : Weaver hasn't come out of the bathroom in a while, but his return serves his purpose nonetheless.
+DESC_PILGRIM_HIKER : An insect with a hard shell used as a climbing tool. Its spines, once a means of resistance, were later turned into weapons, but their use today remains primitive.
+DESC_BONE_HUNTER_THROW : A giant ant hunter must guard three warehouses and travel.
+DESC_CORAL_WARRIOR : A faithful and capable leader of a once wealthy nation has slowly faded into obscurity.
+DESC_PILGRIM_MOSS_SPITTER : An old pilgrim covered in moss and lichen.
+NOTE_SONG_HEAVY_SENTRY : There is no special technique for silk. Using a small amount simply increases its life.
+DESC_POKE_SWIMMER : A floating animal with an iron gate that can protect itself and its inhabitants.
+DESC_CONDUCTOR_BOSS : Evidence of death in the form of numerous skulls was found among the remains of the aspen collections.
+NOTE_PILGRIM_03_UNDERSTORE : They wanted to keep their country clean... but to no avail.
+NAME_BLADE_SPIDER_HANG : Farid said
+NOTE_BELL_GOOMBA : If they weren't so hostile I would want to touch their soft fur.
+NOTE_DOCK_WORKER : Their metal in this area seems to be stronger than mine. This is mainly due to the natural heat source at the base. Working in such an environment is quite an achievement.
+DESC_DOCK_FLYER : A pilot affected by Paruma's curse takes a bag full of burning stones and throws them towards the intruders.
+DESC_TROBBIO : An arrogant player who can save Para from death by his actions alone.
+NAME_BONE_HUNTER_BUZZER : receipt
+NAME_LILYPAD_FLY : Gem caterpillar
+NAME_CLOVERSTAG : MEDICINE Deer
+NAME_SONG_GOLEM : Fourth chorus
+DESC_POND_SKATER : A hard-shelled insect often found at Shelwood Lake. It was once a major food source for peregrines.
+DESC_GARMOND : The old man was eaten by a black rope.
+NOTE_GIANT_FLEA : I had no idea such a big and dangerous flea existed. I was glad it regained consciousness before I could inflict a fatal wound.
+NOTE_SONG_GOLEM : It was not easy for Faralus to create such a large and flexible structure.
+NAME_PILGRIM_03_SONG : The last hand of the chorus
+NAME_SONG_PILGRIM_MAESTRO : Teacher
+NAME_MAGGOTS : McGarry
+NOTE_BONE_ROLLER : Their rough, striated scales adhere tightly to any surface, and even walls and ceilings become a gateway for these destructive insects.
+NAME_SONG_AUTOMATON_SHIELD : Safety equipment
+NAME_GARMOND : Hegemund lost
+NOTE_CORAL_GOOMBA_LARGE : Nature reacted... A small, weak worm was born. Kel continued to hope for survival.
+NAME_BONE_GOOMBA : I cleaned the heads
+NOTE_BONE_HUNTER_BUZZER : They make great hunting companions, but I believe they will always be loyal to their families, even if divinity doesn't happen.
+NAME_CORAL_BIG_JELLYFISH : mom
+DESC_SAND_CENTIPEDE : A roundworm that lives under a sandy bottom.
+NAME_MOSSBONE_CRAWLER_FAT : Get a giant foam
+DESC_CORAL_CONCH_SHOOTER_HEAVY : A large male, endowed with marked masculinity and excellent jumping abilities, drags intruders after him with a heavy coral algorithm.
+NOTE_VAMPIRE_GNAT : Even long after his masters were gone, Morwing continued to roam the towers of Grimor, attacking strangers and squirrels as they passed by.
+NOTE_SWAMP_BARNACLE : He hides his tongue in the leaves... This bird has a good sense of humor while doing his tricks.
+DESC_FARMER_SCISSORS : The insect cut the silk like the wings of a pair of scissors and quickly returned to the palace.
+NAME_UNDERSTORE_AUTOMATON : lower flywheel housing
+NOTE_TAR_SLUG : What at first glance appears to be purely a defense mechanism is actually what the body needs to release excess heat.
+NAME_SONG_THREADED_HUSK : Create a map
+NOTE_CORAL_KING : Under this harsh regime, the army remained loyal. The rebels had to take action to control them.
+NAME_CORAL_GOOMBA_LARGE : shells
+DESC_SONG_THREADED_HUSK : The remains of the castle beetle are wrapped in a silken thread woven with many sharp needles, which penetrate the shell and attack furiously.
+DESC_SONG_CREEPER : Another seed from Castle Whiteward. They return silk for treatments.
+DESC_CROWMAN_DAGGER_JUROR : The little grown-up King of Cancer diligently serves the court.
+NAME_SWAMP_MUCKMAN : The stalks
+NOTE_BONE_HUNTER_THROW : Their weapons are up to the job and they are an army of expert warriors. If you want to get paid, you have to try.
+NAME_SONG_SCHOLAR_ACOLYTE : Boltburn
+NAME_SPIKE_LAZY_FLYER : To remove
+NOTE_PILGRIM_BELL_THROWER : The sound of a bell filled the air with hope and joy and instilled in the climbers the will to fight. Unfortunately, these devices are only used in warfare today.
+NAME_BLACK_THREAD_CORE : empty mass
+NAME_PEAKS_DRIFTER : Operations
+NAME_CRYSTAL_DRIFTER : Mnemonides
+NAME_TAR_SLUG_HUGE : In Varga
+NOTE_POND_SKATER : Surfing is a truly rewarding sport. It's a skill I can master. I'm sure I'll try it when I have time.
+NOTE_ABYSS_CRAWLER : I have always known this being. No matter how far I go, no matter how deep I dive, she is always there.
+NOTE_CORAL_BIG_JELLYFISH : falling, it broke apart even under water; From these lands the king saw another wonderful creature.
+NAME_PILGRIM_BELLTHROWER_FLY : Pilgrim's bell
+DESC_STICK_INSECT_FLYER : It is a hairy insect with a scaly shell that perfectly mimics its environment.
+NAME_MITE : chin
+DESC_MOSSBONE_CRAWLER_FAT : Created in Arcis' memory, Eryx used moss that had grown abnormally due to a cancerous growth.
+NOTE_ROSARY_THIEF : Although these insects can move freely around their prey, scattered pellets and accessories are not safe.
+DESC_DUSTROACH_POLLYWOG : Macaque larvae emerge from the water and with their flexible jaws pounce on their prey.
+DESC_BONE_HUNTER_CHIEF : Once a noble hunter, he was his mother's last line of defense.
+NOTE_SLAB_PRISONER_LEAPER_NEW : There is a curse on the guards and the prisoners. Do they know they will never leave? How long will they stay here?
+NAME_CRYSTAL_DRIFTER_GIANT : Northern Memorandum
+NOTE_BONE_GOOMBA_BOUNCE_FLY : These skinny specimens survived in this warm cave because there were very few predators.
+DESC_TAR_SLUG_HUGE : An adult mollusk that can force moisture off its back.
+NOTE_CROW : Insects and other common creatures easily succumb to these threats. It is dangerous because it often attacks on its own.
+NOTE_CENTIPEDE_TRAP : This insect is a rare species, but there's no shame in that. What it lacks in sight, it makes up for in other, more acute senses.
+DESC_BONE_HUNTER_BUZZER : This bird of prey flies above house roofs and lives in rocky cliffs; it is often used to assist larger members of the species.
+NOTE_FARMER_SCISSORS : Was it a psychological event that caused him to lose his mind or did it happen after constant studying?
+DESC_ROACHFEEDER_SHORT : A small and very destructive insect, it manages to surround the animals' cages with the help of its hooked horns.
+NAME_GLOOMFLY : The color of the groom
+NOTE_BONE_HUNTER_CHILD : Despite their young age, their opponents are formidable. Their race seems to have been trained for battle from birth.
+NAME_DUSTROACH_POLLYWOG : baboon blanket
+DESC_LIGHTBEARER : As a follower of the Vault of Whispers, his mission is to explore the dark depths and find an ancient book.
+NOTE_SWAMP_SHAMAN : "This man's power has greatly increased thanks to his stealth soul. This is not the first time he has raised spirits or abused them."
+NOTE_UNDERSTORE_SMALL : If debris were to fall on their property, a team of engineers would be needed to preserve any remaining hope.
+NOTE_BONE_FLYER_GIANT : This kingship is now on the decline, but a monstrous beast still roams the plains. The first scream awakens instinct within me.
+NOTE_SPIKE_LAZY_FLYER : This unfortunate creature is so cute, adorable and full of life. I doubt it happens in the wild.
+DESC_CORAL_FLYER : Winged, flexible explorers are often paired with heavier companions.
+NAME_SONG_CREEPER : ceremony
+NOTE_ROACHFEEDER_SHORT : Firearms are well suited to the large corridors in which they live. The sharp claws of these cunning insects help them dig holes.
+DESC_SPIKE_SWIMMER : Kai has a power that allows him to shoot sharp spines into his shell.
+NOTE_CLOVERSTAG : Smárahellir is a perfect image of the earth, so similar that it should be preserved for generations.
+NOTE_MOSSBONE_FLY : This insect is light and shapeless, but fortunately has relatively few effective natural predators in a cave environment. Why?
+DESC_SONG_GOLEM : A large iron engine was powered by a rotor and rings.
+DESC_CORAL_CONCH_DRILLER : A small insect that builds a shell with sharp corals. It breaks the shell, burdening the spine faster than the bark.
+DESC_CORAL_SWIMMER_FAT : From ancient times, thick and numerous stems have been found in coral reefs.
+NAME_CORAL_GOOMBAS : bark beetle
+NOTE_CORAL_BRAWLER : Virtue protected within its framework. To conquer the tower, they must spend their entire lives there.
+NAME_SONG_REED : To show the way
+DESC_FARMER_CENTIPEDE : This large insect could quickly collect pieces of silk, and its sharp claws also functioned as slingshots.
+NAME_BLOAT_ROACH : Indian cockroach
+NAME_ROACHKEEPER : They make cockroaches
+NAME_TORMENTED_TROBBIO : Trobius' Punishment
+NOTE_UNDERSTORE_MITE_GIANT : There were very few organizations involved in the silk cotton industry that could afford enough food to grow to that size.
+DESC_WRAITH : Tortured soul bound with thread. Although the item is light, a powerful attack can destroy it in an instant.
+NOTE_GARMOND : The sad fate of a once great insect. The colored thread is useless. The damage to the soul cannot be described even by physical force.
+NAME_BONE_ROLLER : shopping malls
+NAME_SPLINTER_QUEEN : running sister
+NOTE_CRYSTAL_DRIFTER : Even after its destruction, the Cold Shard retains its original form. It's a wonderful thing, but what's even more wonderful is that it seems to have life.
+NOTE_SONG_KNIGHT : I have never seen the art and skill of this thing before. They are not seen as practical tools, but as an attempt to experiment with life.
+NOTE_SONG_SCHOLAR_ACOLYTE : Entering their territory, I released these insects and filled the entire warehouse. This is a very good question and I take full responsibility for it.
+DESC_VAMPIRE_GNAT : A winged, tick-like animal that was once kidnapped by workers trying to escape from work.
+NAME_SONG_AUTOMATON_01 : Favorite choral instrument
+NOTE_CORAL_CONCH_DRILLER : Watching them fly over the ground is a fun and effective way to hunt.
+DESC_BLOOM_PUNCHER : A bloom-inhibiting insect that can spread its web core and attack unsuspecting insects with its sting.
+NAME_ROACHKEEPER_CHEF_TINY : Cockroach server
+NOTE_WEAVER_SERVITOR_LARGE : The servers have suffered a heavy loss which has made them unstable. They no longer seem to be able to distinguish between friend and foe.
+NOTE_CORAL_SWIMMER_LARGE : A wonderful, heavy mask. Today it is the symbol of the king, a simple, forgotten ideal in this country.
+NOTE_BONE_HUNTER_TINY : These insects are primarily scavengers and provide food for the three soldiers. Fighting is not their natural instinct.
+NOTE_BONE_WORM_BLUEBLOOD : The pharmaceutical industry will soon reveal the curse of this drug. Its positive effects will soon wear off.
+NAME_BONE_HUNTER_CHILD : Skull Explorer
+NAME_CORAL_CONCH_STABBER : Girl girl
+DESC_SONG_HANDMAIDEN : Silk palace pendant. A primitive machine that requires a large amount of silk to function.
+DESC_SETH : Eternal Guardian of Shelwood Temple; shows numerous signs of use on pins and plates.
+NOTE_UNDERSTORE_AUTOMATON : No wonder these structures are melting. Even the most cultivated insects cannot survive this heat for long. Even my shell can barely handle it.
+DESC_CLOVERSTAG_WHITE : The legendary clover that lives in the Verdania desert. It uses grass and leaves to boost its attacks.
+DESC_SONG_REED : He is a member of the choir and is responsible for maintaining order and using sharp instruments when necessary.
+NOTE_DRAGONFLY_LARGE : I find their simple movements quite comfortable as they don't interfere with my arm movements.
+NOTE_ROOF_CRAB : It stores large amounts of pyrophoric acid inside its shell and sprays this acid from its mouth at any animal it finds to eat.
+DESC_UNDERSTORE_HEAVY : This heavily armed worker is always busy rebuilding the structures of destroyed buildings underground.
+NOTE_FIELDS_GOOMBA : The body cannot defend itself. The only way to survive is through contact with plants.
+NOTE_BONE_BEAST : Here is the grace to be saved for me, or perhaps for someone like me. Whatever it was, I loved spending time with him.
+NOTE_SONG_PILGRIM_01 : They followed me from the cave to the lighthouse. I killed many before they came to me. Then I was smart and ready. Now everyone is encouraged to eat.
+NAME_CORAL_FLYER : Cucumber
+NOTE_BONE_SPITTER : Freshly frozen saliva could certainly be a useful material for a craft project. Unfortunately, I haven't had a chance to try it yet.
+NOTE_SLAB_FLY_MID : The scent guards surrounded me; I couldn't believe it had been washed.
+NOTE_CORAL_SWIMMER_SMALL : A primitive creature. No threat to me or anyone else.
+DESC_PILGRIM_STOMPER_SONG : Ancient Pilgrim. He overcomes dangers with his wings and covers himself with enormous arms.
+NAME_STICK_INSECT_CHARGER : Karen Eitzen
+NAME_PILGRIM_03_UNDERSTORE : a crime
+NAME_ROOF_CRAB : By Craig
+NOTE_PILGRIM_HIKER : Once upon a time there was a man who was sick with worms and died from a twisted thread.
+NOTE_SWAMP_GOOMBA : The threat of a kinked tail effectively deters predators, but a small accident or bump can lead to an untimely death.
+NOTE_WISP : If someone had a moment of genius... how would they feel? Arrogance, desperation or maybe both?
+NOTE_ROACHKEEPER : Their spirit is almost gone, but the bonds remain. Will these deadly insects ever be bound to work?
+DESC_BONE_FLYER_GIANT : The mask of an angry, wild, ripe, fly, fat, thick and hard animal.
+DESC_BONE_ROLLER : The young man played an insect that could roll its body up into a ball with its legs.
+NAME_WISP_PYRE_EFFIGY : Father of Flames
+NAME_POKE_SWIMMER : form of coarse moss
+NOTE_MOSSBONE_CRAWLER_FAT : It looks like the perfect fur coat... if only we could get rid of the spine.
+DESC_ABYSS_CRAWLER_LARGE : A giant worm that lives in the deep. She lives in tight gears and attacks with her heavy body.
+DESC_SPINNER_BOSS : A fanatic who can dominate the cursed Parumense silk with the music he plays.
+NAME_ZAP_CORE_ENEMY : Boltville
+NAME_SMALL_CRAB : Craiglight
+NOTE_SONG_THREADED_HUSK : The story tells of years of suffering caused by countless abuses.
+DESC_SKULL_KING : The skunk, a rare and heavy skeleton of the Merlaw's top predator, was especially feared for its ferocity.
+DESC_PILGRIM_02_SONG : A holy pilgrim serving in the palace.
+DESC_CRAWFATHER : Jupiter's ally, the god Pharaoh, exterminated the wicked with his claws and beak.
+NAME_ABYSS_TENDRIL : Feeling of meaninglessness
+NAME_DOCK_BOMBER : flint flame
+DESC_ROCK_ROLLER : A rare insect that spends most of its life burrowing into bone or stone. It illuminates the gunpowder from the flint crystals attached to its shell.
+NOTE_SLAB_FLY_LARGE : The sight and smell of these things are very disturbing. I don't feel guilty when I break them.
+NAME_PILGRIM_FLY : peregrin Falcon feathers
+NOTE_PILGRIM_03_SONG : I have proven time and time again how effective paper weapons are. I would never have thought of such a card.
+NAME_SLAB_FLY_BROODMOTHER : the mother produces
+DESC_GLOOM_BEAST : A large, tubular creature, especially adapted to life in nearly subterranean burrows.
+NAME_CROWMAN_JUROR : Turbo referee
+DESC_PILGRIM_STAFFWIELDER : An old pilgrim carries a heavy iron bell.
+NAME_PILGRIM_HIKER : The pilgrims are coming
+NAME_DOCK_FLYER : Flintstones style
+NOTE_SMALL_CRAB : If these insects raise young, they will fight for dominance until only one is left.
+NOTE_SONG_THREADED_HUSK_SPIN : Towers of live silk rising from dead shells... an affront to nature and a common sight in spas.
+NAME_CORAL_CONCH_DRILLER_GIANT : Wait
+NAME_ABYSS_CRAWLER_LARGE : shadow disk
+NAME_SWAMP_DUCTSUCKER : Football channel
+NAME_GLOOM_BEAST : pitch black
+DESC_ZAP_CORE_ENEMY : Nests of insects that emerge from the broken rays and attack them.
+DESC_SCHOLAR : As High Priestess, she is responsible for teaching and praying for those who whisper outside the cave.
+NAME_SONG_PILGRIM_02 : Surgeon
+NOTE_CRAWFATHER : Do you blame me for your vain rule over this earth? If so, your judgment may be wrong. I have caused a lot of trouble with these insects.
+NOTE_DOCK_FLYER : Soy contains a true natural miracle with many beneficial properties. It is a sin to throw it away carelessly.
+NAME_ROACHFEEDER_TALL : eats the cockroaches
+NOTE_CORAL_FLYER_THROW : They weren't in the front line but when they attacked the towers they all came to me and stopped me.
+NAME_PINSTRESS_BOSS : Spindle voltage
+NAME_CRAWFATHER : father of cancer king
+NAME_WISP : grind
+NOTE_CROWMAN_DAGGER : He is a coward. He tries to throw edged weapons from a distance. It is best to charge and kill him immediately.
+DESC_CORAL_FLYER_THROW : A stormtrooper is dressed in an impressive figure and is trained to provide support to enemies on the ground.
+NOTE_SCHOLAR : Perhaps his true mission was to alienate and condemn all those he did not consider religious enough.
+NAME_CORAL_SWIMMER_FAT : Ghats
+DESC_PILGRIM_FISHER : At Shelwood Pond, an old fisherman hauls ashore a long brandy-burnt fish.
+NAME_BONE_HUNTER_TRAPPER : prohibited
+NAME_SWAMP_MUCKMAN_TALL : Stilkin's face
+NAME_DRAGONFLY_LARGE : Pendergool
+DESC_ROACHKEEPER : The old man, the old cockroach exterminator, crushed a heavy chain.
+NOTE_FARMER_WISP : Somehow he had mastered the art of lighting and burning the flames that grew among these bushes. Whether it was a desire for dominance or a desire for miracles, it is unclear.
+NOTE_BLUE_ASSISTANT : He spreads this vile substance around the cave. It has magical powers.
+DESC_CORAL_GOOMBAS : A gentle, climbing turtle surrounded by coral.
+NOTE_CORAL_CONCH_DRILLER_GIANT : Connecting with others is a natural instinct, and for some insects it is incredibly satisfying. I've been looking for these connections for a long time, but none of my friends have lasted as long as I have.
+DESC_HUNTER_QUEEN : The song of the queen of the skull and a skilled warrior.
+NAME_PILGRIM_01_SONG : Storm shoes
+NOTE_CLOVER_DANCER : Is it true to love someone like you or is it a sign of arrogance?
+NOTE_WHITE_PALACE_FLY : They were the ruins of my father's house. Only a fool would believe he could turn an empty space into anything he wanted.
+NAME_BONE_SPITTER : termite
+NAME_SWAMP_BARNACLE : Sublimated
+NAME_BLOOM_PUNCHER : french
+NAME_SHELL_FOSSIL_MIMIC : Part predator
+NAME_FIRST_WEAVER : The first sinner
+DESC_PILGRIM_FLY : A horned insect with rudimentary wings.
+NAME_BONE_HUNTER_THROW : Skull
+DESC_PILGRIM_BELL_THROWER : A simple cannon armed with an old bell that it fires at any passive opponent.
+NOTE_GRASSHOPPER_FLY : I was born with most of the tools I dreamed of. Fortunately, I had to work hard to overcome these limitations.
+NOTE_SWAMP_MUCKMAN_TALL : What is even more serious than the many insect traps placed throughout the cave?
+NAME_BLOOM_SHOOTER : dust
+NAME_CORAL_WARRIOR_GREY : coast guard
+NOTE_SONG_ADMINISTRATOR : The mortality of these insects certainly varies. Their bodies were not originally designed for warfare. The repression caused a radical change in their structure.
+NAME_SLAB_PRISONER_FLY_NEW : the wicked will repent
+DESC_FIELDS_FLYER : A delicate insect with grassy hairs that grows in fields. It is preyed upon by larger predators.
+DESC_UNDERSTORE_THROWER : Lose your weakened and exhausted prison cons. The craftsman's wheel, once used for repairs, now functions as a ball wheel.
+DESC_SLAB_PRISONER_LEAPER_NEW : A simple prisoner put in a prison uniform for a crime committed in the palace.
+DESC_FLOWER_QUEEN : The ancient heart of Shelwood is connected to all the creatures that live there.
+DESC_SONG_PILGRIM_01 : He is the director of the Castle Choir and often works as a choir director.
+NOTE_GNAT_GIANT : Despite its unsightly appearance, this animal has a highly developed sense of smell that allows it to use its massive body to identify unfamiliar odors and attack them. Surprisingly, her ferocity remains intact even in her old age.
+DESC_SWAMP_GOOMBA : A reptilian insect with a skin blister on its abdomen that emits a hissing sound.
+NAME_LIFEBLOOD_FLY : The feather is the seed of life
+NOTE_SONG_HANDMAIDEN : Given the chance, he would steal silk from every important source, even my skin.
+DESC_LIFEBLOOD_FLY : A bag filled with plasma that lasts for one day. Once destroyed, it can be eaten to temporarily increase power.
+NOTE_SONG_AUTOMATON_FLY : The enemy is more dangerous than it seems. The rugged and uneven terrain makes even a simple attack difficult.
+NAME_CORAL_CONCH_DRILLER : good
+DESC_CORAL_CONCH_DRILLER_GIANT : Large schools live deep within enormous coral reefs. Although they live in pairs, they are rarely seen alone.
+NAME_CORAL_BRAWLER : The voice of the destination
+DESC_PILGRIM_03_UNDERSTORE : A tired but enthusiastic worker holds a raw steel brush.
+NOTE_BONE_HUNTER : Tough, strong and disciplined... but even this will not save us from genocide. Is this fate, is this area doomed?
+NOTE_SONG_REED : Flexible and agile form, ideal for combat. It is not surprising that it is present in so many cultures.
+NAME_BONE_WORM : thunder
+DESC_BONE_HUNTER_FLY : A winged hunting ant that attacks from above with a bone spear.
+NAME_SAND_CENTIPEDE : Sand cover
+NOTE_BONE_WORM_BLUETURRET : I have seen similar populations in caves near my house; this topic grew immediately. A mixture of surprise and disgust.
+DESC_BELL_FLY : A hairy insect that lives under dense bushes. It is too big to burrow, and as it grows, its wings get smaller.
+DESC_PILGRIM_04_SONG : An insect flies through the building. It has no defense other than a cornice.
+DESC_MOSSBONE_MOTHER : Adult mosquitoes have well-developed spines and hard skin.
+NOTE_MOSSBONE_MOTHER : Motherhood is an instinct that transcends the boundaries of nature and transforms even the weakest creatures into dangerous enemies.
+NOTE_WISP_PYRE_EFFIGY : The remains of an ancient insect were found in the middle of the cremation site. He himself was aware of his death by deliberately burning himself. If so, I saw his wishes.
+DESC_BONE_HUNTER : An expert ant hunter is armed with a sword and bone.
+NAME_BONE_FLYER_GIANT : wild flies
+NOTE_TAR_SLUG_HUGE : A large amount of flammable liquid has accumulated in the body to survive... I thought it was impossible, but the pharmaceutical industry is full of miracles.
+DESC_SONG_PILGRIM_MAESTRO : Director of the choir in the Great Hall. He can summon and control them with a simple wave of his wand.
+NAME_BONE_GOOMBA_BOUNCE_FLY : skull wings
+NAME_PILGRIM_04 : Assam pine with pills
+NAME_PILGRIM_05 : an old stranger
+NAME_PILGRIM_02 : The Pilgrim's Shot
+DESC_CORAL_SWIMMER_LARGE : The reef has grown and been masked by fish larger than their bigger brothers.
+DESC_FARMER_WISP : A four-legged animal dies in the fire.
+NAME_PILGRIM_01 : Attack of the foreigners
+NAME_BONE_HUNTER_CHIEF : The last fence
+NAME_DOCK_WORKER : I lose the ice cream
+NOTE_CROWMAN_JUROR : I responded to your appeal out of curiosity, but I can't go any further. I must correct this serious error immediately.
+NAME_CORAL_JUDGE_CHILD : A squirrel
+NAME_LIGHTBEARER : Chirag
+NOTE_DUSTROACH : They are wonderful creatures. Their existence fascinates me. The cages they build always make me nervous.
+NAME_FIELDS_FLOCK_FLYERS : Brush element
+NOTE_BONE_FLYER : Dancing and running around this simple creature was a favorite childhood pastime. Now an even fiercer warrior appears.
+NOTE_FARMER_CENTIPEDE : Their task seems sad and difficult: to devote their lives to the obedience of an invisible defender.
+DESC_BONE_GOOMBA_BOUNCE_FLY : It is an aerial relative of the ignorant terrestrial skeletons found in the deepest and hottest caverns.
+NOTE_DOCK_BOMBER : His life will be full of dangers and his life will be short and sad.
+DESC_CLOVERSTAG : It is a warm animal native to the Varden, and its fur is very similar to vegetation in its natural environment.
+NOTE_CORAL_JUDGE : They despise pilgrims and wayfarers in the most despicable way. Countless witnesses scattered along the nearest road are their clear evidence.
+NAME_PILGRIM_STAFF_UNDERSTORE : Cleaned from the bottom
+NOTE_CROWMAN_JUROR_TINY : They are weak, fearful and live in fear of imminent death. Their desperation is understandable, but my death will not stop the impending apocalypse.
+NOTE_SONG_AUTOMATON_02 : This is a wonderful use of steam. We must keep this structure in mind when designing the vehicles of the future.
+NOTE_SWAMP_MUCKMAN : They know their limits well and when someone approaches them at any moment they give way to roads or swamps.
+DESC_BLUE_ASSISTANT : Cloak is the alchemist's assistant who gives fake bioplasm.
+NOTE_BLOOM_PUNCHER : The fake person is so scary that the little insects get scared and run away.
+NOTE_ASPID_COLLECTOR : He usually dodges a potential berserker, but his grip forces Param to react harshly. Fortunately, the necks were not fit for battle.
+NAME_CORAL_CONCH_SHOOTER_HEAVY : Driznerga
+NOTE_ROACHKEEPER_CHEF : Back in the cave, the chef continued to prepare dishes that were too bland for normal insects.
+NAME_CLOVER_DANCER : Little dancer
+DESC_CORAL_KING : A powerful warrior king from ancient times. He can control coral fishing at will.
+NOTE_UNDERSTORE_HEAVY : Although there is no visible hierarchy around him, this man is in a position of priority over others and has achieved this position through threats and violence.
+DESC_LACE : A furious accuser who loves to argue.
+DESC_CENTIPEDE_TRAP : A blind and ferocious animal reacts violently to the slightest noise.
+DESC_SILK_BOSS : Emperor Paruma and the origin of silk.
+NOTE_SONG_SCHOLAR_ACOLYTE_ACT_3 : Because of Faram's darkness, these creatures escaped from the depths of the crypt. Those were real threats and if someone was responsible for me...
+NAME_GARMOND_ZAZA : She and ZaZa
+NAME_MOSSBONE_FLY : Seasons
+DESC_BONE_SPITTER : A small, non-aggressive mouth that lives near a magma. Her prey spits hot resin.
+DESC_SWAMP_MOSQUITO : A type of insect with sharp teeth and a stomach filled with bile.
+DESC_BLADE_SPIDER : In the lab, a small spider was found among numerous cracks and caves.
+DESC_BONE_WORM_BLUETURRET : A giant worm, deeply altered by the blood, grows in the ceiling of the cave and cannot move freely.
+NOTE_CORAL_FLYER : His training is similar to mine, with quick, sudden movements. Was I once a hunter?
+NOTE_BLOOM_SHOOTER : His vision must be extraordinary. He hears me without making a sound.
+DESC_CRYPT_WORM : A young, treacherous insect that prefers to hide in tunnels and attacks anyone who enters.
+DESC_UNDERSTORE_AUTOMATON : The small device is designed to work efficiently, even in the hottest prison conditions.
+DESC_DOCK_GUARD_THROWER : Boss at Deep Dog. Responsible for the management and training of junior employees.
+DESC_CORAL_CONCH_STABBER : A swimming animal with a large coralline algorithm and a hard mouth that opens to attack prey.
+NAME_CORAL_WARRIOR : Caracas
+NAME_LACE : means of livelihood
+NOTE_ROACHFEEDER_TALL : Dry food with wings is designed to lure hungry raptors away from soft food.
+NAME_BLUE_ASSISTANT : Shape balance
+NOTE_ABYSS_MASS : The demon was born from the insect's great desire for power. Very few have the ability to summon Vain Surgery, and even those who do cannot control it.
+DESC_CORAL_SPIKE_GOOMBA : This black, hairy insect defends itself with the fruits of coral spines.
+DESC_ROOF_CRAB : A heavily armed squirrel that prefers high places.
+NAME_SETH : Temple of the patron Saint Peter
+DESC_UNDERSTORE_POKER : Weak and on the verge of collapse, trapped in the chaos of anarchy, these workers perform tasks far beyond human capacity.
+DESC_SWAMP_MUCKMAN : An intelligent insect that chases poles and arrows from the skin.
+NOTE_ABYSS_TENDRIL : Vano, which is all-encompassing… the essence of what he has chosen can be clearly seen in the thorn-strewn form.
+DESC_SONG_AUTOMATON_SHIELD : An artificial dental implant that is primarily designed to protect part of a tooth's root. It has hairs and pins and is used a lot.
+NOTIFICATION_HALF : New diary entry
+NAME_SLAB_FLY_SMALL_FRESH : A new fly
+NAME_FLOWER_QUEEN : Nils
+DESC_BONE_CRAWLER : This is a small bony insect that likes to live in dark holes. Its thin shell protects it from predators.
+NAME_RHINO : Rhinos are big
+NOTE_PILGRIM_STAFF_UNDERSTORE : The same cleaner will do a thorough job of the rest of the room: just shave off the stain.
+DESC_SONG_REED_GRAND : These taller chickens, members of the superior butterfly group, get more exercise and feed more than their smaller cousins.
+NOTE_SONG_CREEPER : They may be dutifully cautious, but they can also suddenly dance and worship, turning their sharp beaks into deadly weapons in incredible environments.
+DESC_UNDERSTORE_AUTOMATON_EX : A compact machine with a protective case, designed to deal with high volumes of dangerous fires.
+NOTE_GARMOND_ZAZA : They also follow the spirit in the center of the hourglass, but I fear the enemy will pursue them beyond their strength.
+NOTES_DEFEAT : Also defeat {0} to complete the hunting badge.
+NAME_ARBORIUM_KEEPER : Man
+DESC_CORAL_CONCH_SHOOTER : The nest is a creature with its face attached to coral.
+NOTE_PILGRIM_MOSS_SPITTER : Eagles have been seen collecting moss in their beaks and spitting it at their enemies. This is the most aggressive form of aggression.
+DESC_SONG_AUTOMATON_BALL : A wonderful device that makes the sound of blades or plates colliding inside it.
+DESC_SONG_PILGRIM_03 : As a member of the choir, his dignity is greater than that of other foreigners and he must always cover his face.
+NOTE_MITE_HEAVY : The mossy structure appears to be made of claws and the horns dig and carve numerous tracks.
+DESC_CRYSTAL_DRIFTER : A flying animal produces a cold fragment. Even if it is destroyed, it regenerates immediately.
+NOTE_BONE_GOOMBA : Creatures lurk everywhere in new and unexpected ways. Always be alert.
+DESC_BONE_CIRCLER_VICIOUS : A warlike, furry beast, brandishing its sharp tail, furious as a weapon.
+DESC_BONE_HUNTER_CHILD : A young hunting ant holds a sharp sickle in its teeth and often calls for help when danger approaches.
+DESC_CORAL_BUBBLE_BRUTE : A giant chick that shoots fireballs from its coral-encrusted shell.
+NAME_SONG_ADMINISTRATOR : minister
+DESC_SPLINTER_QUEEN : At the heart of Shelwood is a great and ancient insect nest, where even insects cannot survive inside the threads that swim spontaneously between the branches.
+NOTE_CORAL_BUBBLE_BRUTE : This combination of insects and soil development... seems to be intentional, but I don't think such a combination will always be comfortable.
+NOTE_UNDERSTORE_AUTOMATON_EX : This structure, built solely to serve until its members have exhausted their time, is perhaps least aware of being a servant.
+NAME_MOSSBONE_CRAWLER : Foam gloves
+NAME_CROW : Office
+DESC_SHAKRA : He is a warrior and cartographer from a tribe that lives in remote areas of the Faroe Islands and possesses some of the best fighting skills in the kingdom.
+NAME_SONG_AUTOMATON_GOOMBA : Just give it to him
+NOTE_PILGRIM_01_SONG : It was Faram's favorite insect: it was its surface and shell that had made him hunt it.
+NOTE_CORAL_GOOMBAS : These little creatures hide in the dome of the tower and manage to live and thrive.
+NOTE_SPLINTER_QUEEN : This child lived a long time and ate well. It would have been safer to cut down that tree.
+NAME_SWAMP_MOSQUITO_SKINNY : loud cry
+NOTE_CORAL_SWIMMER_FAT : At one point you can see several towers all around. It was a unique opportunity to witness such a large operation.
+NAME_CORAL_BUBBLE_BRUTE : vertebral fracture
+DESC_BELL_GOOMBA : It is a pest that builds velvet nests and needs stiff pants to protect its soft body.
+NOTE_CORAL_CONCH_SHOOTER : It's easy to bump into the overhang of the hood, especially in sharp turns.
+NOTE_PILGRIM_STOMPER_SONG : As time went by, their shells became thicker and the planes became more powerful to engage targets.
+NAME_UNDERSTORE_AUTOMATON_EX : Target vehicle
+NAME_FARMER_CATCHER : Capture Cass
+DESC_BLADE_SPIDER_HANG : An animal-like spider that hides in a dark hole in a cave ceiling and attacks its prey from above.
+NAME_GRASSHOPPER_CHILD : Kindanil
+NOTE_GIANT_CENTIPEDE : A classic monster, just like in a children's story. Not only did I beat it, but so did my brave friends.
+NAME_GNAT_GIANT : my mom can do it
+NOTE_CORAL_CONCH_STABBER : Waiting for the prey to come to you. This is necessarily a flawed technique. The key to success is efficiency.
+NOTE_LIFEBLOOD_FLY : My unique shell can withstand the dark changes of this stuff, but I too have my limits.
+DESC_CROWMAN_JUROR_TINY : The garbage man screams and cries to catch the world.
+NAME_WHITE_PALACE_FLY : The size of the angle
+NOTE_GLOOM_BEAST : Curiously, the creature stores a dark liquid in its stomach, which it violently spits out when it feels threatened.
+NOTE_POKE_SWIMMER : Some are great. Without them, the moss would quickly disappear and become vulnerable to attack by larger predators.
+DESC_ROSARY_PILGRIM : A powerful insect, skilled in the art of water magic. When agitated, it uses water magic and attacks violently.
+NOTE_SWAMP_MOSQUITO_SKINNY : To survive in this toxic environment, they inhale the most toxic substances. Over the generations, this ancient survival tactic has proven to be an effective hunting weapon.
+NAME_UNDERSTORE_HEAVY : under the handle
+NAME_UNDERSTORE_MITE_GIANT : One minute of huge history
+NAME_PILGRIM_04_SONG : Choir booklet
+NOTE_CROWMAN : Although they are more aggressive than their smaller relatives, they are less likely to leave the nest.
+NAME_PILGRIM_02_SONG : Zoran's main chorus
+DESC_TORMENTED_TROBBIO : The depressed player is trapped in the darkness of a world that is slipping away.
+DESC_ROACHKEEPER_CHEF : He was once a very famous cook, but was kicked out of the castle because of his frequent mistakes in the kitchen.
+DESC_UNDERSTORE_SMALL : It is not suitable for plants that grow underground, with long, curved wings and hard shells.
+DESC_SLAB_FLY_MID : Hungry servant. In his hand is a long needle, a cup of a needle.
+NAME_SWAMP_DRIFTER : Muesli Pelagnaya
+DESC_SONG_AUTOMATON_FLY_SPIKE : Automatic device with circular nozzle with multiple keys attached.
+NOTE_BONE_CIRCLER : It forms a thick, round structure to hit targets. It is impossible without good will...
+DESC_CITADEL_BAT_LARGE : With age and hard work, the wing fly has grown considerably. Its strong structure can hit much harder than its smaller brothers.
+NAME_GRASSHOPPER_SLASHER : Wardanil
+DESC_LAST_JUDGE : The Grand Jury walks past the condemned and sees to it that only the innocent are allowed to enter through the entrance.
+NOTE_TORMENTED_TROBBIO : Here he met his fate. It's not easy to give up.
+NAME_GIANT_CENTIPEDE : War at the table
+DESC_PEAKS_DRIFTER : The Fay mountain glider is soft thanks to its soft wings and head, so it can withstand even the highest temperatures.
+DESC_CORAL_BRAWLER : The body of the plate is rigid and heavy, which increases its weight and durability.
+NOTE_FIRST_WEAVER : This man's weapons hid an extraordinary ability to pierce real fire. He had seen nobles use them in various ways throughout his life. Was he the first to learn this art?
+NAME_PHANTOM : Loft
+NOTE_GLOOMFLY : It's a bit disturbing... Is there something sinister in this simplicity?
+NAME_SONG_HEAVY_SENTRY : Cross talk
+NAME_CROWMAN_DAGGER_JUROR : A hidden corner of Jura
+NOTE_CLOVERSTAG_WHITE : It happened in memory. However, the creature blended in perfectly with the surrounding vegetation. As far as I knew, did it really exist?
+NOTE_GRASS_GOOMBA : Simple. Beautiful. Another wonderful creature has left this world forever.
+NAME_SKULL_KING : The bone tyrant
+NOTE_TROBBIO : While he wants to keep fans interested, he seems content to simply follow others on the scene in pursuit of his own interests.
+NAME_CENTIPEDE_TRAP : difficult
+DESC_DOCK_BOMBER : A strong worker lifts and moves the hot, unstable rock, using a heavy bell to keep it from burning.
+NOTE_ROCK_ROLLER : Sparkling jewelry is beautiful, but it can only be a temporary decoration. They can be a beautiful gift...or a trap.
+DESC_BONE_HUNTER_TINY : Ants dig small holes and use them on a large scale.
+DESC_SLAB_FLY_LARGE : A fat, hairy security guard whose mission is to catch and punish criminals.
+DESC_MOSSBONE_FLY : The animal defends itself by sticking out its small feathers.
+DESC_PILGRIM_01 : Farlam's Evasion Ability: Curse damage is high.
+NAME_SONG_AUTOMATON_02 : Cleaning agent for household appliances
+DESC_CORAL_WARRIOR_GREY : The older warrior guards the country's borders. In time, he recovers and wakes up early in the morning singing a song.
+NOTE_SWAMP_MOSQUITO : Due to explosions and rust, the moment of death is more dangerous than life itself.
+NOTE_CORAL_WARRIOR : He was the central figure of a strong organization based on integrity and spirit. His martial kingdom was founded on the sword.
+NAME_SCHOLAR : the castle
+NAME_SONG_REED_GRAND : great staff
+NOTE_SHELLWOOD_GNAT : Even if the bark is damaged, insects will still try to attack, boldly or foolishly.
+DESC_SONG_SCHOLAR_ACOLYTE : Young samurai grew up in cellars and the hierarchy rose.
+NAME_LILYPAD_TRAP : Nofar
+DESC_ARBORIUM_KEEPER : Kornemi responsible for the preservation of the palace's monuments.
+NOTE_SILK_BOSS : The heart of the mind sleeps for a long time and waits to be awakened. Threads of supreme authority run through the lighthouse, clinging to the thorns and leading to madness and discord.
+DESC_GARMOND_ZAZA : Brave knights and noble friends join forces to save their land from cursed madness.
+DESC_ASPID_COLLECTOR : It is a hairy insect that burrows into the bone base and feeds on mosses and lichens.
+NAME_DOCK_GUARD_THROWER : Four brothers were named Sinis and Gron
+NAME_HUNTER_QUEEN : Carmelita - Ossa Cantor
+DESC_PHANTOM : A wretched beast that broke into the palace ruins on its own. Long Ping is a unique character.
+NOTE_BONE_WORM : They work tirelessly, digging up rocks and bones. Do they have a specific purpose, or will they keep digging forever?
+DESC_BLOAT_ROACH : Born from the smoke of the palace, Mac-Roach's body was thin and weak, and his bell-like womb filled with bile.
+NAME_BONE_THUMPER : I prefer
+DESC_FIRST_WEAVER : An old artist is hanged for a long-forgotten crime.
+NOTE_CORAL_CONCH_SHOOTER_HEAVY : Powerful arrows shot from a sharp angle. Boldness does not move the target.
+NAME_UNDERSTORE_POKER : Lower mouth
+NOTE_SPIKE_SWIMMER : It seems docile, but it has a big surprise: if a larger predator tries to bite it, it will have to learn the hard way.
+NOTE_WRAITH : He is not wrong, he wants to turn into smoke and silk.
+NAME_SWAMP_MOSQUITO : Put down Squit
+DESC_WEAVER_SERVITOR_LARGE : Crafted by an ancient weaver, this crumbling structure can create halls and chambers of ice and bone and emit strong, silky beams of light.
+NAME_DOCK_CHARGER : differently
+DESC_WISP : A light, sparkling breeze rose from the flame.
+DESC_SPIKE_LAZY_FLYER : This slow and lazy insect reacts poorly to lethal threats.
+DESC_DOCK_CHARGER : The finger is used to explore the deepest and most dangerous points under the pier.
+DESC_SWAMP_BARNACLE : Its teeth are on the cave ceiling. It uses its long tongue to catch and swallow insects.
+DESC_LILYPAD_FLY : A flying animal with really beautiful wings that lives in groups.
+DESC_GIANT_CENTIPEDE : Lotor, who had been sleeping for a while, was awakened by Faram's screams and launched an attack.
+NAME_SHAKRA : are issued
+DESC_CITADEL_BAT : It is an insect that flies erratically and nests in damaged clothes or curtains.
+NAME_SLAB_FLY_SMALL : collector
+NOTE_PILGRIM_FISHER : Before they hunted only for food, now they hunt constantly and without thinking.
+NOTE_LILYPAD_FLY : It's so light it floats even while you sleep. It is truly a beautiful insect.
+NAME_FARMER_CENTIPEDE : Paid metal
+NOTE_BLOAT_ROACH : This idea is ridiculous... Can't it swim in the air? This lightness is caused by poisonous gas in our stomach.
+NOTE_SHELL_FOSSIL_MIMIC : When the insect wakes up, it attacks walls, ground, enemies and its shell with a steel blade.
+NAME_BONE_HOPPER_GIANT : Bearded strong man
+DESC_CROWMAN_JUROR : In ancient times, king crabs were used in sacred ceremonies.
+NAME_SONG_PILGRIM_01 : Special correspondence
+NAME_ROSARY_PILGRIM : A greedy pilgrim
+DESC_PILGRIM_01_SONG : The insect is intelligent and is one of the few brave strangers who managed to reach the palace.
+NOTE_SONG_PILGRIM_03 : The use of the needle, which is the result of much training, shows a greater skill in the use of twisted thread than that obtained with an ordinary worm.
+DESC_CORAL_JUDGE : He created a golden shield with explosives using plates and hammers.
+DESC_SWAMP_DRIFTER : A rare and delicate freshwater insect that can survive in harsh conditions and transform into a plant.
+DESC_SONG_AUTOMATON_01 : Iron, Spinner and Gear: This pest control equipment allows households to work continuously to protect the premises.
+DESC_DUSTROACH : Hungry cockroaches have voracious appetites. Despite their hard shell and smelly flesh, they are quickly produced and often farmed.
+NOTIFICATION_FULL : The newsletter has been updated.
+NAME_ABYSS_CRAWLER : In the shade of the vine
+NOTE_MAGGOTS : They attach tightly to the shell of other insects, eliminating the need to retreat and rest.
+DESC_SHELLWOOD_WASP : It is a fast flying insect that builds a solid nest using dried sea snail shells.
+DESC_UNDERSTORE_MITE_GIANT : A small, life-size palace covered with ancient curtains.
+NAME_CRYPT_WORM : Ring of Power
+NAME_BONE_WORM_BLUETURRET : Plasmid
+NOTE_LILYPAD_TRAP : It may seem strange at first, but once you get the hang of it, it's easy to avoid.
+NAME_MITE_HEAVY : A minute screen
+NAME_BONE_HUNTER_TINY : Ruth
+NOTE_BONE_HUNTER_TRAPPER : His trail, a trap... it was obvious from the start. This old hunter was trying to catch me. But what drove him to this cruel act? The answer to that question will never be known.
+DESC_ROACHKEEPER_CHEF_TINY : An absent-minded chef cuts up the cockroach meat.
+DESC_SONG_AUTOMATON_FLY : A flying robot tasked with repairing and expanding Korea.
+DESC_BONE_THUMPER : Large cylinder. His cheap brushes are gnawed by animals.
+DESC_SONG_THREADED_HUSK_SPIN : A small insect shell attached to a silk fabric. The shell pulls on the silk and roughens its edge.
+DESC_CROWMAN : Ripe and ready shrimp, with fins and juveniles in the bay.
+NAME_DUSTROACH : Mac Roach
+NOTE_SONG_AUTOMATON_BALL : I have not yet seen the clock this machine is designed for and I don't want to hear it. This kind of sound is very disturbing.
+NAME_CLOVERSTAG_WHITE : Palace logo
+NOTE_CORAL_JUDGE_CHILD : Given the opportunity, these creatures could evolve into dominant animals.
+NOTE_SETH : He warned me and challenged me. A duel in every sense of the word. I greatly appreciate his respect and talent.
+DESC_STICK_INSECT_CHARGER : This insect was born on a very large branch with a sharp, graceful horn on its head.
+DESC_BONE_GOOMBA : A small, soft insect that uses the horsefly's hard skull for protection and camouflage.
+NOTE_FIELDS_FLYER : At rest it resembles a plant, but its perulus body immediately loses its camouflage in flight.
+NAME_CORAL_FLYER_THROW : follow
+NAME_FIELDS_FLYER : Sign up
+DESC_MITE_HEAVY : It is a webbed reptile with sharp forelimbs that lives and reproduces in dark places.
+NAME_BELL_FLY : Wingegaard
+NOTE_UNDERSTORE_THROWER : An award of this magnitude... have I seen enough of my kingdom's base?
+DESC_CROWMAN_DAGGER : Adult shrimp with many small spines.
+NAME_TAR_SLUG : to the whale
+NOTE_CITADEL_BAT_LARGE : An insect is always greedy for its kind.
+NOTE_HUNTER_QUEEN : Such a king had abilities similar to mine. On the summit his voice could unite all Skallas and call them to his service.
+DESC_WHITE_PALACE_FLY : Artificial fly with diamond stars. Inside lies a being filled with pain, a mixture of soul and vanity.
+DESC_SWAMP_DUCTSUCKER : A glowing beast fills the cave's thick lining.
+DESC_ROACHFEEDER_TALL : One of the most important tasks of the cockroach breeder is to feed the macro cockroaches a small amount of wormwood.
+DESC_SHELLWOOD_GNAT : A small, soft, empty, hard shell protects itself.
+NOTE_PILGRIM_03 : This bug captured by Haunting Param can now only wait and attack.
+NAME_PILGRIM_03 : A refuge for foreigners
+DESC_GIANT_FLEA : A giant worm. Temporarily shocked at being cooped up for so long.
+NOTE_ARBORIUM_KEEPER : His task was not hopeless from the beginning: he could not recreate such a dry landscape under artificial conditions.
+DESC_SPINE_FLOATER : He pulls the clothes on the back of his shirt.
+DESC_CORAL_JUDGE_CHILD : A sensitive missile in the dark.
+NOTE_SONG_PILGRIM_02 : Their lives in the palace could be prolonged by using silk, but they unknowingly passed much of their information to the king.
+DESC_BLOOM_SHOOTER : It is the flower of the enemy, reflected in movement by instinct. It emits a powder that makes a cricket-like sound and explodes on impact.
+NAME_SLAB_PRISONER_LEAPER_NEW : I'm sorry
+NAME_FIELDS_GOOMBA : I felt like myself
+NAME_SHELLWOOD_GNAT : Shellwood Puyo
+NAME_SONG_KNIGHT : second innings
+NOTE_CORAL_HUNTER : I have noticed that in speed and strength competitions, the fastest usually wins. I have kept this lesson in mind.
+NAME_UNDERSTORE_THROWER : under a roof
+NAME_PILGRIM_FISHER : Pool predator
+NAME_STICK_INSECT : run
+DESC_PILGRIM_BELLTHROWER_FLY : A pilgrim with large wings, with an iron bell.
+NAME_BONE_HUNTER_FLY : the edge of the window
+NOTE_BONE_HUNTER_FLY : As a child I was jealous and rabidly hated insects. I even dreamed of having wings. But now I have become wiser. I accept my physical limitations and use tools to enhance my abilities when necessary.
+DESC_SHELL_FOSSIL_MIMIC : Cleverly disguised as a fossil.
+NAME_WRAITH : means of livelihood
+NOTE_SONG_REED_GRAND : These insects collect the end of the thread by twisting it. Although their technique is quite primitive, the consistency is similar. Who taught these things?
+NOTE_FLOWER_QUEEN : Their presence preserved the once fragile order of the forest and helped insects move safely between the branches.
+NAME_PILGRIM_MOSS_SPITTER : Ancient Pilgrims
+NOTE_HORNET_DRAGONFLY : Although it is a passive weapon, a careless blow from a sharp person can cause damage.
+NAME_MITEFLY : the wings tick
+NOTE_PINSTRESS_BOSS : i love her Despite years of solitude, she still has the enthusiasm and energy to teach. I admire that.
+NAME_STICK_INSECT_FLYER : The runner shines
+NOTE_CORAL_WARRIOR_GREY : They were much older than ordinary people, but with their eyes wide open, they wielded swords miraculously.
+DESC_RHINO : Bellua stands on long rocks with Faroma's horn. These horns not only damage enemies, but also disfigure terrain and scatter dangerous debris.
+NOTE_ROACHKEEPER_CHEF_TINY : Can we call his work intelligent? I think it tore through hardened flesh. Was it then something other than a demonic mind?
+DESC_GRASSHOPPER_SLASHER : Works with sensitive forefoot and increased sensitivity.
+DESC_SONG_HEAVY_SENTRY : He is a complete percussionist who uses his wooden mallet and silk to enhance and amplify the numbers.
+DESC_CLOVER_DANCER : A fallen prince of Vardania, once beloved by his people for his kindness and deadly contempt for outsiders.
+NOTE_BELL_FLY : Nature's combination of size, resilience and terror is shattered by a brutal attack.
+NAME_BONE_HOPPER : The main site of fixed bones
+NOTE_PILGRIM_BELLTHROWER_FLY : The combination of flight and distance in a neutral environment is also a challenge for me.
+NOTE_UNDERSTORE_POKER : They work tirelessly to protect the castle, which is old and gray and now a cursed kingdom that not even death can save.
+NOTE_SHELLWOOD_WASP : They can destroy their nests and limit their survival in the wild. Although this method is now common because the birds can climb branches, it becomes dangerous if there is a disturbance in the forest. Even a small disturbance can upset this balance.
+NOTE_SONG_AUTOMATON_SHIELD : Even though my heart is not sincere, my focus is to adjust my actions and fight effectively. where is the pool
+NOTE_LACE : This insect is a whole series. It will survive many sequels. Despite its fragile appearance, it is still alive.
+NAME_SWAMP_SHAMAN : King Grohl
+NOTE_MITE : Individually they don't seem very dangerous, but there are too many of them and most of them are hidden.
+NOTE_PILGRIM_05 : Be lucky, you will be old. The journey soon ends at the village.
+DESC_CRYSTAL_DRIFTER_GIANT : A flying colossus was made of cold stuff.
+NOTE_SHAKRA : He has only lived a small part of my life, but his ruthlessness and aggressive spirit will shine in the ring. He is one of the most talented athletes I have ever known and I am truly lucky to have him as a friend.
+NOTE_BONE_THUMPER : While its gigantic size makes it a powerful weapon, it also requires a lot of food. This creature probably spends most of its time eating, which may be acceptable to some.
+NOTE_ABYSS_CRAWLER_LARGE : This great worm is now fully grown, but I have never seen it eat, drink, or sleep. It looks like a common worm, but it doesn't seem to be related to us.
+DESC_BONE_BEAST : A giant worm that lives in the veins of an old clock bathtub.
+DESC_PILGRIM_03_SONG : Believing with the palace cables and two golden bells.
+NOTE_PEAKS_DRIFTER : It would be a perfect treat, but it wants to be kept at a cool, comfortable temperature.
+NOTE_DUSTROACH_POLLYWOG : These creatures appear to have been deliberately submerged. If they were intended for human consumption, the smell would undoubtedly have been very strong.
+NOTE_BONE_HUNTER_CHIEF : Once they were chosen for their unique abilities. Simply because that's what they lived and trained for.
+NOTE_PILGRIM_04_SONG : If this bug survived Faram's rebellion, it must have teamed up with a more powerful ally. It's hard to fight alone.
+NOTE_PILGRIM_02_SONG : Is it thanks to the inhabitants of the palace that she thrives, or is it thanks to her enormous size that she survived and moved here?
+NOTE_SKULL_KING : Although the skull is ugly, it belongs to a very large animal. Without the bones, I would have easily thought it was a similarly large insect.
+NAME_BLADE_SPIDER : Those who go
+NAME_FARMER_SCISSORS : Silky Volsella
+NAME_SONG_AUTOMATON_BALL : Ratchet Death Principle
+NOTE_CLOCKWORK_DANCER : There are two insects in this machine, but they seem to have only one soul. Inside the iron house is a sad but beautiful replica of life.
+NAME_BONE_WORM_BLUEBLOOD : Plasmid
+DESC_DRAGONFLY_LARGE : It is a large insect that lives in large bodies of water. Be careful not to get too close to this gravity creature.
+NAME_BONE_CRAWLER : The broken
+DESC_FLOWER_DRIFTER : An insect that mimics and senses flowers. It emits a crackle and causes dust when threatened.
+DESC_BLACK_THREAD_CORE : Pressed shell knot, tightly knotted, vacuum-sealed silk.
+NAME_SONG_AUTOMATON_FLY : Transmission repairman
+NAME_SONG_THREADED_HUSK_SPIN : wheel
+NOTE_BLADE_SPIDER_HANG : A skilled hunter learns to catch his prey, wait a long time and always be ready to attack.
+DESC_BONE_HOPPER : It is a herbivorous animal with a highly developed sense of smell that allows it to easily escape danger.
+DESC_FIELDS_FLOCK_FLYERS : They are small, shy creatures that gather in groups and flee when they feel threatened.
+NOTE_DOCK_GUARD_THROWER : Enraged, the wandering ghosts went towards the huge cave.
+NAME_CROWMAN_JUROR_TINY : Judges
+NOTE_GRASSHOPPER_SLASHER : They are almost unconscious, always ready to take the slightest risk, even in difficult situations. To destroy them means to shrink them.
+DESC_SONG_AUTOMATON_02 : Steam engine. Designed to cleanse the cardiovascular system and prevent infections.
+NAME_BONE_BEAST : He lives well
+DESC_SLAB_FLY_SMALL : A young and tenacious fly, born and bred to serve.
+NAME_HORNET_DRAGONFLY : Pandora
+NAME_SHELLWOOD_WASP : Kibachi
+NAME_ROSARY_THIEF : Carnation
+NOTE_SWAMP_DUCTSUCKER : These stupid insects can only be recognized by their antennae, but despite their simplicity, they can prove dangerous.
+NAME_ASPID_COLLECTOR : Atschnid
+NAME_BONE_GOOMBA_LARGE : The madman on Golgotha
+DESC_PILGRIM_03 : I was prepared for a real failure in that area.
+NOTE_BONE_CRAWLER : I like the simple but effective tricks of this pest, like its retractable claws. Any unsuspecting predator will be instantly hunted.
+DESC_PILGRIM_04 : The little pilgrim with his long flute will ward off the danger.
+DESC_PILGRIM_05 : The cursed thread destroyed the mighty serpent. Its power overwhelmed its allies.
+DESC_MOSSBONE_CRAWLER : In the back image was a reptilian, hairy, spiny animal.
+DESC_BONE_WORM : A reptile that can burrow into even the hardest bones thanks to its many sharp teeth.
+NOTE_SLAB_FLY_BROODMOTHER : We hope that the destruction of this prison will put an end to the appalling conditions in which prisoners are held.
+DESC_CORAL_SWIMMER_SMALL : A gelatinous coral explorer, simple in nature and slim.
+DESC_WISP_PYRE_EFFIGY : Kuldevta and the gods are worshiped by burning and drying insects.
+NAME_CORAL_CONCH_SHOOTER : Proin
+DESC_FIELDS_GOOMBA : He is a ruthless traitor in the distant realm. Snails are the leaves of the plant, which help it to hide.
+DESC_SLAB_FLY_SMALL_FRESH : The larvae hatched from the eggs. In that old age, the gentlest of these, the blind cause, had almost no life left.
+NAME_CITADEL_BAT : masked fly
+DESC_BONE_HOPPER_GIANT : It is a large animal, equipped with acute senses, which defends the party with strong legs and sharp claws.
+NAME_BONE_CIRCLER_VICIOUS : Terrible plagues
+DESC_SONG_PILGRIM_02 : Whiteward, a ruthless doctor, responsible for the actions and transformations of the insects in the camp.
+NOTE_LAST_JUDGE : This great judge would hold his seat unshakable and invincible for many centuries.
+NOTE_FARMER_CATCHER : These insects work incessantly even on the spectators; a terrible and tireless work supported by an invisible fortress towering over them.
+NAME_SWAMP_GOOMBA : Millmite
+NAME_GRASSHOPPER_FLY : they eat
+NAME_FLOWER_DRIFTER : to rob
+NOTE_BONE_HOPPER : Despite his depression, his aggression did not diminish. His desire to escape remained strong.
+DESC_CORAL_GOOMBA_LARGE : A huge, dense coral shell. The memory of the palace grew enormously.
+NAME_BONE_CIRCLER : Koganmoshi Prefecture
+NAME_BONE_HUNTER : Skull hunter
+NAME_PILGRIM_BELL_THROWER : serve foreigners
+DESC_PILGRIM_02 : A powerful animal that eats souls. Not feeling threatened creates pain.
+DESC_GLOOMFLY : a small, hollow animal that eats its prey and absorbs the nutrients, leaving nothing behind.
+NAME_UNDERSTORE_SMALL : lower level employees
+NOTE_FLOWER_DRIFTER : "A wonderful creature indeed. Much loved as a delicacy to the royal court of our kingdom."
+NOTE_BONE_HOPPER_GIANT : A slender and elegant figure embodies incredible strength. The driving pleasure is truly unique.
+NOTE_SPINE_FLOATER : All my beautiful thoughts of soft wings and iron keys are gone.
+NAME_FARMER_WISP : Absinthe
+DESC_SHIELD_DOCK_WORKER : Deep underground, a worker uses a disc to separate precious traces from the trenches.
+DESC_TAR_SLUG : It is a sticky mollusk that protects itself by injecting a caustic liquid from a swelling on its back.
+NOTE_SWAMP_DRIFTER : This insect is cute, but at first glance it doesn't look cute. The grass it imitates is scaly and coarse, with a texture similar to hair.
+DESC_DOCK_WORKER : Even the lower classes fell victim to Fara's curse. They still work instinctively, but their methods are much simpler than before.
+NOTE_BLADE_SPIDER : There's something about his attack that reminds me of my own. His talents are completely innate, but mine are honed through rigorous training.
+NOTE_RHINO : Some tools and techniques can help you bypass security, so you need to adapt them to your plan.
+NAME_SILK_BOSS : Silke's grandmother
+NAME_ROACHKEEPER_CHEF : Duke Lugori is burdensome
+DESC_FARMER_CATCHER : The insect was designed to catch the pieces of silk that fell from the palace. It pricked the thorn and swooped down.
+NOTE_MITEFLY : Even in my village they did not eat such insects, considering them safe food. As a child I wanted to catch them, test my skills and ask for help.
+DESC_SONG_AUTOMATON_GOOMBA : An insect-like jumping machine. A removable peg on the back allows the included rollers to jump over obstacles.
+NAME_SPIKE_SWIMMER : Where is Stilthorne?
+DESC_PILGRIM_STAFF_UNDERSTORE : Use a wire brush to remove soot from valves and pipes.
+DESC_BONE_HUNTER_TRAPPER : Cicatrix is ​​a powerful but mysterious character, an expert hunter and teacher of Simocci.
+DESC_ABYSS_TENDRIL : fragments of pure darkness strike like sharp temptations.
+NAME_BELL_GOOMBA : Treatment
+NAME_CLOCKWORK_DANCER : Dance equipment
+DESC_BONE_GOOMBA_LARGE : It is a strong, soft worm, with large horns hidden under its skull, which protect the louse and its smaller relatives from intruders.
+DESC_BONE_CIRCLER : A hairy insect that lives in the plains. This insect, usually at rest, may attack when threatened.
+NOTE_SLAB_FLY_SMALL : A deformed creature born in captivity, where conditions leave no room for mercy.
+NOTE_SHIELD_DOCK_WORKER : Although they represent the majority of insects, they still try to fulfill the duties of their ancestors. Until my wisdom...
+NAME_CONDUCTOR_BOSS : LOST
+NAME_CORAL_SWIMMER_SMALL : his day
+DESC_BONE_WORM_BLUEBLOOD : Plasma-infected mutant mask. This new form has strong regenerative abilities.
+NAME_MOSSBONE_MOTHER : Moss's mother
+NOTE_SONG_AUTOMATON_01 : Although it has a complex system inside, it does not automatically simulate life at this level. Adding silk to the moving object is also common, but the exact method is unknown.
+NOTE_STICK_INSECT_CHARGER : The body has the advantage of surprise, but is too thin and fragile to withstand powerful attacks.
+DESC_LILYPAD_TRAP : Carnivorous plants with powerful jaws that resemble lotus petals.
+NAME_SHIELD_DOCK_WORKER : fire alarm point
+NAME_GRASS_GOOMBA : Lee Flores
+DESC_MITEFLY : It is a flying insect, rarer than other land animals. It wakes up and attacks with sharp teeth.
+NOTE_CONDUCTOR_BOSS : The souls of countless insects have been wounded and beaten by the silk. Their pain will follow them forever. I have no power to cleanse myself.
+DESC_LOST_LACE : A silky smooth look that doesn't offend anything.
+DESC_ABYSS_CRAWLER : An armored snake that lives only in the deep. It seems to be able to survive without water or food.
+NAME_SONG_PILGRIM_03 : Choir members
+NAME_SCROLLKEEPER : Read the book
+DESC_SWAMP_MUCKMAN_TALL : Insects that the animals kept in a trap, a bag filled with long, sharp nails.
+NAME_CITADEL_BAT_LARGE : the hidden passage
+DESC_GNAT_GIANT : The old man proved to be much stronger than most of his relatives.
+DESC_ABYSS_MASS : A bloated pile of old worms, swollen and draining, is absorbed.
+DESC_ROSARY_THIEF : Violent looting took place throughout the village.
+DESC_SLAB_PRISONER_FLY_NEW : For the misdeeds committed in the palace, a small snake was tied to his head.
+DESC_HORNET_DRAGONFLY : A flying animal lives near the banks of stagnant water.
+NOTE_SONG_AUTOMATON_GOOMBA : The inspiration for this image was undoubtedly an insect found outside the palace. I often draw inspiration from nature when creating my works.
+NAME_SONG_HANDMAIDEN : Chrome Virgin
+NOTE_PILGRIM_04 : He was very alert from birth. When he attacked him, he became like a ball.
+NOTE_DOCK_CHARGER : The heavy bells protect me well from my attacks.
+NOTE_PILGRIM_02 : In these countries, rare and endangered insects reach adulthood. The outcry is small in comparison. So why do they feed on so many nutrients?
+NOTE_PILGRIM_01 : Because his armor was softer than most, he probably survived with physical strength.
+NAME_ROACHFEEDER_SHORT : Cockroach face
+DESC_SURFACE_SCUTTLER : A common reptile that lives under sand.
+NAME_ROCK_ROLLER : Flintlock ship
+NAME_CORAL_SWIMMER_LARGE : Silver
+NAME_BONE_FLYER : They stole the monster
+NOTE_BLACK_THREAD_CORE : Plenty of silk and shells. Today, this area is in danger of being absorbed by the entire earth. Bad start.
+DESC_CROW : He is a great hunter, nests in caves and hunts strangers.
+DESC_STICK_INSECT : An insect the size of a twig. It can remain still for long periods of time, but moves with astonishing speed.
+NOTE_CRYSTAL_DRIFTER_GIANT : This huge object is so heavy that it is difficult to move it.
+NAME_SURFACE_SCUTTLER : Skrill
+DESC_WEAVER_SERVITOR : Once a small structure was made by a weaver with woven silk threads.
+NOTE_SLAB_FLY_SMALL_FRESH : The less aggressive these insects are, the better.
+DESC_SCROLLKEEPER : The purpose of the mount whispers. It was born to read and memorize almost infinite volumes of prayers.
+NAME_CROWMAN_DAGGER : Crow lying down
+NOTE_SONG_AUTOMATON_FLY_SPIKE : I don't understand the main point. Or security? This kind of recreation is not idleness at all.
+NOTE_MOSSBONE_CRAWLER : If it didn't have a spine, you'd think the insect was adorable.
+DESC_SWAMP_MOSQUITO_SKINNY : A sea in flood, with its mouth open, vomits up boiling bile with great force.
+NOTE_SURFACE_SCUTTLER : Country people do not like silk; its essence is impeccable. The influence of the prince must extend to the most subtle.
+NOTE_SCROLLKEEPER : Had they understood these new volumes? Or was it just a ruse, an attempt to keep order in the palace forever?
+NAME_CORAL_SPIKE_GOOMBA : Coral Farm
+NOTE_STICK_INSECT_FLYER : This attack... is like a caterpillar mortally wounding its toy. I wonder if I can make a similar spinner?
+NOTE_PHANTOM : with his hair turning white with age, his hideous appearance spoke of a true man born to fight rather than slowly surrender to battle.
+NAME_GIANT_FLEA : Giant fleas
+DESC_SMALL_CRAB : Krigler's terrible childhood.
+NOTE_BONE_GOOMBA_LARGE : Did his greatness make him fearless or did it rob him of his empty instinct to protect himself?
+NOTE_ZAP_CORE_ENEMY : Although they had enough thinking power to make them difficult to call parasites, their instincts were enough to make them deadly creatures.
+NAME_SONG_AUTOMATON_FLY_SPIKE : The basis of the mechanism
+NOTE_SAND_CENTIPEDE : As soon as it senses movement nearby, it suddenly appears and swallows any object or insect that enters its mouth.
+DESC_GRASS_GOOMBA : Sharp level at which plants grow.
+DESC_MITE : Lues raged in the dark corners of Grimor.
+NOTE_CORAL_SPIKE_GOOMBA : The skin is thick and silky. Until he breaks the curse and is never touched again.
+NAME_SPINE_FLOATER : Businessman
+NAME_VAMPIRE_GNAT : Mauro's wing
+NOTE_SPINNER_BOSS : His body was similar to a weaver, but his mask was torn and his silk binding was rendered useless by heavy needles piercing his spine.
+NOTE_GRASSHOPPER_CHILD : These puppies are extremely agile and have been defending their territory since birth, which makes them proud.
+NOTE_CITADEL_BAT : She felt the power of the device. It blends seamlessly with the skin, with a smooth, hydrating and breathable texture.
+NOTE_BONE_CIRCLER_VICIOUS : Their wings are small for their size. They probably use the warm air of this country to warm themselves. So it's a good idea.
+DESC_SONG_ADMINISTRATOR : Student of the Golden Scholar and underling of the castle.
+NOTE_PILGRIM_STAFFWIELDER : A large bell indicates that he was once the leader of a group of mountaineers, but that his former dominance has been lost to subtle apparitions.
+NOTE_STICK_INSECT : Avoiding traps is a good test of your senses and your ability to aim quickly.
+NOTE_LOST_LACE : "I will bring my mother back to appease her anger and save that kingdom." This boy... will not become a slave to the darkness.
+NAME_SLAB_FLY_MID : fly to work
+NAME_LOST_LACE : lost nation
+DESC_SONG_KNIGHT : A knight's staff from Far Hall. As guardians of strangers, they are also skilled with scissors.

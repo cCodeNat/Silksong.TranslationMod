@@ -1,0 +1,175 @@
+EQUIP_BENCH_MSG_CURSED_TOOL : Unequipped vehicle
+SYRINGE_LIFEBLOOD_DESC : A small windowed vial containing plasma. This liquid injection lasts longer than natural plasma.
+QUICKBIND_DESC : A pair of white surgical staples. They can be sewn deep into the insect's shell, which improves circulation.
+EQUIP_BENCH_MSG_TRANSFORM : Change your mind without getting up from your desk.
+THIEF_CLAW_DESC : The hook pulls out insects and shells with force. It defeats enemies, steals gems and shell fragments, and deals damage.
+BARBED_WIRE_DESC : This cruel bracelet is worn by those who feel unjustly punished. It not only increases the pain but also the damage caused by the needle.
+UI_BUTTON_EQUIP : The team's tools
+DAZZLE_BIND_UPG_NAME : Chloe's Mirror
+UI_PROMPT_UNLOCK_SLOT : growth
+ROSARYCANNON_NAME : A pile of cloth
+CREST_HUNTER_DESC : It burns the prey and deals a death blow.
+SILKSHOT_NAME : One shot scray
+EQUIP_BENCH_MSG_TOOL : Sit down at your workstation and prepare your tools.
+CREST_PILGRIM_NAME : roam
+PINSTRESS_NAME : pin icon
+UI_BUTTON_TOGGLE_STATE : Change
+BROLLYSPIKE_DESC : Flexible belt made of torn metal. It can be attached to the edge of the cover. When attached, the blades spin and deal damage to nearby enemies.
+TACK_DESC : The small, pointed end was designed to penetrate the ground. A sharp line pressed down on the enemy's trail.
+MULTIBIND_NAME : Multiple files
+DAZZLE_BIND_UPG_DESC : The evil pillar, the scarab's twin brother. When the two are connected, a fireball attacks nearby enemies.
+UI_BUTTON_VIEW_CRESTS : See the cross
+UI_BUTTON_SELECT_CREST : Choosing favors
+CREST_HUNTER_UPGRADED_DESC : Deals a fatal, piercing blow to the victim. The next attack increases the deficit.
+CONCH_DRILL_NAME : Concrete cutting
+FLEA_CHARM_NAME : flea egg
+LIGHTNING_ROD_NAME : Spiral line
+WALLCLING_NAME : full
+LONGNEEDLE_NAME : long nails
+CONCH_DRILL_DESC : A weapon with hard spines. Throwing her to the side, she leaps and grabs her prey in one hit.
+ZAP_IMBUEMENT_NAME : Series
+MAGNETITE_DICE_DESC : This toy is made of magnetic material. It is believed to bring good luck to those who play it for simple games.
+UI_BUTTON_RELOAD : refund
+HARPOON_DESC : Hollow bars and rigid armor are designed for penetration.
+UI_USE_INFO : bring along
+STRAIGHT_PIN_DESC : Quick attack with a light weapon.
+SYRINGE_LIFEBLOOD_DESC_EMPTY : A small empty vial for injecting plasma. Plasma collected to regenerate the device.
+SHELL_SATCHEL_DESC : A quick container from an old toolbox. This tool increases productivity.
+UI_MSG_EXTRA_SLOT : Use an extension tool instead of a symbol.
+ROSARY_MAGNET_NAME : Magnetic bar
+SNARE_DESC : Web Spinner: Creates a silk rune that ignites on contact with an enemy. Uses the user's drawing and silk.
+MOSSCREEP_TOOL_1_DESC : Mosquito protection thanks to the fruit of the Mosquito Forest. When they damage the user, they release a green mixture that turns into silk.
+FLEA_BREW_DESC : Refreshing drinks made from caravan bells. Temporarily increases movement and attack speed.
+STING_SHARD_DESC : To extend the deadly net of the knife. When used, it damages all enemies it touches.
+FRACTURED_MASK_NAME : Broken mask
+SYRINGE_LIFEBLOOD_REFILLED : fill the small cylinder with plasma
+TRI_PIN_NAME : Triple pin
+CREST_PILGRIM_DESC : Quickly and efficiently, with short, gentle movements.
+ROSARYCANNON_DESC : It turned out to be a manufacturer of air pistols. Pellets need to be reloaded into the barrel.
+SILKSHOT_DESC_ARCHITECT : 12. An ancient weaver's weapon, restored and replaced by an architect. This ball is lit and uses silk.
+WEIGHTED_ANKLET_NAME : Belt weight
+CREST_WITCH_DESC : Use all your might to move the needle and tear the enemy's life from its roots.
+SYRINGE_LIFEBLOOD_NAME : a small vial of plasma
+SHAKRA_RING_DESC : The warrior stepped forward and threw a weapon at Shakra. Sharp weapons bounced off enemies and hard surfaces.
+CREST_WARRIOR_DESC : It destroys its enemies with vicious blows. When bound, it unleashes a fury that devours its prey.
+DUSTPILO_NAME : dust cover
+REVENGE_CRYSTAL_DESC : A mirror stone imbued with the power of memory. When damaged, it crystallizes the memory of its owner. Upon contact with an enemy, these memories turn into sharp fragments.
+MOSSCREEP_TOOL_1_NAME : Droid Eye
+FLEA_BREW_REFILLED : I added free beer
+ROSARY_MAGNET_DESC : Sacred stone, engraved with grains of earth. Its grain spreads freely towards the wearer.
+UI_MSG_TITLE_CREST : Common prayer
+MUSICIAN_CHARM_DESC : Advanced weaving equipment. It plays music, amplifies and customizes the sound. The result amplifies and strengthens Nedlin.
+PIMPILO_DESC : Nerve bag filled with explosive material that explodes on contact with an enemy or when a fuse is lit.
+RESERVE_BIND_DESC : The hall decoration. Save the silk pieces for the chains. Use them when needed or when supplies are low. You can redeem the remaining bonds by depositing them in a bank.
+CREST_SPELL_NAME : Grass
+LAVA_CHARM_DESC : A false bell was installed to protect the lower pier from the tides. It reduces damage caused by fire and magma.
+CURVE_CLAWS_NAME : curved claws
+SCREWATTACK_DESC : A rotary tool used to cut bone and stone. The cursor moves when the user clicks.
+ZAP_IMBUEMENT_DESC : A war machine is rescued from the destroyed city of Boltville. The power of the silk in the rope can be broken.
+COGWORK_FLIER_NAME : toothed fly
+EQUIP_BENCH_MSG_CREST : Change your mind by resting on the bench.
+COMPASS_NAME : Compass
+STING_SHARD_NAME : Scrap steel
+FLINTSTONE_DESC : Sharpening made of polished stone. This instantly heats the tip of the needle, making it glow with each strike and increasing its lethality.
+SILKSHOT_DESC_FORGE : An ancient improvised weapon, repaired and modified by the Batsmith. It uses project lights and silk.
+FRACTURED_MASK_DESC : The mask is made from the skull of an ancient insect. It protects against lethal damage but reduces its effect. If it gets damaged, it can be repaired directly on the table.
+MOSSCREEP_TOOL_2_NAME : Droid Eye
+POISON_POUCH_DESC : A pouch containing a potent poison extracted from the heart of a flower. Apply this poison to the tool you are using.
+BONE_NECKLACE_NAME : a piece of necklace
+EQUIP_BENCH_MSG_SKILL : Use the silk option while resting on the bench.
+CREST_HUNTER_NAME : soon
+RESERVE_BIND_NAME : Order link
+COGWORK_SAW_NAME : of weapons
+SCREWATTACK_NAME : Exercise department
+UI_BUTTON_AUTORELOAD : Autofill
+COGWORK_SAW_DESC : A retractable, circular blade that moves on its own and hits enemies.
+TACK_NAME : Choose
+CURVE_CLAWS_UPG_NAME : Circular curve
+BROLLYSPIKE_NAME : Around the teeth
+DAZZLE_BIND_DESC : Waste pesticides. When used, it emits a bright light that hits nearby enemies.
+WISP_LANTERN_DESC : A broken iron lantern with fiery silk emits shockwaves that burn enemies.
+CREST_REAPER_NAME : to connect
+TUT_MSG_TITLE : Download tools
+PROMPT_QUICK_CRAFT : Ligation of the Rhone
+THIEF_CHARM_DESC : It's a sign that helps you identify other thieves. It gives you more gems for defeated enemies, but taking damage causes you to lose.
+SPOOL_EXTENDER_NAME : Coil details
+UI_MSG_TITLE_EXTRASLOT_NAME : Western Requiem
+CREST_TOOLMASTER_NAME : Architect
+BELL_BIND_NAME : The bell keeper
+USE_ITEM_MSG_MEMORY : element not found in memory.
+QUICK_SLING_DESC : A tool attached to the limbs of insects to extract sticks and bones. This doubles the number of tools.
+COGWORK_FLIER_DESC : The Winged Count seeks out and attacks nearby enemies.
+MULTIBIND_DESC : Compact, conical block. Only made of silk. Increases adhesion time and accelerates wound healing.
+CREST_SPELL_DESC : Throw away swords and fortify your silk art with great runes.
+UI_MSG_TITLE_EXTRASLOT_PREFIX_2 : Expansion
+UI_MSG_TITLE_EXTRASLOT_PREFIX_1 : Earned
+UI_BUTTON_CHANGE_CREST : Change your offer
+SCUTTLEBRACE_NAME : Fire in Scatella
+MAGGOT_CHARM_DESC : Delicate ribbon woven from reeds and leaves. It acts as an anthelmintic. If it breaks, stay close to the bench and repair it.
+POISON_POUCH_NAME : Octopus bag
+MAGGOT_CHARM_NAME : pure crown
+SHELL_SATCHEL_NAME : Clamshell wallet
+UI_SOCKET_UNLOCK_BUTTON_DESC : shield
+THIEF_CHARM_NAME : mark the thief
+DUSTPILO_DESC : A nerve bag filled with unstable gunpowder explodes when an enemy hits it or sets off a fuse.
+FLEA_BREW_NAME : free Beersheba
+MUSICIAN_CHARM_NAME : Internet
+DEAD_MANS_PURSE_DESC : A bag left by a stranger. The owner gets to keep the gems after defeat.
+SPRINTMASTER_DESC : An experimental silk bracelet worn by a weaver to increase running speed.
+QUICKBIND_NAME : Syringe rod
+WHITE_RING_NAME : It's not fair
+HARPOON_NAME : while the staff
+CREST_REAPER_DESC : They attack with a powerful bow, which cuts through more silk than the enemy.
+DAZZLE_BIND_NAME : Chloe's Mirror
+QUICK_SLING_NAME : quick search
+BELL_BIND_DESC : Sacred bell buried with protection song. The Lord heals the wounded.
+DAZZLE_BIND_DESC_DARK : deep face
+CREST_WARRIOR_NAME : Animals
+FLEA_BREW_DESC_EMPTY : The empty barrel is filled with a refreshing drink. Collect more flea medicine to replenish your equipment.
+PINSTRESS_DESC : The ancient symbol of Palam, the symbol of the horse with rays. When it cools down, hit the iron.
+CURVE_CLAWS_UPG_DESC : Experienced predators use radial teeth to capture aggressive prey.
+DEAD_MANS_PURSE_NAME : Dead insects from Perth
+EXTRACTOR_NAME_PICKUP_BLUE : They lose plasma
+WISP_LANTERN_NAME : whispering torch
+SPRINTMASTER_NAME : Speed ​​Wristband
+EQUIP_BENCH_MSG : Once on the desktop, select a tool from the comb.
+CREST_WITCH_NAME : A witch
+CURVE_CLAWS_DESC : Sharp, curved mouth used by predators to capture flying prey.
+EQUIP_BENCH_MSG_RELOAD : Load it without leaving your computer.
+EQUIP_BENCH_MSG_CURSED_CREST : The sentence cannot be correct.
+COMPASS_DESC : What is finished, shining like the remains of shells, marks the master's place on paper.
+UI_MSG_EQUIP_CREST : To change a bean, open the bean filter from the table while it is resting on the table.
+EXTRACTOR_NAME : A bottle of needles
+SCUTTLEBRACE_DESC : The synthetic end that holds the shell tightly enhances the veil's natural flexibility and allows for quick removal.
+SNARE_NAME : Install the boxes
+LIGHTNING_ROD_DESC : An unstable sphere that stores electricity. This container can be used as a cannon to fire an explosive charge or spear bomb at an energy column.
+UI_BUTTON_UNEQUIP : Removal tool
+UI_BUTTON_UNEQUIP_SKILL : development capacity
+SPOOL_EXTENDER_DESC : Carefully designed locking mechanism to preserve synthetic silk. Silk can hold much more silk than a person's natural ability.
+BONE_NECKLACE_DESC : The gem is widely used by collectors and artists. It allows them to collect shell fragments from falling creatures.
+THIEF_CLAW_NAME : Election of journalists
+LIQUID_METER_TITLE : invitation
+WALLCLING_DESC : Thanks to the golden snake, you can also put decorations on the walls.
+EXTRACTOR_DESC : This is a device designed to extract and store liquids. The needle must be fully extended to reach the target.
+MAGNETITE_DICE_NAME : magnetite bone
+LAVA_CHARM_NAME : Magmatic beetle
+FLINTSTONE_NAME : shaved flint
+FLEA_CHARM_DESC : A legendary symbol of the mother bay that has been passed down through generations. A symbol of faith and closeness. As your thread reaches its maximum, the cost of the Silk skill decreases.
+PIMPILO_NAME : Pinfilo
+WHITE_RING_DESC : Wonderful fabric made by a weaver. Its central part emits a gentle light that accelerates the regeneration of the silk.
+MOSSCREEP_TOOL_2_DESC : This is a powerful protective barrier for many seagrass seeds. When the veil is damaged, the green film is renewed and turns into silk.
+EQUIP_BENCH_MSG_CURSED_SKILL : Silk skill cannot be trained.
+UI_BUTTON_EQUIP_SKILL : Skill in using tools
+EXTRACTOR_NAME_PICKUP_BLUEBLOOD : Angry angry
+BARBED_WIRE_NAME : Spine bracelet
+TUT_MSG_DESC : Use equipment to aid in combat or exploration.
+WEIGHTED_ANKLET_DESC : A heavy scarf suitable for unsteady walkers. Hidden enemies are less likely to be pushed into attacks and are also less likely to take knockback damage.
+LONGNEEDLE_DESC : An amulet made from the claws of a large bird of prey. Its attack power is increased.
+FLEA_BREW_DESC_EMPTY_BROKEN : A glass of cold powder. Also bring flea soup to keep the tools cool.
+SHAKRA_RING_NAME : launch
+SILKSHOT_DESC_WEAVER : The ancient weaver's weapon has been restored to its original form. It works at the speed of a bullet and a silk carrier.
+STRAIGHT_PIN_NAME : stick
+CREST_TOOLMASTER_DESC : The spines sting like snails to crush their enemies. They quickly make new tools from silk.
+REVENGE_CRYSTAL_NAME : Crystal Memory
+TRI_PIN_DESC : A direct fire weapon is designed to fire from both sides at the same time.
+UI_USE_SCUTTLE : lacinia

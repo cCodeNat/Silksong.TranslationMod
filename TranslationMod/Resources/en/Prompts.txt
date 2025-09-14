@@ -1,0 +1,149 @@
+TOLL_BENCH : A device with a bank logo.
+GET_NEEDOLIN_1 : Thread silk on a needle and play an old tune.
+PROMPT_PARRY : fly
+SPEAK : share
+SLAB_LOCK_A : The word "Lazy" is engraved on the lock.
+SPAR_PINSTRESS : Are you holding back workers?
+SLAB_LOCK_E : Sera is labeled as "original sin".
+SLAB_LOCK_D : The word "Renegade" is engraved on the lock.
+CLAIM : share
+GET_SPRINT_2 : To catch their prey, they leap.
+CHALLENGE : An idea
+UI_MSG_DESC_EVAHEAL_2 : Ipecac plays while you relax in the office.
+TAKE : battle
+PROMPT_SKILL : Silk arts
+GET_ITEM_INTRO_SILKSKILL : Silius is the king of Italy.
+BUTTON_DESC_NONE : 
+SPAR_GARMOND : A duel with Gaiman?
+THROW_TOOL_PIN : Search slowly
+ENTER : Introduction
+TRADE : Business activity
+UI_MSG_HCOMBO_2_NAME : soon
+TRAVEL : trip
+GET_ITEM_INTRO_GET_RECEIVE : received
+THROW_EQUIP_GENERIC : team meeting
+SLAB_LOCK_A_READY : Do you want to use lazy key?
+GET_SILKBOMB_1 : They weave fiery silk as they rush to meet their enemies.
+CONSTRUCT_FARSIGHT : Want to play Farsight?
+GET_BELLBEAST_MELODY_2 : Immediately call the animal and return to your mother.
+GET_SILKDASH_1 : He pierced the enemy with his sword and silk darts.
+CONSTRUCT_MATERIUM : Collect content?
+GET_SPHERE_1 : It invades by creating a silk storm around itself.
+DONATE : to participate in something
+THROW_TOOL_GENERIC : Use the tools
+CONSUME : consume
+GET_ITEM_INTRO_GET : received
+PROMPT_CONDITION_BENCH : In the bank
+UI_MSG_TITLE_FARSIGHT : Visibility
+REST : relax
+PROMPT_USE_CONSUMABLE : offense
+GIVE : Contribution
+GET_CHARGESLASH_2 : 
+PROMPT_SUPER_JUMP : Super jump
+GET_CHARGESLASH_1 : When stung, it stores energy and releases it in a deadly attack.
+CALL : ring
+GET_DESC_HEART_CLOVER : A clear and distinct rhythm is felt.
+GET_WEAVER_ART : The Silk skill can be set up from the cross screen.
+REQUEST_AID : Want to ask for help in the game?
+GET_ITEM_INTRO_GET_A : buy
+UI_MSG_HCOMBO_PREFIX : extracted beans
+GET_ITEM_INTRO1 : was found
+GET_HARPOON_2 : The silk is gone. Renew enemy attacks.
+UI_MSG_HCOMBO_2_DESC : Focus your attack and increase your lethality by repeatedly hitting enemies. Additional attacks increase accuracy and lethality.
+GET_HARPOON_1 : Thread the needle through the thread and insert it firmly.
+DIVE : dip
+NO : NO
+PROMPT_NEEDLETHROW : throw away the needle
+BUTTON_DESC_RELEASE : let go
+TRACK : Take the right steps
+GET_WALLJUMP_1 : Grab the vertical platform and jump to speed up and reach higher.
+PROMPT_SUPERDASH : Please
+GET_SUPERJUMP_1 : Take the needle and throw it up.
+GET_ITEM_INTRO_SILKHEART : success
+GET_SUPERJUMP_2 : The silk is gone. Renew enemy attacks.
+BUTTON_DESC_HOLD_FOCUS : Property
+UI_MSG_TITLE_EVAHEAL : Song of the Sylphs
+ASCEND : grow
+SLAB_LOCK_B : Padlock with the word "Veitrun" written on it.
+UI_MSG_HCOMBO_1_DESC : Increase your focus by repeatedly attacking enemies. Asking them to pierce makes your attacks more destructive.
+UI_MSG_HCOMBO_1_NAME : soon
+PROMPT_INTERACT : change
+GET_DESC_HEART_HUNTER : Mix evenly and vigorously.
+TAKE_LIVING : battle
+ABANDONED_TOWN_DOWN : The small tunnel leading to the Forum?
+GET_SILK_BOSS_NEEDLE_2 : 
+GET_DESC_WHITE_FLOWER_2 : This bright light protects the place.
+GET_DESC_WHITE_FLOWER_1 : The most delicate flower is born from distant memories.
+TASKLIST_INTRO_PREFIX : new purpose
+GET_ITEM_INTRO1_SIMPLE : was found
+GET_DOUBLEJUMP_1 : A legendary feather is attached to your cloak. You can fly again.
+PROMPT_BROLLY : bridge
+BUTTON_DESC_WALLJUMP : Pressure
+MEMORY_MSG_DESC_SILKHEART_1 : I have regained the ability to regenerate silk in my shell.
+GET_PARRY_1 : Wrap the needle in silk to block enemy attacks and cast spells against the attack.
+BUTTON_DESC_HOLD : Property
+PROMPT_DJ : to blow up
+WISH_PROMISED : The promised will
+SLAB_LOCK_C : The word "Renegade" is engraved on the lock.
+PROMPT_DASH : the beginning
+GET_BROLLY_1 : By opening your hat, you can catch the gusty winds or fly gracefully through the breeze.
+YESNO_ITEM_MAXED : Maximum support
+GET_MEMORY_MELODY_2 : 
+SHOP : buy
+GET_ITEM_INTRO_SILKSKILL_PHANTOM : Teacher of silk weaving
+GET_BELLBEAST_MELODY_1 : Parody of Christmas prose.
+INSPECT : Check
+GET_ITEM_INTRO_POWERUP : Combining the art of the ancestors
+UI_MSG_DESC_FARSIGHT_2 : The number of completed tasks is displayed in the menu.
+SLAB_LOCK_B_READY : Do you want to use the bug key?
+PROMPT_HARPOON : Please
+ATTACK : Iron
+ABANDONED_TOWN_UP : A small tunnel leads up. Earth?
+UI_MSG_DESC_EVAHEAL_1 : The spirit and power of Eve is in her.
+BUTTON_DESC_TAP : The eyelids
+WATCH : Wait
+BUTTON_DESC_PRESS : Pressure
+SLAB_LOCK_E_READY : Want to use the first key to sin?
+GET_MAP_2 : A topographic map shows a map of the area printed on a map.
+DESCEND : they don't want it
+SLAB_LOCK_D_READY : Want to use Renegade Key?
+PLAY : the game
+WEAVER_ART_EQUIP : Select Silk Arts from the drop down menu screen.
+OPEN : open
+GET_SILK_BOSS_NEEDLE : Unleash deadly claws that pierce enemies through barbed wire.
+WISH_GRANTED : True desires
+TASKLIST_INTRO_1 : Climb Eretz Pum and reach the kingdom at the top of the kingdom.
+GET_NEEDOLIN_2 : The silk is gone. Renew enemy attacks.
+BELLWAY_UNLOCK_NAME : He lives well
+SLAB_LOCK_C_READY : Want to use Renegade Key?
+LISTEN : To listen
+GET_BROLLY_2 : 
+GET_ITEM_INTRO_EVAHEAL : Illustration by Eva Teed
+PROMPT_USE_CONSUMABLE_GRUB : consume
+GET_ITEM_INTRO_BEFRIEND : We became friends.
+MEMORY_MSG_TITLE_SILKHEART : Silk heart
+TASKLIST_INTRO_2 : Show menu items on the project screen.
+UI_MSG_DESC_FARSIGHT_1 : I am sorry that such a situation has arisen in the world.
+NOT_ENOUGH_CURRENCY : by default
+PROMPT_JUMP : Ours
+TURNIN : give
+GET_ITEM_INTRO_FARSIGHT : it was done
+GET_WALLJUMP_2 : 
+GET_NEEDLE_THROW_1 : During the attack, the needle is thrown, causing the thread to break.
+YES : YES
+GET_DOUBLEJUMP_2 : Fly into enemy airspace, hit new ones and attack from above.
+SPAR_SHAKRA : Chakra Duel?
+SIT : how i feel
+PROMPT_QUICKMAP : map view
+ACCEPT : purchase
+PROMPT_BIND : necessary"
+EXIT : Go
+GET_DESC_HEART_CORAL : Slow, deep pulse.
+PROMPT_ATTACK : Iron
+GET_SPRINT_1 : They run so fast in front of their eyes that they start to flutter. This is beyond his power.
+BUTTON_DESC_AIR : season
+PROMPT_NEEDOLIN : Needlin
+PROMPT_LOOK_DOWN : See below
+GET_MEMORY_MELODY_1 : It reminds us of an old forgotten town.
+GET_MAP_1 : The current table shows the area.
+GET_DESC_HEART_FLOWER : The pulse becomes weak and fast.

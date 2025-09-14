@@ -1,0 +1,119 @@
+JOURNAL_FULL_DESC : Get a fishing souvenir
+MATERIUM_FULL_NAME : Materialist
+ALL_MASKS_NAME : medical mask
+ALL_SILK_SPOOLS_DESC : INVESTIGATION OF BIKE PARTS
+DEFEATED_LACE_2_NAME : knight of the white horse
+SPEEDRUN_1_NAME : A sprinter
+ALL_MAPS_NAME : Cartographer
+FIRST_MASK_NAME : resources
+JOURNAL_HALF_DESC : let some writer fulfill his wish
+DEFEATED_SONG_GOLEM_DESC : Beat Power Chorus
+FIRST_WISH_DESC : The first true will
+ENDING_C_NAME : Silk has been captured
+DEFEATED_CORAL_KING_NAME : Dictator
+HERALD_WISH_DESC : Complete supplier requests
+DEFEATED_LACE_2_DESC : He won the manger race
+DEFEATED_WIDOW_NAME : Fever
+FIRST_CREST_DESC : This is my first time buying a t-shirt.
+STEEL_SOUL_NAME : Seoul steel
+DEFEATED_HUNTER_QUEEN_DESC : Ossa Cantor defeats Carmelita
+DEFEATED_PHANTOM_1_NAME : Gray spirit
+SPEED_COMPLETION_NAME : maximum speed
+DEFEATED_SONG_GOLEM_NAME : reader
+SPEED_COMPLETION_DESC : Set the completion rate to 100% and complete the game within 30 hours.
+FIRST_SILK_SKILL_DESC : First grip on silk ribbons
+GARMOND_FINAL_QUEST_DESC : Gammond lost victory
+DEFEATED_HUNTER_QUEEN_NAME : Diva
+DEFEATED_COGWORK_DANCERS_NAME : finally Maria
+DEFEATED_FIRST_SINNER_DESC : Defeat the sinner first
+DEFEATED_LAST_JUDGE_1_DESC : Defeat the last judge
+ENDING_E_DESC : Defeat a fallen race and free the beacon.
+ENDING_D_DESC : Defeat Grandma Meshi while under the curse.
+FIRST_TOOL_DESC : like the first car
+ALL_SILK_SKILLS_NAME : dirty
+HIDDEN_ACHIEVEMENT_TITLE : hidden
+FIRST_SILK_SPOOL_NAME : to feel better
+COMPLETION_DESC : Complete the game with a 100% completion percentage.
+ALL_CRESTS_DESC : ALL offers
+ENDING_A_DESC : Defeat the Great Silk Mother and seal her virtues.
+MEMENTO_FULL_DESC : We collect all the memories and decorate the clock at home.
+DEFEATED_LAST_JUDGE_1_NAME : the judge
+ALL_CRESTS_NAME : Weak
+DEFEATED_GREEN_PRINCE_NAME : tangled
+SHAKRA_FINAL_QUEST_NAME : The end of the road
+ENDING_B_DESC : Victor's grandmother was Silius the Italian
+FIRST_WISH_NAME : To you through
+BELLWAY_MELODY_DESC : Try external links to the chain
+BELLWAYS_FULL_NAME : to connect
+BELLWAYS_FULL_DESC : Open the Param Bellway
+SPEEDRUN_1_DESC : Delete the game after 5 hours
+STEEL_SOUL_DESC : Complete the game in Steel Seoul mode.
+DEFEATED_FLOWER_QUEEN_NAME : The seed
+BELLHOME_NAME : Resident
+HIDDEN_ACHIEVEMENT_ALT : This skill
+BELLHOME_DESC : Keep an eye on the house.
+WHITE_FLOWER_GAINED_DESC : May it bloom forever in distant memories.
+ENDING_B_NAME : I am stuck in the ministry
+HERALD_WISH_NAME : Time of change
+DEFEATED_GREEN_PRINCE_DESC : Defeat Clover Dancer
+STEEL_SOUL_FULL_DESC : Complete the game 100% in Steel Soul mode.
+ALL_TOOLS_NAME : Armory
+CITADEL_SONG_NAME : Harmonica
+HEART_OF_PHARLOOM_DESC : to win the remaining titles
+DEFEATED_BELLBEAST_DESC : Win the Belbist
+DEFEATED_FLOWER_QUEEN_DESC : defeat the Nile
+DEFEATED_TROBBIO_DESC : defeat Trubio
+COMPLETION_NAME : Complete
+DEFEATED_TROBBIO_NAME : sad man
+ALL_SILK_HEARTS_DESC : Collect all the silk hearts.
+TUBES_FULL_DESC : Inauguration of the Venturica Castle Station
+ALL_SILK_SKILLS_DESC : All silk blanket
+PINSTRESS_WISH_DESC : decrease the pin voltage
+FLEAS_HALF_NAME : Flea detector
+DEFEATED_LACE_1_DESC : Win a contest on DeepDog
+FIRST_TOOL_NAME : of weapons
+EVA_FINAL_QUEST_NAME : enter
+ALL_TOOLS_DESC : Like all instruments
+GOURMAND_WISH_NAME : AND
+JOURNAL_FULL_NAME : a true hunter
+ENDING_D_NAME : perverse child
+ENDING_A_NAME : Queen of materials
+PINSTRESS_WISH_NAME : Terrible resolution
+FLEAS_ALL_NAME : Free members
+GARMOND_FINAL_QUEST_NAME : the guy is a hero
+DEFEATED_FIRST_SINNER_NAME : price price
+ALL_MAPS_DESC : As a map of each area
+ALL_SILK_HEARTS_NAME : TRANSCRIPTION
+DEFEATED_WIDOW_DESC : Defeating the widow
+ALL_MASKS_DESC : pick up the person's bite
+MATERIUM_FULL_DESC : List all hardware components.
+ENDING_ANY_DESC : The game is over
+DEFEATED_PHANTOM_1_DESC : To conquer the spirit
+JOURNAL_HALF_NAME : An avid hunter
+DEFEATED_COGWORK_DANCERS_DESC : Dance equipment
+SONGSHRINE_FIRST_DESC : First he gets hit
+CITADEL_SONG_DESC : Learn the Triple Castle Song
+FIRST_SILK_SKILL_NAME : they are connected
+WHITE_FLOWER_GAINED_NAME : Man
+GOURMAND_WISH_DESC : The best and most abundant food
+ALL_SILK_SPOOLS_NAME : Expansion
+SONGSHRINE_FIRST_NAME : I woke up
+FIRST_MASK_DESC : Take a piece for 4 people.
+STEEL_SOUL_FULL_NAME : heart of steel
+DEFEATED_LACE_1_NAME : Welcome to the studio
+DEFEATED_CORAL_KING_DESC : The king was defeated by Skaba Khan
+ENDING_E_NAME : Sister of the Void
+SHAKRA_FINAL_QUEST_DESC : Chakra wish fulfillment
+BELLWAY_MELODY_NAME : to connect
+MEMENTO_FULL_NAME : Spicy
+FIRST_CREST_NAME : share
+TUBES_FULL_NAME : translation
+DEFEATED_BELLBEAST_NAME : Cowardly
+FLEAS_ALL_DESC : Rescue all the lost fleas on the farm and get the main gift.
+ENDING_C_DESC : Defeat Great Mother Silk and capture her with the Seoul Trap.
+HEART_OF_PHARLOOM_NAME : In the heart of Paruma
+ENDING_ANY_NAME : (right end)
+FIRST_SILK_SPOOL_DESC : remove the 2 parts of the drum
+FLEAS_HALF_DESC : Save the half-lost mosquitoes.
+HIDDEN_ACHIEVEMENT : This is a secret.
+EVA_FINAL_QUEST_DESC : Contact Eva

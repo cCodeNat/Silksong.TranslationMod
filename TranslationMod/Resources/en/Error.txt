@@ -1,0 +1,5 @@
+OK : tender
+SAVE_FAILED_DESC : Try again. If the problem persists, visit teamcherry.com.au/help for more information.
+SAVE_CORRUPTED_TITLE : I can't read the file from the cache.
+SAVE_CORRUPTED_DESC : Try restoring the automatic backup using the following options:
+SAVE_FAILED_TITLE : Cannot write or save.

@@ -1,0 +1,23 @@
+STATION_NAME_SHELLWOOD : he barks
+STATION_NAME_DOCKS : Dark dog
+STATION_NAME_SHADOW : Flaw
+TUBE_NAME_HANG : large hall
+TUBE_LIST_TITLE : In Natorika
+TUBE_NAME_SONG : Altar
+TUBE_NAME_HUB : terminal
+STATION_NAME_BONEFOREST_EAST : distant places
+STATION_NAME_WEAVE : Nest material
+MAP_LIST_TITLE : Bellevue
+STATION_NAME_CITADEL : Bellevue is great
+TUBE_NAME_CITYBELLWAY : Bellevue is great
+STATION_NAME_BELLTOWN : Belhart
+STATION_NAME_BONETOWN : at the bottom of this page
+PAY_TOLL_MSG : Do you want a bush?
+TUBE_NAME_ENCLAVE : the first knight
+STATION_NAME_PEAK : Plate
+STATION_NAME_AQUEDUCT : broken ties
+TUBE_NAME_UNDER : Under the work
+STATION_NAME_BONE : Fever
+STATION_NAME_CORAL_TOWER : broken step
+STATION_NAME_GREYMOOR : Grimoire
+TUBE_NAME_ARBORIUM : Less cancer
